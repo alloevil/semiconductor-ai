@@ -1,0 +1,126 @@
+{
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+  "source": "complete MP4 loaded as Blob to avoid HTTP Range limitation",
+  "results": [
+    {
+      "target": 0.5,
+      "actual": 0.5,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 24,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 29.8,
+      "actual": 29.8,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 11,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 62.1,
+      "actual": 62.1,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 17,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 94.3,
+      "actual": 94.3,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 11,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 127.5,
+      "actual": 127.5,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 12,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 159.5,
+      "actual": 159.5,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 17,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 190.2,
+      "actual": 190.2,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 15,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 223.1,
+      "actual": 223.1,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 23,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 257.7,
+      "actual": 257.7,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 17,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 292.3,
+      "actual": 292.3,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 10,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 331,
+      "actual": 331,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 76,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "target": 145,
+      "actual": 145,
+      "pass": true,
+      "readyState": 4,
+      "error": null,
+      "milliseconds": 31,
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}

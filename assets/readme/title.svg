@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">半导体入门</title>
+  <desc id="desc">从基础概念，走向设备与 AI。沿用第一集米白与青绿色的视觉设计，右侧是晶圆加工区域的简化示意。</desc>
+  <defs>
+    <clipPath id="wafer"><ellipse cx="1050" cy="130" rx="110" ry="84" /></clipPath>
+    <pattern id="dies" width="30" height="26" patternUnits="userSpaceOnUse"><rect width="25" height="21" rx="2" fill="#007F78" /></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="#F4F1E9" />
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Noto Sans CJK SC,sans-serif">
+    <text x="60" y="113" font-size="76" font-weight="700" fill="#172D38">半导体入门</text>
+    <text x="64" y="188" font-size="42" fill="#007F78">从基础概念，走向设备与 AI</text>
+  </g>
+  <ellipse cx="1050" cy="138" rx="112" ry="85" fill="#64757A" />
+  <ellipse cx="1050" cy="130" rx="112" ry="85" fill="#A6D9C3" />
+  <rect x="920" y="36" width="260" height="190" clip-path="url(#wafer)" fill="url(#dies)" />
+  <rect x="1021" y="105" width="25" height="21" rx="2" fill="#E4A64A" />
+</svg>
