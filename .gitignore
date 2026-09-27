@@ -3,5 +3,7 @@ tmp/
 .venv/
 .playwright-cli/
 output/speech/*.wav
+output/episode-*/speech/*.wav
+output/episode-*/review/*.wav
 output/playwright/readme-*.png
 output/review/http-server.log

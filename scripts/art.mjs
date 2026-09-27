@@ -22,14 +22,14 @@ export function text(context, value, left, top, size = 32, color = palette.ink, 
   context.fillText(value, left, top);
 }
 
-function rect(context, left, top, width, height, fill, radius = 18, stroke) {
+export function rect(context, left, top, width, height, fill, radius = 18, stroke) {
   context.beginPath();
   context.roundRect(left, top, width, height, radius);
   if (fill) {context.fillStyle = fill; context.fill();}
   if (stroke) {context.strokeStyle = stroke; context.lineWidth = 2; context.stroke();}
 }
 
-function line(context, points, color = palette.line, width = 3, dash = []) {
+export function line(context, points, color = palette.line, width = 3, dash = []) {
   context.beginPath();
   context.moveTo(...points[0]);
   for (const point of points.slice(1)) context.lineTo(...point);
@@ -42,7 +42,7 @@ function line(context, points, color = palette.line, width = 3, dash = []) {
   context.setLineDash([]);
 }
 
-function arrow(context, left, top, right, bottom, color = palette.teal, progress = 1) {
+export function arrow(context, left, top, right, bottom, color = palette.teal, progress = 1) {
   const endX = mix(left, right, progress);
   const endY = mix(top, bottom, progress);
   line(context, [[left, top], [endX, endY]], color, 4);
@@ -52,18 +52,18 @@ function arrow(context, left, top, right, bottom, color = palette.teal, progress
   }
 }
 
-function dot(context, centerX, centerY, radius, fill) {
+export function dot(context, centerX, centerY, radius, fill) {
   context.beginPath(); context.arc(centerX, centerY, radius, 0, TAU); context.fillStyle = fill; context.fill();
 }
 
-function tag(context, label, left, top, color = palette.teal, fill = palette.pale, width) {
+export function tag(context, label, left, top, color = palette.teal, fill = palette.pale, width) {
   context.font = '500 24px "Noto CJK"';
   const tagWidth = width || context.measureText(label).width + 34;
   rect(context, left, top - 23, tagWidth, 46, fill, 23);
   text(context, label, left + tagWidth / 2, top, 24, color, 500, 'center');
 }
 
-function reveal(context, time, start, draw, distance = 22) {
+export function reveal(context, time, start, draw, distance = 22) {
   const progress = ease((time - start) / 0.85);
   if (progress <= 0) return;
   context.save(); context.globalAlpha *= progress; context.translate(0, (1 - progress) * distance); draw(); context.restore();
@@ -77,7 +77,7 @@ function after(scene, time, keyword, fraction = 0.5) {
   return ease((time - cueTime(scene, keyword, fraction)) / 1.1);
 }
 
-function callout(context, heading, detail = '', color = palette.teal) {
+export function callout(context, heading, detail = '', color = palette.teal) {
   rect(context, 100, 808, 1720, 80, palette.white, 16, palette.line);
   rect(context, 100, 808, 7, 80, color, 3);
   text(context, heading, 133, 847, 30, color, 700);
@@ -97,7 +97,7 @@ function lattice(context, centerX, centerY, scale = 1, time = 0, color = palette
   }
 }
 
-function wafer(context, centerX, centerY, radius, time, patterned = 1, selected = false) {
+export function wafer(context, centerX, centerY, radius, time, patterned = 1, selected = false) {
   context.save(); context.translate(centerX, centerY); context.scale(1, 0.65);
   context.save(); context.translate(0, 17);
   dot(context, 0, 0, radius, '#42606C'); context.restore();

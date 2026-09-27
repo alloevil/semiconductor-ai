@@ -1,0 +1,159 @@
+{
+  "method": "Decode final MP4 at 90% of each process scene; sample material colors at fixed cross-section coordinates; tolerance 20/255 per RGB channel for encoding",
+  "pass": true,
+  "results": [
+    {
+      "scene": "03",
+      "label": "曝光后：光束覆盖的光刻胶仍在",
+      "point": [
+        340,
+        475
+      ],
+      "color": "#F2CE8F",
+      "time": 101.06666666666666,
+      "actualRgb": [
+        245,
+        211,
+        150
+      ],
+      "maxChannelDifference": 7,
+      "pass": true
+    },
+    {
+      "scene": "03",
+      "label": "曝光后：目标膜未被光移除",
+      "point": [
+        370,
+        550
+      ],
+      "color": "#007F78",
+      "time": 101.06666666666666,
+      "actualRgb": [
+        0,
+        124,
+        132
+      ],
+      "maxChannelDifference": 12,
+      "pass": true
+    },
+    {
+      "scene": "04",
+      "label": "显影后：曝光胶被去除",
+      "point": [
+        340,
+        475
+      ],
+      "color": "#FFFDF8",
+      "time": 134.97,
+      "actualRgb": [
+        253,
+        252,
+        246
+      ],
+      "maxChannelDifference": 2,
+      "pass": true
+    },
+    {
+      "scene": "04",
+      "label": "显影后：目标膜仍完整",
+      "point": [
+        370,
+        550
+      ],
+      "color": "#007F78",
+      "time": 134.97,
+      "actualRgb": [
+        0,
+        124,
+        132
+      ],
+      "maxChannelDifference": 12,
+      "pass": true
+    },
+    {
+      "scene": "05",
+      "label": "刻蚀后：开口下的目标膜被移除",
+      "point": [
+        370,
+        550
+      ],
+      "color": "#FFFDF8",
+      "time": 169.32666666666668,
+      "actualRgb": [
+        253,
+        252,
+        246
+      ],
+      "maxChannelDifference": 2,
+      "pass": true
+    },
+    {
+      "scene": "05",
+      "label": "刻蚀后：保护区域的胶仍在",
+      "point": [
+        220,
+        475
+      ],
+      "color": "#E4A64A",
+      "time": 169.32666666666668,
+      "actualRgb": [
+        236,
+        174,
+        76
+      ],
+      "maxChannelDifference": 8,
+      "pass": true
+    },
+    {
+      "scene": "05",
+      "label": "刻蚀后：保护区域的膜仍在",
+      "point": [
+        220,
+        550
+      ],
+      "color": "#007F78",
+      "time": 169.32666666666668,
+      "actualRgb": [
+        0,
+        124,
+        132
+      ],
+      "maxChannelDifference": 12,
+      "pass": true
+    },
+    {
+      "scene": "06",
+      "label": "去胶后：保护胶被移除",
+      "point": [
+        220,
+        475
+      ],
+      "color": "#FFFDF8",
+      "time": 203.45666666666668,
+      "actualRgb": [
+        253,
+        252,
+        246
+      ],
+      "maxChannelDifference": 2,
+      "pass": true
+    },
+    {
+      "scene": "06",
+      "label": "去胶后：已图案化目标膜保留",
+      "point": [
+        220,
+        550
+      ],
+      "color": "#007F78",
+      "time": 203.45666666666668,
+      "actualRgb": [
+        0,
+        124,
+        132
+      ],
+      "maxChannelDifference": 12,
+      "pass": true
+    }
+  ]
+}

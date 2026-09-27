@@ -3,6 +3,15 @@ import {spawnSync} from 'node:child_process';
 import {createHash} from 'node:crypto';
 import ffmpeg from 'ffmpeg-static';
 import ffprobe from 'ffprobe-static';
+import {resolve} from 'node:path';
+
+export const episode = process.argv.find(argument => argument.startsWith('--episode='))?.split('=')[1] || '01';
+if (!['01', '02'].includes(episode)) throw new Error(`Unsupported episode: ${episode}`);
+export const outputDir = episode === '01' ? 'output' : `output/episode-${episode}`;
+export const tempDir = episode === '01' ? 'tmp' : `tmp/episode-${episode}`;
+export const artFile = episode === '01' ? 'art.mjs' : `art-${episode}.mjs`;
+export const episodeTitle = episode === '01' ? '半导体、晶体管、芯片和晶圆' : '芯片是怎样制造出来的？';
+export const absolute = resolve;
 
 export const settings = {width: 1920, height: 1080, fps: 30, lead: 1.0, tail: 1.8, voice: 'zh-CN-XiaoxiaoNeural', rate: '-10%'};
 export const encoder = ffmpeg;
@@ -19,7 +28,7 @@ export function mediaInfo(file) {
 }
 
 export function readScenes() {
-  const document = readFileSync('content/episode-01.md', 'utf8');
+  const document = readFileSync(`content/episode-${episode}.md`, 'utf8');
   return [...document.matchAll(/^## (\d{2})｜[^\n]+｜([^\n]+)\n([\s\S]*?)(?=^## |$(?![\s\S]))/gm)].map(match => ({
     id: match[1], title: match[2], narration: match[3].match(/### 旁白\n\n([\s\S]*?)\n\n### 分镜/)[1].trim(),
   }));
@@ -57,5 +66,5 @@ export function saveJson(file, value) {
 }
 
 export function makeDirectories() {
-  for (const directory of ['output', 'output/speech', 'output/frames', 'tmp/segments', 'tmp/speech']) mkdirSync(directory, {recursive: true});
+  for (const directory of [outputDir, `${outputDir}/speech`, `${outputDir}/frames`, `${tempDir}/segments`, `${tempDir}/speech`]) mkdirSync(directory, {recursive: true});
 }

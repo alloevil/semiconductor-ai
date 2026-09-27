@@ -1,0 +1,56 @@
+{
+  "pass": true,
+  "method": "Compare final AAC-decoded audio to normalized source PCM at identical sample offsets; threshold >0.99",
+  "results": [
+    {
+      "scene": "01",
+      "zeroLagCorrelation": 0.999982,
+      "pass": true
+    },
+    {
+      "scene": "02",
+      "zeroLagCorrelation": 0.999984,
+      "pass": true
+    },
+    {
+      "scene": "03",
+      "zeroLagCorrelation": 0.999988,
+      "pass": true
+    },
+    {
+      "scene": "04",
+      "zeroLagCorrelation": 0.999988,
+      "pass": true
+    },
+    {
+      "scene": "05",
+      "zeroLagCorrelation": 0.999981,
+      "pass": true
+    },
+    {
+      "scene": "06",
+      "zeroLagCorrelation": 0.999977,
+      "pass": true
+    },
+    {
+      "scene": "07",
+      "zeroLagCorrelation": 0.999987,
+      "pass": true
+    },
+    {
+      "scene": "08",
+      "zeroLagCorrelation": 0.999982,
+      "pass": true
+    },
+    {
+      "scene": "09",
+      "zeroLagCorrelation": 0.999983,
+      "pass": true
+    },
+    {
+      "scene": "10",
+      "zeroLagCorrelation": 0.999979,
+      "pass": true
+    }
+  ]
+}
