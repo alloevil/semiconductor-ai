@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2026-09-27T15:55:24.120Z",
+  "pass": true,
+  "episodes": [
+    {
+      "episode": "01",
+      "file": "output/episode-01.mp4",
+      "seconds": 336.467,
+      "bytes": 14046939,
+      "sha256": "2ebb945dcb5ddb6e6bed779a10e767620afd36ccb0bceabd6cafb35b1f7259b4",
+      "checks": 42,
+      "subtitleCues": 57,
+      "pass": true
+    },
+    {
+      "episode": "02",
+      "file": "output/episode-02/episode-02.mp4",
+      "seconds": 360.834,
+      "bytes": 13294937,
+      "sha256": "4db7072d756ae84c5178ee7602562d80fb383be23117a0605827fe8b29604a3f",
+      "checks": 42,
+      "subtitleCues": 52,
+      "pass": true
+    },
+    {
+      "episode": "03",
+      "file": "output/episode-03/episode-03.mp4",
+      "seconds": 368.867,
+      "bytes": 13451602,
+      "sha256": "40acea9842e948bded593e7cf09f229e626f1b7b09d606e66450b6ba4a2c9df1",
+      "checks": 42,
+      "subtitleCues": 53,
+      "pass": true
+    },
+    {
+      "episode": "04",
+      "file": "output/episode-04/episode-04.mp4",
+      "seconds": 374.567,
+      "bytes": 13636625,
+      "sha256": "318475b8979f9f76098d786c8e03175beb27ecc866e17106e0d6740f95951a49",
+      "checks": 42,
+      "subtitleCues": 48,
+      "pass": true
+    },
+    {
+      "episode": "05",
+      "file": "output/episode-05/episode-05.mp4",
+      "seconds": 383.3,
+      "bytes": 14013813,
+      "sha256": "c733a050d23a9ec831aebca00ef19f051816aa927a2033b803d27e068db974be",
+      "checks": 42,
+      "subtitleCues": 49,
+      "pass": true
+    }
+  ],
+  "totalSeconds": 1824.0349999999999,
+  "totalChecks": 219,
+  "unchangedPublishedEpisodes": [
+    "01",
+    "02"
+  ],
+  "limitations": [
+    "No human sentence-by-sentence audio review",
+    "Public distribution and commercial terms of synthesized voice remain unverified",
+    "Not an expert-reviewed course or equipment operating procedure"
+  ]
+}

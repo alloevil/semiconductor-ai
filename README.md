@@ -6,7 +6,21 @@
 
 **给零基础观众的中文科普动画：先看懂半导体，再理解芯片制造、设备公司与 AI。**
 
-当前提供前两集**科普试播版**，不是已完成的五集课程，也未经过行业专家审校。
+**五集制作齐全，约 30 分钟。** 每集都有原创动画、中文 AI 配音、内嵌字幕、旁白分镜和验证记录。仍为**科普试播版**，未经行业专家审校，配音使用条款尚待核实。
+
+## 五集观看目录
+
+按顺序观看即可，无需安装任何工具。点击 MP4 可下载；手机建议横屏全屏。
+
+| 集数 | 主题 | 成片 | 脚本 |
+| --- | --- | --- | --- |
+| 01 | 半导体、晶体管、芯片与晶圆 | [MP4 · 5:36](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-01.mp4) | [旁白与分镜](content/episode-01.md) |
+| 02 | 芯片怎样制造出来 | [MP4 · 6:01](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-02/episode-02.mp4) | [旁白与来源](content/episode-02.md) |
+| 03 | 产业链：谁设计、谁制造、谁提供工具 | [MP4 · 6:09](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-03/episode-03.mp4) | [旁白与分镜](content/episode-03.md) |
+| 04 | 设备公司：研发、交付与长期服务 | [MP4 · 6:15](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-04/episode-04.mp4) | [旁白与分镜](content/episode-04.md) |
+| 05 | AI：具体问题、数据与验收 | [MP4 · 6:23](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-05/episode-05.mp4) | [旁白与分镜](content/episode-05.md) |
+
+[全套制作与验收说明](output/全套说明.md) · [全套机器验证](output/series-verification.json) · [第三至第五集来源与边界](content/series-sources.md)
 
 ## 先看第一集
 
@@ -36,9 +50,9 @@
 
 1. **半导体基础** — 第一集已发布：材料、晶体管、芯片与晶圆。
 2. **芯片制造** — 第二集已发布：沉积、光刻、刻蚀、清洗与量测。
-3. **产业链** — 规划中：设计公司、晶圆厂、设备商、材料商与封测厂。
-4. **设备制造公司** — 规划中：研发、装配、调试、交付与维护。
-5. **AI 应用** — 规划中：从业务问题、数据条件和验收指标出发。
+3. **产业链** — 已制作：设计公司、晶圆厂、设备商、材料商、封测与 EDA/IP；区分角色与企业模式。
+4. **设备制造公司** — 已制作：用典型生命周期讲需求、研发、装配、调试、交付与维护；不冒充具体公司的内部 SOP。
+5. **AI 应用** — 已制作：知识助手、排障、维护、优化与检测；区分公开产品与教学建议，不承诺收益。
 
 ## 不只有视频，也保留制作过程
 
@@ -47,11 +61,11 @@
 - **按语音编排**：使用句级时间边界对齐字幕，根据实际配音长度安排场景。
 - **可断点重制**：旁白与渲染分段缓存，输入变化后重新生成对应产物。
 
-没有使用参考视频的画面、音乐或旁白。参考资料的适用范围与简化边界见 [sources](content/references.md)。
+没有使用参考视频的画面、音乐或旁白。参考资料见 [第一集来源](content/references.md)、[第二集来源](content/episode-02.md)、[第三至第五集来源](content/series-sources.md)。
 
 ## 验证证据
 
-以下为第一集的本机实测，不是跨平台兼容性承诺；第二集的独立验收报告见上方链接：
+`npm run check:all` 检查全部五集；每集报告位于各自输出目录，完整结果见 [series-verification.json](output/series-verification.json)。下面保留第一集的本机实测记录，不是其他集或跨平台兼容性承诺：
 
 - `npm run check`：**42 项检查通过**，全部 10,094 帧及音轨解码通过。
 - Chrome 153 正常速度播完，12 个位置跳转通过；正常播放记录到 1 帧丢帧。
@@ -79,7 +93,7 @@ npm run check
 
 成片输出到 `output/episode-01.mp4`。仓库保留分段 MP3 与句级字幕缓存，不提交较大的中间 WAV、模型、依赖目录或浏览器会话。
 
-制作第二集时，给同一组命令增加集数参数：
+制作第二至第五集时，给同一组命令增加集数参数，下面以第二集为例：
 
 ```sh
 npm run prepare:audio -- --episode=02
@@ -90,6 +104,8 @@ node scripts/check-process.mjs --episode=02
 ```
 
 第二集输出到 `output/episode-02/`，不会覆盖第一集。对应脚本为 `content/episode-02.md`，动画为 `scripts/art-02.mjs`。
+
+把参数改为 `--episode=03`、`04`、`05` 可分别重制后三集，产物和缓存按集隔离。后三集图解在 `scripts/art-business.mjs`；全部制作完后运行 `npm run check:all`。系统字体、网络语音和机器试听限制同前。
 
 | 想修改什么 | 文件 |
 | --- | --- |

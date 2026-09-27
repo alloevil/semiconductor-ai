@@ -6,11 +6,11 @@ import ffprobe from 'ffprobe-static';
 import {resolve} from 'node:path';
 
 export const episode = process.argv.find(argument => argument.startsWith('--episode='))?.split('=')[1] || '01';
-if (!['01', '02'].includes(episode)) throw new Error(`Unsupported episode: ${episode}`);
+if (!['01', '02', '03', '04', '05'].includes(episode)) throw new Error(`Unsupported episode: ${episode}`);
 export const outputDir = episode === '01' ? 'output' : `output/episode-${episode}`;
 export const tempDir = episode === '01' ? 'tmp' : `tmp/episode-${episode}`;
-export const artFile = episode === '01' ? 'art.mjs' : `art-${episode}.mjs`;
-export const episodeTitle = episode === '01' ? '半导体、晶体管、芯片和晶圆' : '芯片是怎样制造出来的？';
+export const artFile = episode === '01' ? 'art.mjs' : episode === '02' ? 'art-02.mjs' : 'art-business.mjs';
+export const episodeTitle = {'01': '半导体、晶体管、芯片和晶圆', '02': '芯片是怎样制造出来的？', '03': '半导体产业链：谁在做什么？', '04': '半导体设备公司到底在做什么？', '05': 'AI 能在设备公司解决什么问题？'}[episode];
 export const absolute = resolve;
 
 export const settings = {width: 1920, height: 1080, fps: 30, lead: 1.0, tail: 1.8, voice: 'zh-CN-XiaoxiaoNeural', rate: '-10%'};

@@ -1,0 +1,91 @@
+{
+  "episode": "05",
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+  "method": "Full MP4 Blob, 12 seek positions with actual time assertions",
+  "results": [
+    {
+      "target": 2,
+      "actual": 2,
+      "pass": true,
+      "error": null,
+      "milliseconds": 53
+    },
+    {
+      "target": 38.6,
+      "actual": 38.6,
+      "pass": true,
+      "error": null,
+      "milliseconds": 51
+    },
+    {
+      "target": 74.96666666666667,
+      "actual": 74.966666,
+      "pass": true,
+      "error": null,
+      "milliseconds": 53
+    },
+    {
+      "target": 113.13333333333333,
+      "actual": 113.133333,
+      "pass": true,
+      "error": null,
+      "milliseconds": 48
+    },
+    {
+      "target": 151.46666666666667,
+      "actual": 151.466666,
+      "pass": true,
+      "error": null,
+      "milliseconds": 49
+    },
+    {
+      "target": 188.86666666666667,
+      "actual": 188.866666,
+      "pass": true,
+      "error": null,
+      "milliseconds": 50
+    },
+    {
+      "target": 226.83333333333334,
+      "actual": 226.833333,
+      "pass": true,
+      "error": null,
+      "milliseconds": 49
+    },
+    {
+      "target": 266.06666666666666,
+      "actual": 266.066666,
+      "pass": true,
+      "error": null,
+      "milliseconds": 45
+    },
+    {
+      "target": 303.3,
+      "actual": 303.3,
+      "pass": true,
+      "error": null,
+      "milliseconds": 54
+    },
+    {
+      "target": 340.3666666666667,
+      "actual": 340.366666,
+      "pass": true,
+      "error": null,
+      "milliseconds": 50
+    },
+    {
+      "target": 377.3,
+      "actual": 377.3,
+      "pass": true,
+      "error": null,
+      "milliseconds": 69
+    },
+    {
+      "target": 288.2683333333333,
+      "actual": 288.268333,
+      "pass": true,
+      "error": null,
+      "milliseconds": 157
+    }
+  ]
+}

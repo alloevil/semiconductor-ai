@@ -1,0 +1,44 @@
+{
+  "pass": true,
+  "scope": "Episodes 03–05 final videos; episodes 01–02 have prior independent browser evidence",
+  "episodes": [
+    {
+      "episode": "03",
+      "playbackEnded": true,
+      "samples": 369,
+      "droppedFrames": 0,
+      "seeksPassed": 12,
+      "audioCorrelationMin": 0.999972,
+      "asrCharacters": 1207,
+      "asrEdits": 72,
+      "videoSha256": "40acea9842e948bded593e7cf09f229e626f1b7b09d606e66450b6ba4a2c9df1"
+    },
+    {
+      "episode": "04",
+      "playbackEnded": true,
+      "samples": 374,
+      "droppedFrames": 1,
+      "seeksPassed": 12,
+      "audioCorrelationMin": 0.999981,
+      "asrCharacters": 1231,
+      "asrEdits": 48,
+      "videoSha256": "318475b8979f9f76098d786c8e03175beb27ecc866e17106e0d6740f95951a49"
+    },
+    {
+      "episode": "05",
+      "playbackEnded": true,
+      "samples": 383,
+      "droppedFrames": 3,
+      "seeksPassed": 12,
+      "audioCorrelationMin": 0.999979,
+      "asrCharacters": 1272,
+      "asrEdits": 61,
+      "videoSha256": "c733a050d23a9ec831aebca00ef19f051816aa927a2033b803d27e068db974be"
+    }
+  ],
+  "limitations": [
+    "No human full audio review",
+    "Synthesized voice usage terms not verified",
+    "One local Chrome platform only"
+  ]
+}

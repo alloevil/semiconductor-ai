@@ -1,0 +1,242 @@
+{
+  "generatedAt": "2026-09-27T15:54:58.270Z",
+  "pass": true,
+  "file": "output/episode-03/episode-03.mp4",
+  "bytes": 13451602,
+  "sha256": "40acea9842e948bded593e7cf09f229e626f1b7b09d606e66450b6ba4a2c9df1",
+  "duration": 368.867,
+  "checks": [
+    {
+      "name": "十段旁白与原稿一致",
+      "pass": true,
+      "evidence": "10 scenes"
+    },
+    {
+      "name": "场景 01 时间连续",
+      "pass": true,
+      "evidence": "0.000–34.900s"
+    },
+    {
+      "name": "场景 01 无截断配音",
+      "pass": true,
+      "evidence": "voice=32.088s, scene=34.900s"
+    },
+    {
+      "name": "场景 02 时间连续",
+      "pass": true,
+      "evidence": "34.900–69.333s"
+    },
+    {
+      "name": "场景 02 无截断配音",
+      "pass": true,
+      "evidence": "voice=31.632s, scene=34.433s"
+    },
+    {
+      "name": "场景 03 时间连续",
+      "pass": true,
+      "evidence": "69.333–104.533s"
+    },
+    {
+      "name": "场景 03 无截断配音",
+      "pass": true,
+      "evidence": "voice=32.376s, scene=35.200s"
+    },
+    {
+      "name": "场景 04 时间连续",
+      "pass": true,
+      "evidence": "104.533–141.533s"
+    },
+    {
+      "name": "场景 04 无截断配音",
+      "pass": true,
+      "evidence": "voice=34.200s, scene=37.000s"
+    },
+    {
+      "name": "场景 05 时间连续",
+      "pass": true,
+      "evidence": "141.533–179.067s"
+    },
+    {
+      "name": "场景 05 无截断配音",
+      "pass": true,
+      "evidence": "voice=34.704s, scene=37.533s"
+    },
+    {
+      "name": "场景 06 时间连续",
+      "pass": true,
+      "evidence": "179.067–216.067s"
+    },
+    {
+      "name": "场景 06 无截断配音",
+      "pass": true,
+      "evidence": "voice=34.200s, scene=37.000s"
+    },
+    {
+      "name": "场景 07 时间连续",
+      "pass": true,
+      "evidence": "216.067–252.567s"
+    },
+    {
+      "name": "场景 07 无截断配音",
+      "pass": true,
+      "evidence": "voice=33.696s, scene=36.500s"
+    },
+    {
+      "name": "场景 08 时间连续",
+      "pass": true,
+      "evidence": "252.567–288.200s"
+    },
+    {
+      "name": "场景 08 无截断配音",
+      "pass": true,
+      "evidence": "voice=32.832s, scene=35.633s"
+    },
+    {
+      "name": "场景 09 时间连续",
+      "pass": true,
+      "evidence": "288.200–324.067s"
+    },
+    {
+      "name": "场景 09 无截断配音",
+      "pass": true,
+      "evidence": "voice=33.048s, scene=35.867s"
+    },
+    {
+      "name": "场景 10 时间连续",
+      "pass": true,
+      "evidence": "324.067–359.867s"
+    },
+    {
+      "name": "场景 10 无截断配音",
+      "pass": true,
+      "evidence": "voice=32.976s, scene=35.800s"
+    },
+    {
+      "name": "字幕文字完整覆盖旁白",
+      "pass": true,
+      "evidence": "53 cues"
+    },
+    {
+      "name": "字幕时间不重叠且在视频范围内",
+      "pass": true,
+      "evidence": "53 cues"
+    },
+    {
+      "name": "字幕最多两行",
+      "pass": true,
+      "evidence": "maximum=2 lines"
+    },
+    {
+      "name": "视频编码和尺寸",
+      "pass": true,
+      "evidence": "h264 1920x1080 yuv420p"
+    },
+    {
+      "name": "帧率为 30 fps",
+      "pass": true,
+      "evidence": "30/1"
+    },
+    {
+      "name": "总帧数完整",
+      "pass": true,
+      "evidence": "11066/11066"
+    },
+    {
+      "name": "中文音轨存在",
+      "pass": true,
+      "evidence": "aac 48000Hz 1 channel"
+    },
+    {
+      "name": "音画时长一致",
+      "pass": true,
+      "evidence": {
+        "video": "368.866992",
+        "audio": "368.833000",
+        "target": 368.8666666666667
+      }
+    },
+    {
+      "name": "章节已嵌入视频",
+      "pass": true,
+      "evidence": "11 chapters"
+    },
+    {
+      "name": "全片音视频解码",
+      "pass": true,
+      "evidence": "FFmpeg decoded every video frame and audio packet without error"
+    },
+    {
+      "name": "音轨非静音且无满幅削波",
+      "pass": true,
+      "evidence": {
+        "meanDb": -18.6,
+        "peakDb": -2
+      }
+    },
+    {
+      "name": "场景 01 主画面随时间变化",
+      "pass": true,
+      "evidence": "9.76% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 02 主画面随时间变化",
+      "pass": true,
+      "evidence": "11.10% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 03 主画面随时间变化",
+      "pass": true,
+      "evidence": "12.34% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 04 主画面随时间变化",
+      "pass": true,
+      "evidence": "10.43% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 05 主画面随时间变化",
+      "pass": true,
+      "evidence": "0.12% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 06 主画面随时间变化",
+      "pass": true,
+      "evidence": "15.01% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 07 主画面随时间变化",
+      "pass": true,
+      "evidence": "10.26% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 08 主画面随时间变化",
+      "pass": true,
+      "evidence": "11.25% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 09 主画面随时间变化",
+      "pass": true,
+      "evidence": "9.89% of diagram pixels changed (subtitles excluded)"
+    },
+    {
+      "name": "场景 10 主画面随时间变化",
+      "pass": true,
+      "evidence": "2.29% of diagram pixels changed (subtitles excluded)"
+    }
+  ],
+  "visualEvidence": [
+    "output/episode-03/frames/video-01.png",
+    "output/episode-03/frames/video-02.png",
+    "output/episode-03/frames/video-03.png",
+    "output/episode-03/frames/video-04.png",
+    "output/episode-03/frames/video-05.png",
+    "output/episode-03/frames/video-06.png",
+    "output/episode-03/frames/video-07.png",
+    "output/episode-03/frames/video-08.png",
+    "output/episode-03/frames/video-09.png",
+    "output/episode-03/frames/video-10.png"
+  ],
+  "limitations": [
+    "画面通过实际解码抽帧检查；不将机器检查等同于人工完整观看和试听。"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "pass": true,
+  "videoSha256": "40acea9842e948bded593e7cf09f229e626f1b7b09d606e66450b6ba4a2c9df1",
+  "method": "Correlation at identical sample offsets against normalized source PCM; threshold >0.99 per scene",
+  "results": [
+    {
+      "scene": "01",
+      "zeroLagCorrelation": 0.999986,
+      "pass": true
+    },
+    {
+      "scene": "02",
+      "zeroLagCorrelation": 0.999983,
+      "pass": true
+    },
+    {
+      "scene": "03",
+      "zeroLagCorrelation": 0.999985,
+      "pass": true
+    },
+    {
+      "scene": "04",
+      "zeroLagCorrelation": 0.999983,
+      "pass": true
+    },
+    {
+      "scene": "05",
+      "zeroLagCorrelation": 0.999983,
+      "pass": true
+    },
+    {
+      "scene": "06",
+      "zeroLagCorrelation": 0.999984,
+      "pass": true
+    },
+    {
+      "scene": "07",
+      "zeroLagCorrelation": 0.999982,
+      "pass": true
+    },
+    {
+      "scene": "08",
+      "zeroLagCorrelation": 0.999986,
+      "pass": true
+    },
+    {
+      "scene": "09",
+      "zeroLagCorrelation": 0.999972,
+      "pass": true
+    },
+    {
+      "scene": "10",
+      "zeroLagCorrelation": 0.999984,
+      "pass": true
+    }
+  ]
+}

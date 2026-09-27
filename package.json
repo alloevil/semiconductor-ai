@@ -10,7 +10,8 @@
     "prepare:audio": "node scripts/prepare-audio.mjs",
     "preview": "node scripts/render.mjs --stills",
     "render": "node scripts/render.mjs",
-    "check": "node scripts/verify.mjs"
+    "check": "node scripts/verify.mjs",
+    "check:all": "node scripts/check-series.mjs"
   },
   "dependencies": {
     "@napi-rs/canvas": "1.0.9",
