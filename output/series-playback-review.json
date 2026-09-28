@@ -1,6 +1,6 @@
 {
   "pass": true,
-  "scope": "All five current teaching-revision videos; full normal-speed Chrome playback, 12 seeks per video; SHA-256 bound to each artifact",
+  "scope": "Episodes 03\u201305 revalidated after object-process revision; episodes 01\u201302 unchanged with prior final-artifact evidence.",
   "episodes": [
     {
       "episode": "01",
@@ -28,34 +28,34 @@
       "episode": "03",
       "playbackEnded": true,
       "samples": 374,
-      "droppedFrames": 1,
+      "droppedFrames": 4,
       "seeksPassed": 12,
       "audioCorrelationMin": 0.999972,
       "asrCharacters": 1207,
       "asrEdits": 71,
-      "videoSha256": "736f49882a45492b651ff540e064d46ad65178193fa9ab65082e115bfedc84c9"
+      "videoSha256": "9233d5d36e44734cfda24ab83eb757a14e544f1191bf450d0996c36753095aa1"
     },
     {
       "episode": "04",
       "playbackEnded": true,
       "samples": 374,
-      "droppedFrames": 1,
+      "droppedFrames": 0,
       "seeksPassed": 12,
       "audioCorrelationMin": 0.999981,
       "asrCharacters": 1231,
       "asrEdits": 48,
-      "videoSha256": "0936b076be33a40b12a4ca52a1a53b55e99b96b3bd0cccaaa2b2a14ad717e4ee"
+      "videoSha256": "5842dc751674b22b1cf7b1c1477ea3e2694de042ff2f5a0055ee9b65c785a5ec"
     },
     {
       "episode": "05",
       "playbackEnded": true,
       "samples": 383,
-      "droppedFrames": 2,
+      "droppedFrames": 8,
       "seeksPassed": 12,
       "audioCorrelationMin": 0.999979,
       "asrCharacters": 1272,
       "asrEdits": 61,
-      "videoSha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884"
+      "videoSha256": "34bbf070efb1a4705176476b9554d29e879e700e567c960c7ff4a4a43eb04f57"
     }
   ],
   "limitations": [

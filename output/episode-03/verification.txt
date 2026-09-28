@@ -33,7 +33,7 @@ PASS 音轨非静音且无满幅削波: {"meanDb":-18.6,"peakDb":-2}
 PASS 场景 01 主画面随时间变化: "18.50% of diagram pixels changed (subtitles excluded)"
 PASS 场景 02 主画面随时间变化: "5.34% of diagram pixels changed (subtitles excluded)"
 PASS 场景 03 主画面随时间变化: "12.09% of diagram pixels changed (subtitles excluded)"
-PASS 场景 04 主画面随时间变化: "0.72% of diagram pixels changed (subtitles excluded)"
+PASS 场景 04 主画面随时间变化: "11.56% of diagram pixels changed (subtitles excluded)"
 PASS 场景 05 主画面随时间变化: "0.12% of diagram pixels changed (subtitles excluded)"
 PASS 场景 06 主画面随时间变化: "7.12% of diagram pixels changed (subtitles excluded)"
 PASS 场景 07 主画面随时间变化: "0.11% of diagram pixels changed (subtitles excluded)"

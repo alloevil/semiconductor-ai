@@ -1,0 +1,63 @@
+{
+  "episode": "05",
+  "scene": "07",
+  "pass": true,
+  "checks": [
+    {
+      "name": "逐帧身份不变及状态单调",
+      "pass": true,
+      "evidence": {
+        "frames": 1177,
+        "errors": []
+      }
+    },
+    {
+      "name": "动作完成但不伪造质量批准",
+      "pass": true,
+      "evidence": {
+        "kind": "records",
+        "align": 1,
+        "reject": 1,
+        "ids": [
+          "客户 A",
+          "ET-01",
+          "RUN-17",
+          "W03"
+        ],
+        "rejectedRun": "RUN-16",
+        "actualThickness": null,
+        "acceptedWrongRecord": false,
+        "certified": false
+      }
+    },
+    {
+      "name": "含坐标变换的文字不越界",
+      "pass": true,
+      "evidence": []
+    }
+  ],
+  "samples": [
+    1,
+    1.4000000000000001,
+    2.6,
+    4.18,
+    4.4799999999999995,
+    5.68,
+    8.18,
+    13.536000000000001,
+    14.736,
+    17.236,
+    18.522000000000002,
+    19.722,
+    22.222,
+    25.911,
+    27.111,
+    29.611,
+    33.937999999999995,
+    35.138,
+    37.347,
+    38.233333333333334
+  ],
+  "videoSha256": "34bbf070efb1a4705176476b9554d29e879e700e567c960c7ff4a4a43eb04f57",
+  "limits": "Model invariants and rendered text checks do not establish physical fidelity or learner outcomes. Actual decoded frames require visual review."
+}

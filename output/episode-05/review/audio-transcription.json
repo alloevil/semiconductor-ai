@@ -1,6 +1,6 @@
 {
   "episode": "05",
-  "videoSha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884",
+  "videoSha256": "34bbf070efb1a4705176476b9554d29e879e700e567c960c7ff4a4a43eb04f57",
   "method": "Final MP4 decoded to 16kHz PCM; Whisper base CPU int8, zh, beam5, no text prompt; traditional-to-simplified normalization; not a human listening test",
   "characters": 1272,
   "editDistance": 61,

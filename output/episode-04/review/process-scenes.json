@@ -1,0 +1,57 @@
+{
+  "episode": "04",
+  "scene": "04",
+  "pass": true,
+  "checks": [
+    {
+      "name": "逐帧身份不变及状态单调",
+      "pass": true,
+      "evidence": {
+        "frames": 1109,
+        "errors": []
+      }
+    },
+    {
+      "name": "动作完成但不伪造质量批准",
+      "pass": true,
+      "evidence": {
+        "kind": "assembly",
+        "align": 1,
+        "install": 1,
+        "ids": [
+          "ET-01",
+          "P1 / R2",
+          "P2 / R1"
+        ],
+        "status": "待调试验证",
+        "certified": false
+      }
+    },
+    {
+      "name": "含坐标变换的文字不越界",
+      "pass": true,
+      "evidence": []
+    }
+  ],
+  "samples": [
+    1,
+    1.4000000000000001,
+    2.6,
+    5.1,
+    6.397,
+    7.597,
+    10.097000000000001,
+    13.355,
+    14.555,
+    17.055,
+    20.522000000000002,
+    21.722,
+    24.222,
+    25.48,
+    26.68,
+    29.18,
+    35.96666666666667
+  ],
+  "videoSha256": "5842dc751674b22b1cf7b1c1477ea3e2694de042ff2f5a0055ee9b65c785a5ec",
+  "limits": "Model invariants and rendered text checks do not establish physical fidelity or learner outcomes. Actual decoded frames require visual review."
+}

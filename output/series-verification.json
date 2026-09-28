@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:30:01.605Z",
+  "generatedAt": "2026-09-28T04:05:40.371Z",
   "pass": true,
   "episodes": [
     {
@@ -26,8 +26,8 @@
       "episode": "03",
       "file": "output/episode-03/episode-03.mp4",
       "seconds": 374.867,
-      "bytes": 13591914,
-      "sha256": "736f49882a45492b651ff540e064d46ad65178193fa9ab65082e115bfedc84c9",
+      "bytes": 13642249,
+      "sha256": "9233d5d36e44734cfda24ab83eb757a14e544f1191bf450d0996c36753095aa1",
       "checks": 42,
       "subtitleCues": 53,
       "pass": true
@@ -36,8 +36,8 @@
       "episode": "04",
       "file": "output/episode-04/episode-04.mp4",
       "seconds": 374.567,
-      "bytes": 13689595,
-      "sha256": "0936b076be33a40b12a4ca52a1a53b55e99b96b3bd0cccaaa2b2a14ad717e4ee",
+      "bytes": 13853315,
+      "sha256": "5842dc751674b22b1cf7b1c1477ea3e2694de042ff2f5a0055ee9b65c785a5ec",
       "checks": 42,
       "subtitleCues": 48,
       "pass": true
@@ -46,16 +46,17 @@
       "episode": "05",
       "file": "output/episode-05/episode-05.mp4",
       "seconds": 383.3,
-      "bytes": 14527235,
-      "sha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884",
+      "bytes": 14499975,
+      "sha256": "34bbf070efb1a4705176476b9554d29e879e700e567c960c7ff4a4a43eb04f57",
       "checks": 42,
       "subtitleCues": 49,
       "pass": true
     }
   ],
   "totalSeconds": 1845.0349999999999,
-  "totalChecks": 303,
+  "totalChecks": 312,
   "teachingChecks": 75,
+  "processSceneChecks": 9,
   "unchangedSourceNarrationFiles": 50,
   "limitations": [
     "No human sentence-by-sentence audio review",

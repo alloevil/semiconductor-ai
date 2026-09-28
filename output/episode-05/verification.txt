@@ -36,7 +36,7 @@ PASS 场景 03 主画面随时间变化: "0.13% of diagram pixels changed (subti
 PASS 场景 04 主画面随时间变化: "8.58% of diagram pixels changed (subtitles excluded)"
 PASS 场景 05 主画面随时间变化: "9.00% of diagram pixels changed (subtitles excluded)"
 PASS 场景 06 主画面随时间变化: "0.62% of diagram pixels changed (subtitles excluded)"
-PASS 场景 07 主画面随时间变化: "12.18% of diagram pixels changed (subtitles excluded)"
+PASS 场景 07 主画面随时间变化: "4.42% of diagram pixels changed (subtitles excluded)"
 PASS 场景 08 主画面随时间变化: "10.98% of diagram pixels changed (subtitles excluded)"
 PASS 场景 09 主画面随时间变化: "10.36% of diagram pixels changed (subtitles excluded)"
 PASS 场景 10 主画面随时间变化: "0.11% of diagram pixels changed (subtitles excluded)"

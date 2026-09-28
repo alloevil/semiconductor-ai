@@ -1,0 +1,43 @@
+{
+  "pass": true,
+  "episode": "03",
+  "unchangedFrames": [
+    {
+      "scene": "01",
+      "identical": true
+    },
+    {
+      "scene": "02",
+      "identical": true
+    },
+    {
+      "scene": "03",
+      "identical": true
+    },
+    {
+      "scene": "05",
+      "identical": true
+    },
+    {
+      "scene": "06",
+      "identical": true
+    },
+    {
+      "scene": "07",
+      "identical": true
+    },
+    {
+      "scene": "08",
+      "identical": true
+    },
+    {
+      "scene": "09",
+      "identical": true
+    },
+    {
+      "scene": "10",
+      "identical": true
+    }
+  ],
+  "timelineAndSrtUnchanged": true
+}
