@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-09-28T01:52:41.309Z",
+  "releaseFingerprint": "e8b045bf370e06230af7353fbd497452d1e62d256d88db2d3cf5fad8205217e2",
+  "pass": true,
+  "scope": "Material integrity and fail-closed gate behavior only; NOT expert, human listening, rights or learner validation",
+  "cases": [
+    {
+      "name": "pending-content-blocked",
+      "pass": true,
+      "exit": 1,
+      "expected": 1,
+      "output": "PASS materials: 10 objectives, 20 questions, 25 key claims; current artifacts match\nContent release: BLOCKED; learning evidence: NOT_VALIDATED\nBLOCKED independent_content: 暂无独立专业审校；25条仅代理自查，需完整片审与补充遗漏。\nBLOCKED human_audio: 尚无五集逐句人工试听和字幕核对记录。\nBLOCKED information_equivalence: 需要正常看、只听、静音看三遍复核；F02图中文字与旁白的等价性待判定。\nBLOCKED rights: 配音服务的传播与商业使用条款未核实；不能用免密钥代替许可。\nBLOCKED issue_resolution: F02–F05及独立审查可能新增的问题尚未结案。\nBLOCKED learner_pilot: 真实首次学习参与者为0；未执行试学、评分或复测。\n"
+    },
+    {
+      "name": "approved-without-evidence-rejected",
+      "pass": true,
+      "exit": 1,
+      "expected": 1,
+      "output": "FAIL quality material/evidence validation: Missing real evidence for approved gate independent_content\n"
+    },
+    {
+      "name": "missing-gate-rejected",
+      "pass": true,
+      "exit": 1,
+      "expected": 1,
+      "output": "FAIL quality material/evidence validation: Gate list must include all six required gates\n"
+    },
+    {
+      "name": "stale-artifact-rejected",
+      "pass": true,
+      "exit": 1,
+      "expected": 1,
+      "output": "FAIL quality material/evidence validation: Review batch stale: content/episode-01.md changed; re-review required\n"
+    },
+    {
+      "name": "wrong-fingerprint-rejected",
+      "pass": true,
+      "exit": 1,
+      "expected": 1,
+      "output": "FAIL quality material/evidence validation: Manifest fingerprint mismatch\n"
+    },
+    {
+      "name": "intact-materials-accepted",
+      "pass": true,
+      "exit": 0,
+      "expected": 0,
+      "output": "PASS materials: 10 objectives, 20 questions, 25 key claims; current artifacts match\nContent release: BLOCKED; learning evidence: NOT_VALIDATED\nBLOCKED independent_content: 暂无独立专业审校；25条仅代理自查，需完整片审与补充遗漏。\nBLOCKED human_audio: 尚无五集逐句人工试听和字幕核对记录。\nBLOCKED information_equivalence: 需要正常看、只听、静音看三遍复核；F02图中文字与旁白的等价性待判定。\nBLOCKED rights: 配音服务的传播与商业使用条款未核实；不能用免密钥代替许可。\nBLOCKED issue_resolution: F02–F05及独立审查可能新增的问题尚未结案。\nBLOCKED learner_pilot: 真实首次学习参与者为0；未执行试学、评分或复测。\n"
+    }
+  ],
+  "videosUnchanged": [
+    {
+      "path": "output/episode-01.mp4",
+      "unchanged": true,
+      "sha256": "b9cf8907cba048acc7a029ccda43fac137c5835a3d98a0e9b347434d54b41ba6"
+    },
+    {
+      "path": "output/episode-02/episode-02.mp4",
+      "unchanged": true,
+      "sha256": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b"
+    },
+    {
+      "path": "output/episode-03/episode-03.mp4",
+      "unchanged": true,
+      "sha256": "736f49882a45492b651ff540e064d46ad65178193fa9ab65082e115bfedc84c9"
+    },
+    {
+      "path": "output/episode-04/episode-04.mp4",
+      "unchanged": true,
+      "sha256": "0936b076be33a40b12a4ca52a1a53b55e99b96b3bd0cccaaa2b2a14ad717e4ee"
+    },
+    {
+      "path": "output/episode-05/episode-05.mp4",
+      "unchanged": true,
+      "sha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884"
+    }
+  ],
+  "studentForms": "All 20 prompts present; rubric not embedded in learner sheets"
+}

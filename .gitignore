@@ -2,6 +2,7 @@ node_modules/
 tmp/
 .venv/
 __pycache__/
+quality/private/
 .playwright-cli/
 output/speech/*.wav
 output/episode-*/speech/*.wav

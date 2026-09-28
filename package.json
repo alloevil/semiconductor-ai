@@ -11,7 +11,10 @@
     "preview": "node scripts/render.mjs --stills",
     "render": "node scripts/render.mjs",
     "check": "node scripts/verify.mjs",
-    "check:all": "node scripts/check-series.mjs"
+    "check:all": "node scripts/check-series.mjs",
+    "quality:materials": "node scripts/quality-materials.mjs",
+    "quality:check": "node scripts/check-quality.mjs",
+    "quality:gate": "node scripts/check-quality.mjs --gate"
   },
   "dependencies": {
     "@napi-rs/canvas": "1.0.9",

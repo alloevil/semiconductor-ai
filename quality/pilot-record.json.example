@@ -1,0 +1,19 @@
+{
+  "templateOnly": true,
+  "participantId": null,
+  "releaseFingerprint": null,
+  "consentRecordedPrivately": false,
+  "priorExposure": null,
+  "formOrder": null,
+  "deviceClass": null,
+  "pretestAnswers": {},
+  "posttestAnswers": {},
+  "pretestSeconds": null,
+  "posttestSeconds": null,
+  "viewingEvents": [],
+  "scorer1Points": {},
+  "scorer2Points": {},
+  "adjudicatedPoints": {},
+  "misconceptions": [],
+  "exclusionReason": null
+}

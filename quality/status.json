@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-28T01:52:41.616Z",
+  "releaseFingerprint": "e8b045bf370e06230af7353fbd497452d1e62d256d88db2d3cf5fad8205217e2",
+  "materialIntegrity": "PASS",
+  "technicalEvidence": "PASS (current artifact hashes checked; does not re-run video decoder)",
+  "learningObjectives": 10,
+  "questions": 20,
+  "keyClaims": 25,
+  "independentReviewedClaims": 0,
+  "contentRelease": "BLOCKED",
+  "learningEvidence": "NOT_VALIDATED",
+  "gates": [
+    {
+      "id": "independent_content",
+      "status": "pending",
+      "reason": "暂无独立专业审校；25条仅代理自查，需完整片审与补充遗漏。",
+      "pass": false
+    },
+    {
+      "id": "human_audio",
+      "status": "pending",
+      "reason": "尚无五集逐句人工试听和字幕核对记录。",
+      "pass": false
+    },
+    {
+      "id": "information_equivalence",
+      "status": "pending",
+      "reason": "需要正常看、只听、静音看三遍复核；F02图中文字与旁白的等价性待判定。",
+      "pass": false
+    },
+    {
+      "id": "rights",
+      "status": "pending",
+      "reason": "配音服务的传播与商业使用条款未核实；不能用免密钥代替许可。",
+      "pass": false
+    },
+    {
+      "id": "issue_resolution",
+      "status": "pending",
+      "reason": "F02–F05及独立审查可能新增的问题尚未结案。",
+      "pass": false
+    },
+    {
+      "id": "learner_pilot",
+      "status": "pending",
+      "reason": "真实首次学习参与者为0；未执行试学、评分或复测。",
+      "pass": false
+    }
+  ],
+  "limitations": [
+    "Structural validation cannot authenticate human identities or truthfulness of evidence",
+    "Pilot performance does not establish general or long-term teaching effectiveness",
+    "Existing public pilot is not withdrawn by this script"
+  ]
+}

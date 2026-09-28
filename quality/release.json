@@ -1,0 +1,84 @@
+{
+  "batch": "content-review-2026-09-28-01",
+  "status": "awaiting-human-review",
+  "fingerprint": "e8b045bf370e06230af7353fbd497452d1e62d256d88db2d3cf5fad8205217e2",
+  "files": {
+    "quality/assessment.json": "352d5fa81424de49711be97483e443f1ff5138a284467739da5be2430e194194",
+    "quality/claims.json": "a289d19a2d3f9c3dbc166ffc2d3fb98555b1656f9f0d9bfda2baf7bb6ce4167e",
+    "quality/pilot-protocol.md": "1dbdc1d5b3ef87b325413da9cda86ff6e309fa29170da1bb34ee641ffa92ad83",
+    "quality/review-checklist.md": "3d6775404962744a7e25286993b8f380465a33252cce17dc18ffe062e399d76d",
+    "quality/README.md": "5591766b4903c623c8a9aa98bd467abaf9c1cd1679000fa271b746e24ea5f2bf",
+    "quality/learner-A.md": "f3e774ed75786a0ff53572231445e4c90263dcbb440b3032cbbd39b73f321a2d",
+    "quality/learner-B.md": "6993444ddb33cf73115694332206bda87c0a29f18860751db6a125220f4d82f2",
+    "quality/rubric.md": "4954989a5e98085d54d246bc73062ef662a6d41ff53f94f756a6aef86a071b03",
+    "quality/claims.md": "60b3b13e46c4e793c0ffdbd480dd6acdd18108e23908e380cf9bf2a1c44972af",
+    "scripts/check-quality.mjs": "00d262db027276793739edc3aac96843e5442dd8101cf47b2f8a908adf3313f2",
+    "scripts/quality-materials.mjs": "3b6abbf9a7cebff4d9fd2029cca84783963e1bfbe9e234b0b9012e3e2045cc27",
+    "scripts/art.mjs": "79dbc498a1742aa6d061cc9ff34aeaabece2f6c50a2875ce19811ad21217ca34",
+    "scripts/art-02.mjs": "124f2f3a64fd86f08e833d5c05892e011a7c72f93e70b288c394d581836e0d7e",
+    "scripts/art-business.mjs": "a5bb6a4f55b7e1a0ae26f16004a64643621104ac685b3934415f3ef9f45629a0",
+    "scripts/teaching.mjs": "dab658e23a123c20a0e189692731a8c672c69ced92f0b4b7240be4e845438cc1",
+    "scripts/prepare-audio.mjs": "a75756f3e405e2bfd3715f6f02a403ddca95762b7ebe238fca3db0f30a368e85",
+    "scripts/render.mjs": "cdcb7bd747b41ef50f32d99fdf40a6f846a33f5a2e50817e3b80df2066b730c2",
+    "content/references.md": "420fe5bdb2d7764c2b6d6bb091a5c897eb09813b9b18f0e470ce380dc03999b6",
+    "content/series-sources.md": "bf77694b225f98c20c34b41c9c833bc859d3c12cc73eb05a877ec6964b5105c3",
+    "content/episode-01.md": "5f6a5d65b0cf6511b57d81b448f33b417fb45fb54b9113a6d973b26f6cd68a06",
+    "output/episode-01.mp4": "b9cf8907cba048acc7a029ccda43fac137c5835a3d98a0e9b347434d54b41ba6",
+    "output/episode-01.zh-CN.srt": "0d1ebb22fb390e05e8c2e2e3e48df4b29db5eba323576cd3e4aa1e7236c9de21",
+    "output/timeline.json": "924c7b3ab4635593f6de607bd0f7d394c52badaa816a569de8d17c48810443d0",
+    "content/episode-02.md": "c05876b6843a283740bc26cb8a2f72511790223c9751508a225186bb0ba268f3",
+    "output/episode-02/episode-02.mp4": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b",
+    "output/episode-02/episode-02.zh-CN.srt": "2e687fd297439a789f6e8d6447158b5c8a87a0121271c01d4743badca1fae226",
+    "output/episode-02/timeline.json": "31b578197a9ca3ef54a336971553b42db919b325fcbdab3f76a199c928eb1d83",
+    "content/episode-03.md": "5bfc57f41b33e2a43f57e267007a47a22301ebb29d35c880c9c89494e23826f0",
+    "output/episode-03/episode-03.mp4": "736f49882a45492b651ff540e064d46ad65178193fa9ab65082e115bfedc84c9",
+    "output/episode-03/episode-03.zh-CN.srt": "514b19862f3e49aad44becd922d60d9bf50e6606db956f102283132741478120",
+    "output/episode-03/timeline.json": "4608a85b6da002a6a6a648c5d1828ccd06e1e833456ee613c22e19e79a32ba23",
+    "content/episode-04.md": "07a9d1fe29531f81d9daca5d67b80970782b45ee46378c1c59cfda63dd5d1586",
+    "output/episode-04/episode-04.mp4": "0936b076be33a40b12a4ca52a1a53b55e99b96b3bd0cccaaa2b2a14ad717e4ee",
+    "output/episode-04/episode-04.zh-CN.srt": "f962e27b5314fbefa771fb75c144876de09e8e2a20f3dfad213d161e7f152bac",
+    "output/episode-04/timeline.json": "e8c86b0655557eba16f6a232e3f6936e1f17122541e1c3c5c8424be82e631e44",
+    "content/episode-05.md": "718302006f4c0c3214faa52f18280700ec8c6d38c48de005fe15bbb318ab8d82",
+    "output/episode-05/episode-05.mp4": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884",
+    "output/episode-05/episode-05.zh-CN.srt": "02cf18d0af65f2db56457047879505611657b607b5d0074a6c0191dbdadeac4c",
+    "output/episode-05/timeline.json": "3fb2aca21db19d199d006db2997e6c33e5d1d81f2ef504a5b27bfb3fc2d36be3"
+  },
+  "gates": [
+    {
+      "id": "independent_content",
+      "status": "pending",
+      "reason": "暂无独立专业审校；25条仅代理自查，需完整片审与补充遗漏。",
+      "evidence": null
+    },
+    {
+      "id": "human_audio",
+      "status": "pending",
+      "reason": "尚无五集逐句人工试听和字幕核对记录。",
+      "evidence": null
+    },
+    {
+      "id": "information_equivalence",
+      "status": "pending",
+      "reason": "需要正常看、只听、静音看三遍复核；F02图中文字与旁白的等价性待判定。",
+      "evidence": null
+    },
+    {
+      "id": "rights",
+      "status": "pending",
+      "reason": "配音服务的传播与商业使用条款未核实；不能用免密钥代替许可。",
+      "evidence": null
+    },
+    {
+      "id": "issue_resolution",
+      "status": "pending",
+      "reason": "F02–F05及独立审查可能新增的问题尚未结案。",
+      "evidence": null
+    },
+    {
+      "id": "learner_pilot",
+      "status": "pending",
+      "reason": "真实首次学习参与者为0；未执行试学、评分或复测。",
+      "evidence": null
+    }
+  ]
+}
