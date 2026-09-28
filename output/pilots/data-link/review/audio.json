@@ -1,0 +1,63 @@
+{
+  "videoSha256": "479cc5be23467e716171773e430bfb59f8af112eebcfa9a69e3d6666a7a4fe4a",
+  "method": "Final AAC decoded to PCM; per-beat zero-lag source correlation; Whisper base CPU int8, beam5, zh, no text prompt. Not a human listening test.",
+  "alignmentPass": true,
+  "characters": 233,
+  "editDistance": 24,
+  "results": [
+    {
+      "beat": "01",
+      "reference": "这台设备的曲线都有，为什么还不能验证膜厚预测？先看三份记录。画面全部是教学示例。",
+      "recognized": "這台設備的曲線都有,為什麼還不能驗證模後預測?先看三份記錄,畫面全部是教學勢力。",
+      "characters": 36,
+      "editDistance": 4,
+      "zeroLagCorrelation": 0.9999751448631287,
+      "alignmentPass": true
+    },
+    {
+      "beat": "02",
+      "reference": "过程记录和配方记录，先核对同一设备、同一次加工，以及同一片晶圆。匹配后，才能把它们放在一起。",
+      "recognized": "過程記錄和配方記錄先和對同一設備同一次加工以及同一片經緣匹配後才能把他們放在一起",
+      "characters": 40,
+      "editDistance": 4,
+      "zeroLagCorrelation": 0.99998939037323,
+      "alignmentPass": true
+    },
+    {
+      "beat": "03",
+      "reference": "这条量测来自另一轮加工，不能只因为时间接近，就填进当前记录。",
+      "recognized": "這條兩側來自另一輪加工,不能只因為時間接近,就填進當前記錄。",
+      "characters": 27,
+      "editDistance": 2,
+      "zeroLagCorrelation": 0.9999922513961792,
+      "alignmentPass": true
+    },
+    {
+      "beat": "04",
+      "reference": "正确记录里的膜厚仍然空着。这就是缺少可靠标签：还不知道这片晶圆的真实结果。",
+      "recognized": "正確記錄裡的模後仍然空著這就是缺少可靠標籤還不知道這片經緣的真實結果",
+      "characters": 34,
+      "editDistance": 5,
+      "zeroLagCorrelation": 0.9999863505363464,
+      "alignmentPass": true
+    },
+    {
+      "beat": "05",
+      "reference": "模型即使给出一个预测，也没有可靠的真实值可以对照。现在不能据此宣布预测准确，更不能取消实际量测。",
+      "recognized": "模型即使給出一個預測,也沒有可靠的真實值可以對照。現在不能據此宣布預測準確,更不能取消實際量測。",
+      "characters": 44,
+      "editDistance": 0,
+      "zeroLagCorrelation": 0.9999839067459106,
+      "alignmentPass": true
+    },
+    {
+      "beat": "06",
+      "reference": "下一步，是在授权范围内补齐并核对量测，再用独立数据验证。当前仍可先做记录检索或异常提示，但不能把提示当成膜厚结论。",
+      "recognized": "下一步,是在授權範圍內補習病核對良測,再用獨立數據驗證。當前人可先做紀錄解鎖或異常提示,但不能把提示當成模後結論。",
+      "characters": 52,
+      "editDistance": 9,
+      "zeroLagCorrelation": 0.9999781250953674,
+      "alignmentPass": true
+    }
+  ]
+}

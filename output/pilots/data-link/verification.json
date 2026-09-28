@@ -1,0 +1,339 @@
+{
+  "generatedAt": "2026-09-28T03:45:30.198Z",
+  "pass": true,
+  "file": "output/pilots/data-link/data-link.mp4",
+  "bytes": 3584695,
+  "seconds": 81.5,
+  "videoSha256": "479cc5be23467e716171773e430bfb59f8af112eebcfa9a69e3d6666a7a4fe4a",
+  "sourceSha256": "8f40ab182a8df60cc372d043bd9202999ed22cae49c9f82558d509a8ecc033b3",
+  "checks": [
+    {
+      "name": "分镜六节拍与旁白一致",
+      "pass": true,
+      "evidence": 6
+    },
+    {
+      "name": "旁白版本一致",
+      "pass": true,
+      "evidence": "745a535d0b78d832fa3152ede39fd20754a37308d39d9a4639cb72d2d32c11e9"
+    },
+    {
+      "name": "字幕覆盖全部旁白",
+      "pass": true,
+      "evidence": 12
+    },
+    {
+      "name": "字幕时间合法无重叠",
+      "pass": true,
+      "evidence": 12
+    },
+    {
+      "name": "字幕至多两行",
+      "pass": true,
+      "evidence": 1
+    },
+    {
+      "name": "节拍 01 连续并保留音频",
+      "pass": true,
+      "evidence": {
+        "start": 0,
+        "duration": 12,
+        "sourceDuration": 10.176
+      }
+    },
+    {
+      "name": "节拍 02 连续并保留音频",
+      "pass": true,
+      "evidence": {
+        "start": 12,
+        "duration": 13,
+        "sourceDuration": 11.184
+      }
+    },
+    {
+      "name": "节拍 03 连续并保留音频",
+      "pass": true,
+      "evidence": {
+        "start": 25,
+        "duration": 8.933333333333334,
+        "sourceDuration": 7.128
+      }
+    },
+    {
+      "name": "节拍 04 连续并保留音频",
+      "pass": true,
+      "evidence": {
+        "start": 33.93333333333334,
+        "duration": 10.8,
+        "sourceDuration": 9
+      }
+    },
+    {
+      "name": "节拍 05 连续并保留音频",
+      "pass": true,
+      "evidence": {
+        "start": 44.733333333333334,
+        "duration": 13.366666666666667,
+        "sourceDuration": 11.544
+      }
+    },
+    {
+      "name": "节拍 06 连续并保留音频",
+      "pass": true,
+      "evidence": {
+        "start": 58.1,
+        "duration": 16.4,
+        "sourceDuration": 14.568
+      }
+    },
+    {
+      "name": "每帧身份与未知量不变量",
+      "pass": true,
+      "evidence": {
+        "framesChecked": 2235,
+        "failures": []
+      }
+    },
+    {
+      "name": "过渡中不提前宣布状态",
+      "pass": true,
+      "evidence": {
+        "sampleIntervalSeconds": 0.2,
+        "failures": []
+      }
+    },
+    {
+      "name": "含变换后的文字不越界",
+      "pass": true,
+      "evidence": {
+        "textCalls": 16322,
+        "failures": []
+      }
+    },
+    {
+      "name": "说匹配后之前已完成对齐",
+      "pass": true,
+      "evidence": 20.294
+    },
+    {
+      "name": "错误候选先移出再显示真实值空格",
+      "pass": true,
+      "evidence": [
+        3.6,
+        4.6
+      ]
+    },
+    {
+      "name": "H264 1080p 30fps兼容像素格式",
+      "pass": true,
+      "evidence": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": "30/1",
+        "pixelFormat": "yuv420p"
+      }
+    },
+    {
+      "name": "帧数完整",
+      "pass": true,
+      "evidence": {
+        "actual": "2445",
+        "expected": 2445
+      }
+    },
+    {
+      "name": "AAC音轨与视频时长一致",
+      "pass": true,
+      "evidence": {
+        "audio": "81.500000",
+        "video": "81.500000"
+      }
+    },
+    {
+      "name": "六节拍与片尾章节完整",
+      "pass": true,
+      "evidence": 7
+    },
+    {
+      "name": "全片解码无错误",
+      "pass": true,
+      "evidence": "all video and audio decoded"
+    },
+    {
+      "name": "音量非静音且无满幅削波",
+      "pass": true,
+      "evidence": {
+        "meanDb": -19.3,
+        "peakDb": -2
+      }
+    },
+    {
+      "name": "原五集未改变",
+      "pass": true,
+      "evidence": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    {
+      "name": "原质量批次有效但正式发布仍被阻断",
+      "pass": true,
+      "evidence": "PASS materials: 10 objectives, 20 questions, 25 key claims; current artifacts match\nContent release: BLOCKED; learning evidence: NOT_VALIDATED\nBLOCKED independent_content: 暂无独立专业审校；25条仅代理自查，需完整片审与补充遗漏。\nBLOCKED human_audio: 尚无五集逐句人工试听和字幕核对记录。\nBLOCKED information_equivalence: 需要正常看、只听、静音看三遍复核；F02图中文字与旁白的等价性待判定。\nBLOCKED rights: 配音服务的传播与商业使用条款未核实；不能用免密钥代替许可。\nBLOCKED issue_resolution: F02–F05及独立审查可能新增的问题尚未结案。\nBLOCKED learner_pilot: 真实首次学习参与者为0；未执行试学、评分或复测。"
+    }
+  ],
+  "reviewTimes": [
+    {
+      "beat": "01",
+      "phase": "before",
+      "time": 0.2,
+      "file": "output/pilots/data-link/frames/video-01-before.png"
+    },
+    {
+      "beat": "01",
+      "phase": "during",
+      "time": 2.2,
+      "file": "output/pilots/data-link/frames/video-01-during.png"
+    },
+    {
+      "beat": "01",
+      "phase": "after",
+      "time": 4.8,
+      "file": "output/pilots/data-link/frames/video-01-after.png"
+    },
+    {
+      "beat": "01",
+      "phase": "settled",
+      "time": 11,
+      "file": "output/pilots/data-link/frames/video-01-settled.png"
+    },
+    {
+      "beat": "02",
+      "phase": "before",
+      "time": 12.2,
+      "file": "output/pilots/data-link/frames/video-02-before.png"
+    },
+    {
+      "beat": "02",
+      "phase": "during",
+      "time": 14.2,
+      "file": "output/pilots/data-link/frames/video-02-during.png"
+    },
+    {
+      "beat": "02",
+      "phase": "after",
+      "time": 16.8,
+      "file": "output/pilots/data-link/frames/video-02-after.png"
+    },
+    {
+      "beat": "02",
+      "phase": "settled",
+      "time": 24,
+      "file": "output/pilots/data-link/frames/video-02-settled.png"
+    },
+    {
+      "beat": "03",
+      "phase": "before",
+      "time": 25.2,
+      "file": "output/pilots/data-link/frames/video-03-before.png"
+    },
+    {
+      "beat": "03",
+      "phase": "during",
+      "time": 27.2,
+      "file": "output/pilots/data-link/frames/video-03-during.png"
+    },
+    {
+      "beat": "03",
+      "phase": "after",
+      "time": 29.8,
+      "file": "output/pilots/data-link/frames/video-03-after.png"
+    },
+    {
+      "beat": "03",
+      "phase": "settled",
+      "time": 32.93333333333334,
+      "file": "output/pilots/data-link/frames/video-03-settled.png"
+    },
+    {
+      "beat": "04",
+      "phase": "before",
+      "time": 34.13333333333334,
+      "file": "output/pilots/data-link/frames/video-04-before.png"
+    },
+    {
+      "beat": "04",
+      "phase": "during",
+      "time": 36.13333333333334,
+      "file": "output/pilots/data-link/frames/video-04-during.png"
+    },
+    {
+      "beat": "04",
+      "phase": "after",
+      "time": 38.733333333333334,
+      "file": "output/pilots/data-link/frames/video-04-after.png"
+    },
+    {
+      "beat": "04",
+      "phase": "settled",
+      "time": 43.733333333333334,
+      "file": "output/pilots/data-link/frames/video-04-settled.png"
+    },
+    {
+      "beat": "05",
+      "phase": "before",
+      "time": 44.93333333333334,
+      "file": "output/pilots/data-link/frames/video-05-before.png"
+    },
+    {
+      "beat": "05",
+      "phase": "during",
+      "time": 46.93333333333334,
+      "file": "output/pilots/data-link/frames/video-05-during.png"
+    },
+    {
+      "beat": "05",
+      "phase": "after",
+      "time": 49.53333333333333,
+      "file": "output/pilots/data-link/frames/video-05-after.png"
+    },
+    {
+      "beat": "05",
+      "phase": "settled",
+      "time": 57.1,
+      "file": "output/pilots/data-link/frames/video-05-settled.png"
+    },
+    {
+      "beat": "06",
+      "phase": "before",
+      "time": 58.300000000000004,
+      "file": "output/pilots/data-link/frames/video-06-before.png"
+    },
+    {
+      "beat": "06",
+      "phase": "during",
+      "time": 60.300000000000004,
+      "file": "output/pilots/data-link/frames/video-06-during.png"
+    },
+    {
+      "beat": "06",
+      "phase": "after",
+      "time": 62.9,
+      "file": "output/pilots/data-link/frames/video-06-after.png"
+    },
+    {
+      "beat": "06",
+      "phase": "settled",
+      "time": 73.5,
+      "file": "output/pilots/data-link/frames/video-06-settled.png"
+    }
+  ],
+  "limits": [
+    "State/geometry checks do not establish learner outcomes",
+    "Not independent professional review or human audio listening",
+    "Separate pilot does not inherit original course approval; original content gate remains blocked"
+  ]
+}

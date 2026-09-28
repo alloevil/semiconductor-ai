@@ -33,6 +33,12 @@
 
 [全套制作与验收说明](output/全套说明.md) · [全套机器验证](output/series-verification.json) · [第三至第五集来源与边界](content/series-sources.md)
 
+## 独立分镜实验：记录对齐了，证据齐了吗？
+
+[下载 81.5 秒小样 MP4](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/pilots/data-link/data-link.mp4) · [先行分镜与参考方法](experiments/data-link/storyboard.md) · [验证记录](output/pilots/data-link/制作说明.md)
+
+用同一片示意晶圆演示“归拢记录 → 剔除错轮次量测 → 保留真实膜厚空缺 → 无法宣布预测准确”。这是调研后的独立实验，**没有替换原五集，也未通过独立审校或学员效果验证**。与旧版措辞和时长不同，不作“仅动画变化”的效果对比；[观察题与比较限制](experiments/data-link/comparison.md)。
+
 ## 先看第一集
 
 **《半导体、晶体管、芯片和晶圆，究竟是什么关系？》**
