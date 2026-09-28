@@ -1,7 +1,7 @@
 {
   "episode": "05",
   "pass": true,
-  "drawnTextCalls": 793,
+  "drawnTextCalls": 826,
   "method": "Measure drawn strings at four moments per scene and credits, applying current canvas transforms; bounds check, not collision detection",
   "violations": []
 }

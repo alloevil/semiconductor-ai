@@ -1,4 +1,5 @@
 import {episode} from './lib.mjs';
+import {drawKnowledge} from './knowledge-scene.mjs';
 import {drawProcessScene, processScenes} from './process-scenes.mjs';
 import {isTopicActive, termAt, quizAnswerStart} from './teaching.mjs';
 import {palette, text, rect, line, arrow, dot, tag, reveal, callout, wafer, subtitleLines, clamp} from './art.mjs';
@@ -373,6 +374,7 @@ function quiz(context,labels,time,scene){
 }
 
 function diagram(context,config,time,scene){
+  if (episode === '05' && scene.id === '02') {drawKnowledge(context, scene, time); return;}
   if (processScenes[episode] === scene.id) {drawProcessScene(context, episode, scene, time); return;}
   const kind=config[2];const labels=config[3];
   if(kind==='ecosystem')ecosystem(context,labels,time);

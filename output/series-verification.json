@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:05:40.371Z",
+  "generatedAt": "2026-09-28T05:42:19.210Z",
   "pass": true,
   "episodes": [
     {
@@ -46,8 +46,8 @@
       "episode": "05",
       "file": "output/episode-05/episode-05.mp4",
       "seconds": 383.3,
-      "bytes": 14499975,
-      "sha256": "34bbf070efb1a4705176476b9554d29e879e700e567c960c7ff4a4a43eb04f57",
+      "bytes": 14845606,
+      "sha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177",
       "checks": 42,
       "subtitleCues": 49,
       "pass": true

@@ -30,7 +30,7 @@ if (process.argv.includes('--stills')) {
   writeFileSync(`${outputDir}/frames/credits.png`, canvas.toBuffer('image/png'));
   log('PASS: 31 storyboard frames rendered at 1920x1080; subtitles fit within two lines');
 } else {
-  const sourceHash = hash(readFileSync(`scripts/${artFile}`, 'utf8') + (artFile === 'art-business.mjs' ? readFileSync('scripts/process-scenes.mjs', 'utf8') : '') + readFileSync('scripts/art.mjs', 'utf8') + readFileSync('scripts/teaching.mjs', 'utf8') + readFileSync('scripts/lib.mjs', 'utf8') + readFileSync('scripts/render.mjs', 'utf8'));
+  const sourceHash = hash(readFileSync(`scripts/${artFile}`, 'utf8') + (artFile === 'art-business.mjs' ? readFileSync('scripts/process-scenes.mjs', 'utf8') + readFileSync('scripts/knowledge-scene.mjs', 'utf8') : '') + readFileSync('scripts/art.mjs', 'utf8') + readFileSync('scripts/teaching.mjs', 'utf8') + readFileSync('scripts/lib.mjs', 'utf8') + readFileSync('scripts/render.mjs', 'utf8'));
   const entries = [...timeline.scenes, {id: 'credits', start: timeline.narrationDuration, duration: timeline.creditsDuration, frames: Math.round(timeline.creditsDuration * settings.fps)}];
   for (const entry of entries) {
     const segment = `${tempDir}/segments/${entry.id}.mp4`;

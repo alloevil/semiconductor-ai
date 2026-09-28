@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-28T04:09:32.971Z",
-  "releaseFingerprint": "812ba03a630cf6a20baab68c310d45a1dbec07e74cd03a2b0e834a026f2206f0",
+  "generatedAt": "2026-09-28T05:46:39.564Z",
+  "releaseFingerprint": "ad538d91b1410fb4cf73e68bc26984b748db03aa589ff3cf84f9590643d07b77",
   "pass": true,
-  "scope": "Material and fail-closed gate tests for new process-scene batch only; no human approval or learner validation",
+  "scope": "Fail-closed validation for batch03, not human approval",
   "cases": [
     {
-      "name": "pending-is-blocked",
+      "name": "pending-blocked",
       "pass": true,
       "exit": 1,
       "expected": 1,
       "output": "PASS materials: 10 objectives, 20 questions, 25 key claims; current artifacts match\nContent release: BLOCKED; learning evidence: NOT_VALIDATED\nBLOCKED independent_content: 暂无独立专业审校；25条仅代理自查，需完整片审与补充遗漏。\nBLOCKED human_audio: 尚无五集逐句人工试听和字幕核对记录。\nBLOCKED information_equivalence: 需要正常看、只听、静音看三遍复核；F02图中文字与旁白的等价性待判定。\nBLOCKED rights: 配音服务的传播与商业使用条款未核实；不能用免密钥代替许可。\nBLOCKED issue_resolution: F02–F05及独立审查可能新增的问题尚未结案。\nBLOCKED learner_pilot: 真实首次学习参与者为0；未执行试学、评分或复测。\n"
     },
     {
-      "name": "no-fake-approval",
+      "name": "approval-without-evidence",
       "pass": true,
       "exit": 1,
       "expected": 1,
       "output": "FAIL quality material/evidence validation: Missing real evidence for approved gate independent_content\n"
     },
     {
-      "name": "omitted-gate",
+      "name": "missing-gate",
       "pass": true,
       "exit": 1,
       "expected": 1,
       "output": "FAIL quality material/evidence validation: Gate list must include all six required gates\n"
     },
     {
-      "name": "stale-artifact",
+      "name": "stale-file",
       "pass": true,
       "exit": 1,
       "expected": 1,
-      "output": "FAIL quality material/evidence validation: Review batch stale: scripts/process-scenes.mjs changed; re-review required\n"
+      "output": "FAIL quality material/evidence validation: Review batch stale: scripts/knowledge-scene.mjs changed; re-review required\n"
     },
     {
       "name": "wrong-fingerprint",
@@ -40,7 +40,7 @@
       "output": "FAIL quality material/evidence validation: Manifest fingerprint mismatch\n"
     },
     {
-      "name": "materials-valid-not-approved",
+      "name": "materials-only",
       "pass": true,
       "exit": 0,
       "expected": 0,

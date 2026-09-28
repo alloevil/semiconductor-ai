@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T04:13:53.264Z",
-  "releaseFingerprint": "812ba03a630cf6a20baab68c310d45a1dbec07e74cd03a2b0e834a026f2206f0",
+  "generatedAt": "2026-09-28T05:43:59.559Z",
+  "releaseFingerprint": "ad538d91b1410fb4cf73e68bc26984b748db03aa589ff3cf84f9590643d07b77",
   "materialIntegrity": "PASS",
   "technicalEvidence": "PASS (current artifact hashes checked; does not re-run video decoder)",
   "learningObjectives": 10,

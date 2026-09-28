@@ -31,7 +31,7 @@ PASS 章节已嵌入视频: "11 chapters"
 PASS 全片音视频解码: "FFmpeg decoded every video frame and audio packet without error"
 PASS 音轨非静音且无满幅削波: {"meanDb":-18.5,"peakDb":-2}
 PASS 场景 01 主画面随时间变化: "6.28% of diagram pixels changed (subtitles excluded)"
-PASS 场景 02 主画面随时间变化: "15.78% of diagram pixels changed (subtitles excluded)"
+PASS 场景 02 主画面随时间变化: "19.18% of diagram pixels changed (subtitles excluded)"
 PASS 场景 03 主画面随时间变化: "0.13% of diagram pixels changed (subtitles excluded)"
 PASS 场景 04 主画面随时间变化: "8.58% of diagram pixels changed (subtitles excluded)"
 PASS 场景 05 主画面随时间变化: "9.00% of diagram pixels changed (subtitles excluded)"

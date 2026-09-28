@@ -1,0 +1,33 @@
+{
+  "pass": true,
+  "framesChecked": 1091,
+  "errors": [],
+  "times": [
+    1,
+    1.3,
+    2.9000000000000004,
+    5.1,
+    10.476999999999999,
+    12.077,
+    14.277,
+    19.866,
+    21.466,
+    23.666,
+    25.672,
+    27.272000000000002,
+    29.472,
+    35.36666666666667
+  ],
+  "finalState": {
+    "identity": "ET-01 / R2",
+    "oldId": "Doc-A / R1",
+    "candidateId": "Doc-B / R2",
+    "filtered": 1,
+    "insufficient": 1,
+    "acceptedOld": false,
+    "rootCause": null,
+    "commands": 0
+  },
+  "videoSha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177",
+  "limit": "Source state checks do not prove semantic correctness; inspect decoded transition frames separately."
+}

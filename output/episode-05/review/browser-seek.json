@@ -1,7 +1,6 @@
 {
   "episode": "05",
-  "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
-  "method": "Current MP4 Blob, 12 actual position checks before 1x playback",
+  "method": "Current MP4 Blob; 12 actual seek positions before normal playback",
   "results": [
     {
       "target": 2,
@@ -64,5 +63,5 @@
       "pass": true
     }
   ],
-  "videoSha256": "34bbf070efb1a4705176476b9554d29e879e700e567c960c7ff4a4a43eb04f57"
+  "videoSha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177"
 }
