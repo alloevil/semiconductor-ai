@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T05:42:13.966Z",
+  "generatedAt": "2026-09-28T08:32:57.054Z",
   "pass": true,
   "file": "output/episode-05/episode-05.mp4",
-  "bytes": 14845606,
-  "sha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177",
+  "bytes": 14816489,
+  "sha256": "5fb95363eb2d8c6d57389a06f497626dbfa8275cf896cf148f495f423ab38e9f",
   "duration": 383.3,
   "checks": [
     {
@@ -181,7 +181,7 @@
     {
       "name": "场景 02 主画面随时间变化",
       "pass": true,
-      "evidence": "19.18% of diagram pixels changed (subtitles excluded)"
+      "evidence": "22.41% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 03 主画面随时间变化",

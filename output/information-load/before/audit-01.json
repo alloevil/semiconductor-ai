@@ -1,0 +1,6646 @@
+{
+  "episode": "01",
+  "phase": "before",
+  "videoSha256": "b9cf8907cba048acc7a029ccda43fac137c5835a3d98a0e9b347434d54b41ba6",
+  "method": "Source text measurements at 22%,50%,65%,90% per scene; y-based layers are heuristic. Neither repeated wording nor character count proves cognitive overload. Verify with actual frames and reader testing.",
+  "samples": [
+    {
+      "scene": "01",
+      "title": "先拆开四个名字",
+      "globalTime": 6.541,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 193,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "四个名字，一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 560,
+          "layer": "title"
+        },
+        {
+          "text": "先认清概念，再走进半导体行业",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "半导体",
+          "centerY": 339,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 338,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 460,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "基础器件",
+          "centerY": 459,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片",
+          "centerY": 581,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "以集成电路为例",
+          "centerY": 580,
+          "fontSize": 28,
+          "width": 196,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 702,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 701,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 413.9262749671936,
+          "fontSize": 50.7,
+          "width": 49.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "我们看到的芯片，常常带着封装",
+          "centerY": 310,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一产业 · 不同层级",
+          "centerY": 775,
+          "fontSize": 29,
+          "width": 261.26,
+          "layer": "diagram"
+        },
+        {
+          "text": "先弄清“它是什么”，再理解“它怎么做”。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 548.88,
+          "layer": "takeaway"
+        },
+        {
+          "text": "手机里有芯片，新闻里说半导体，工厂里又在加工晶圆。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 975,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "先拆开四个名字",
+      "globalTime": 14.867,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 184,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "四个名字，一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 560,
+          "layer": "title"
+        },
+        {
+          "text": "先认清概念，再走进半导体行业",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "半导体",
+          "centerY": 339,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 338,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 460,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "基础器件",
+          "centerY": 459,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片",
+          "centerY": 581,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "以集成电路为例",
+          "centerY": 580,
+          "fontSize": 28,
+          "width": 196,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 702,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 701,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 413.9262749671936,
+          "fontSize": 50.7,
+          "width": 49.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "我们看到的芯片，常常带着封装",
+          "centerY": 310,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一产业 · 不同层级",
+          "centerY": 775,
+          "fontSize": 29,
+          "width": 261.26,
+          "layer": "diagram"
+        },
+        {
+          "text": "先弄清“它是什么”，再理解“它怎么做”。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 548.88,
+          "layer": "takeaway"
+        },
+        {
+          "text": "还有一个经常出现的词，叫晶体管。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 624,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "先拆开四个名字",
+      "globalTime": 19.327,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 186,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "四个名字，一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 560,
+          "layer": "title"
+        },
+        {
+          "text": "先认清概念，再走进半导体行业",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "半导体",
+          "centerY": 339,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 338,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 460,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "基础器件",
+          "centerY": 459,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片",
+          "centerY": 581,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "以集成电路为例",
+          "centerY": 580,
+          "fontSize": 28,
+          "width": 196,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 702,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 701,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 413.9262749671936,
+          "fontSize": 50.7,
+          "width": 49.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "我们看到的芯片，常常带着封装",
+          "centerY": 310,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一产业 · 不同层级",
+          "centerY": 775,
+          "fontSize": 29,
+          "width": 261.26,
+          "layer": "diagram"
+        },
+        {
+          "text": "先弄清“它是什么”，再理解“它怎么做”。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 548.88,
+          "layer": "takeaway"
+        },
+        {
+          "text": "今天，我们不背公式，也不讲复杂工艺。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 702,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "先拆开四个名字",
+      "globalTime": 26.76,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 203,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "四个名字，一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 560,
+          "layer": "title"
+        },
+        {
+          "text": "先认清概念，再走进半导体行业",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "半导体",
+          "centerY": 339,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 338,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 460,
+          "fontSize": 40,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "基础器件",
+          "centerY": 459,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片",
+          "centerY": 581,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "以集成电路为例",
+          "centerY": 580,
+          "fontSize": 28,
+          "width": 196,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 702,
+          "fontSize": 40,
+          "width": 80,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 701,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 413.9262749671936,
+          "fontSize": 50.7,
+          "width": 49.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "我们看到的芯片，常常带着封装",
+          "centerY": 310,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一产业 · 不同层级",
+          "centerY": 775,
+          "fontSize": 29,
+          "width": 261.26,
+          "layer": "diagram"
+        },
+        {
+          "text": "先弄清“它是什么”，再理解“它怎么做”。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 548.88,
+          "layer": "takeaway"
+        },
+        {
+          "text": "只用五分钟，把这四个名字放到正确的位置，搭起理解这个行业的第一张地图。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1365,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "半导体首先是一类材料",
+      "globalTime": 36.839,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 18,
+      "renderedCharacters": 167,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体，首先是一类材料。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "从电线开始，理解“导电”与“控制”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 387.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "铜",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "绝缘体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "塑料",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 76,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "导电性质不同，可以承担不同角色。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "电流动画仅作功能示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "铜常被用来做电线，塑料常被用来包住电线，因为它们导电的能力不同。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1248,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "半导体首先是一类材料",
+      "globalTime": 45.883,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 18,
+      "renderedCharacters": 152,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体，首先是一类材料。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "从电线开始，理解“导电”与“控制”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 387.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "铜",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "绝缘体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "塑料",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 76,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体 ≠ “只让一半的电通过”",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 408.06,
+          "layer": "takeaway"
+        },
+        {
+          "text": "电流动画仅作功能示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "注意，半导体不是只让一半的电通过。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 663,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "半导体首先是一类材料",
+      "globalTime": 50.728,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 21,
+      "renderedCharacters": 182,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体，首先是一类材料。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "从电线开始，理解“导电”与“控制”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 387.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "铜",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "绝缘体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "塑料",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 76,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料成分",
+          "centerY": 762,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件结构",
+          "centerY": 762,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制电压",
+          "centerY": 762,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体 ≠ “只让一半的电通过”",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 408.06,
+          "layer": "takeaway"
+        },
+        {
+          "text": "电流动画仅作功能示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "重要的是，我们能通过改变材料的成分，以及设计器件、施加电压，控制电流。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1365,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "半导体首先是一类材料",
+      "globalTime": 58.803,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 21,
+      "renderedCharacters": 165,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体，首先是一类材料。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "从电线开始，理解“导电”与“控制”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 387.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "铜",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "绝缘体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "塑料",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 76,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅",
+          "centerY": 648,
+          "fontSize": 38,
+          "width": 38,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料成分",
+          "centerY": 762,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件结构",
+          "centerY": 762,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制电压",
+          "centerY": 762,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体 ≠ “只让一半的电通过”",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 408.06,
+          "layer": "takeaway"
+        },
+        {
+          "text": "电流动画仅作功能示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这种可控制的特性，是电子器件的基础。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 702,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "从材料到器件：晶体管",
+      "globalTime": 69.125,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 200,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶体管：用电信号控制电流。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "从材料，走向有特定功能的器件",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "简化场效应晶体管剖面",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体衬底",
+          "centerY": 619,
+          "fontSize": 30,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "源极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "漏极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "栅极",
+          "centerY": 474,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制信号：关断",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 342,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "不会自己计算",
+          "centerY": 387,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 471,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计出特定结构",
+          "centerY": 516,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "“开关”是功能类比，不是机械闸门。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 484.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "功能示意 · 非真实比例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "工程师需要在材料上制造特定结构，做成器件，晶体管就是其中一种。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1209,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "从材料到器件：晶体管",
+      "globalTime": 78.15,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 24,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶体管：用电信号控制电流。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "从材料，走向有特定功能的器件",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "简化场效应晶体管剖面",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体衬底",
+          "centerY": 619,
+          "fontSize": 30,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "源极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "漏极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "栅极",
+          "centerY": 474,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制信号：关断",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 342,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "不会自己计算",
+          "centerY": 387,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 471,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计出特定结构",
+          "centerY": 516,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能",
+          "centerY": 600,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "用信号控制电流",
+          "centerY": 645,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "“开关”是功能类比，不是机械闸门。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 484.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "功能示意 · 非真实比例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "你可以先把数字电路中的晶体管，理解为由电信号控制的小开关。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "从材料到器件：晶体管",
+      "globalTime": 82.985,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 24,
+      "renderedCharacters": 199,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶体管：用电信号控制电流。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "从材料，走向有特定功能的器件",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "简化场效应晶体管剖面",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体衬底",
+          "centerY": 619,
+          "fontSize": 30,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "源极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "漏极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "栅极",
+          "centerY": 474,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制信号：导通",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 342,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "不会自己计算",
+          "centerY": 387,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 471,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计出特定结构",
+          "centerY": 516,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能",
+          "centerY": 600,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "用信号控制电流",
+          "centerY": 645,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "“开关”是功能类比，不是机械闸门。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 484.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "功能示意 · 非真实比例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "控制信号改变时，电流通过的状态也随之变化。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "从材料到器件：晶体管",
+      "globalTime": 91.043,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 24,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶体管：用电信号控制电流。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "从材料，走向有特定功能的器件",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "简化场效应晶体管剖面",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体衬底",
+          "centerY": 619,
+          "fontSize": 30,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "源极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "漏极",
+          "centerY": 704,
+          "fontSize": 27,
+          "width": 54,
+          "layer": "diagram"
+        },
+        {
+          "text": "栅极",
+          "centerY": 474,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制信号：关断",
+          "centerY": 350,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 342,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "不会自己计算",
+          "centerY": 387,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 471,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计出特定结构",
+          "centerY": 516,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能",
+          "centerY": 600,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "用信号控制电流",
+          "centerY": 645,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "“开关”是功能类比，不是机械闸门。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 484.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "功能示意 · 非真实比例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这里的开关只是功能上的比喻，里面没有一只机械开合的小闸门。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "小开关为什么能处理信息？",
+      "globalTime": 101.563,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 18,
+      "renderedCharacters": 202,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "连接起来，才有电路的功能。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "数字电路用不同的电平范围表示 0 和 1",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 436.33,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 120.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "逻辑功能示意，非电路原理图",
+          "centerY": 686,
+          "fontSize": 22,
+          "width": 286,
+          "layer": "diagram"
+        },
+        {
+          "text": "数字信号",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "1",
+          "centerY": 445,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "0",
+          "centerY": 595,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同电平范围，表示不同信息",
+          "centerY": 686,
+          "fontSize": 25,
+          "width": 325,
+          "layer": "diagram"
+        },
+        {
+          "text": "很多器件按设计连接，才能处理信息。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "0 并不表示整个芯片完全没有电流",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 354.69,
+          "layer": "takeaway"
+        },
+        {
+          "text": "但把许多晶体管按设计连接起来，就能组成执行逻辑功能的电路。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "小开关为什么能处理信息？",
+      "globalTime": 110.85,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 18,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "连接起来，才有电路的功能。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "数字电路用不同的电平范围表示 0 和 1",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 436.33,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 120.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "逻辑功能示意，非电路原理图",
+          "centerY": 686,
+          "fontSize": 22,
+          "width": 286,
+          "layer": "diagram"
+        },
+        {
+          "text": "数字信号",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "1",
+          "centerY": 445,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "0",
+          "centerY": 595,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同电平范围，表示不同信息",
+          "centerY": 686,
+          "fontSize": 25,
+          "width": 325,
+          "layer": "diagram"
+        },
+        {
+          "text": "很多器件按设计连接，才能处理信息。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "0 并不表示整个芯片完全没有电流",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 354.69,
+          "layer": "takeaway"
+        },
+        {
+          "text": "在数字电路里，我们用不同的电平范围表示零和一，再用电路处理这些信息。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1326,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "小开关为什么能处理信息？",
+      "globalTime": 115.825,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 19,
+      "renderedCharacters": 213,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "连接起来，才有电路的功能。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "数字电路用不同的电平范围表示 0 和 1",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 436.33,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 120.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "逻辑功能示意，非电路原理图",
+          "centerY": 686,
+          "fontSize": 22,
+          "width": 286,
+          "layer": "diagram"
+        },
+        {
+          "text": "数字信号",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "1",
+          "centerY": 445,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "0",
+          "centerY": 595,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同电平范围，表示不同信息",
+          "centerY": 686,
+          "fontSize": 25,
+          "width": 325,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管也能用于信号放大",
+          "centerY": 762,
+          "fontSize": 27,
+          "width": 297,
+          "layer": "diagram"
+        },
+        {
+          "text": "很多器件按设计连接，才能处理信息。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "0 并不表示整个芯片完全没有电流",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 354.69,
+          "layer": "takeaway"
+        },
+        {
+          "text": "晶体管也并不只会开关；在合适的电路中，它还能用于放大信号。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "小开关为什么能处理信息？",
+      "globalTime": 124.117,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 19,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "连接起来，才有电路的功能。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "数字电路用不同的电平范围表示 0 和 1",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 436.33,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 120.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "逻辑功能示意，非电路原理图",
+          "centerY": 686,
+          "fontSize": 22,
+          "width": 286,
+          "layer": "diagram"
+        },
+        {
+          "text": "数字信号",
+          "centerY": 353,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "1",
+          "centerY": 445,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "0",
+          "centerY": 595,
+          "fontSize": 45,
+          "width": 26.55,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同电平范围，表示不同信息",
+          "centerY": 686,
+          "fontSize": 25,
+          "width": 325,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管也能用于信号放大",
+          "centerY": 762,
+          "fontSize": 27,
+          "width": 297,
+          "layer": "diagram"
+        },
+        {
+          "text": "很多器件按设计连接，才能处理信息。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "0 并不表示整个芯片完全没有电流",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 354.69,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这一集先记住：它是一种可以控制电流的基础器件。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "芯片不是一只巨大的晶体管",
+      "globalTime": 134.466,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 17,
+      "renderedCharacters": 189,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片，不是一只巨大的晶体管。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 784,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接被集成制造在一起",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 338,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接，集成在一起",
+          "centerY": 345,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 431,
+          "fontSize": 29,
+          "width": 58,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接线路",
+          "centerY": 711,
+          "fontSize": 29,
+          "width": 116,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 361,
+          "fontSize": 44,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“单个大开关”",
+          "centerY": 419,
+          "fontSize": 30,
+          "width": 238.44,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 ≠ 整个封装",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 223.62,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以集成电路为例 · 封装结构示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "当许多器件和它们之间的连接，被集成制造在一小块半导体材料上，就形成了集成电路。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "芯片不是一只巨大的晶体管",
+      "globalTime": 143.417,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 17,
+      "renderedCharacters": 168,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片，不是一只巨大的晶体管。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 784,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接被集成制造在一起",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 338,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接，集成在一起",
+          "centerY": 345,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 431,
+          "fontSize": 29,
+          "width": 58,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接线路",
+          "centerY": 711,
+          "fontSize": 29,
+          "width": 116,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 361,
+          "fontSize": 44,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“单个大开关”",
+          "centerY": 419,
+          "fontSize": 30,
+          "width": 238.44,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 ≠ 整个封装",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 223.62,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以集成电路为例 · 封装结构示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "它里面既有器件，也有连接器件的线路。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 702,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "芯片不是一只巨大的晶体管",
+      "globalTime": 148.212,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "captions": 2,
+        "disclosure": 2
+      },
+      "textCalls": 19,
+      "renderedCharacters": 201,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片，不是一只巨大的晶体管。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 784,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接被集成制造在一起",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 338,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "封装与内部裸片",
+          "centerY": 345,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "内部：裸片",
+          "centerY": 569,
+          "fontSize": 30,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 361,
+          "fontSize": 44,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“单个大开关”",
+          "centerY": 419,
+          "fontSize": 30,
+          "width": 238.44,
+          "layer": "diagram"
+        },
+        {
+          "text": "单裸片封装",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 140,
+          "layer": "diagram"
+        },
+        {
+          "text": "多裸片封装",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 140,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 ≠ 整个封装",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 223.62,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以集成电路为例 · 封装结构示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "你在电路板上看到的黑色小方块，通常还带有封装；",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "打开封装后，里面可能是一块裸片，也可能有多块。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "芯片不是一只巨大的晶体管",
+      "globalTime": 156.203,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "captions": 2,
+        "disclosure": 2
+      },
+      "textCalls": 19,
+      "renderedCharacters": 201,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片，不是一只巨大的晶体管。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 784,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接被集成制造在一起",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 338,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "封装与内部裸片",
+          "centerY": 345,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "内部：裸片",
+          "centerY": 569,
+          "fontSize": 30,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 361,
+          "fontSize": 44,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“单个大开关”",
+          "centerY": 419,
+          "fontSize": 30,
+          "width": 238.44,
+          "layer": "diagram"
+        },
+        {
+          "text": "单裸片封装",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 140,
+          "layer": "diagram"
+        },
+        {
+          "text": "多裸片封装",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 140,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 ≠ 整个封装",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 223.62,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以集成电路为例 · 封装结构示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "你在电路板上看到的黑色小方块，通常还带有封装；",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "打开封装后，里面可能是一块裸片，也可能有多块。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "晶圆是加工的载体",
+      "globalTime": 166.147,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 2,
+        "captions": 2,
+        "disclosure": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 212,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶圆，是制造电路的载体。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "空白晶圆与加工后的晶圆，不是同一个状态",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "加工前：空白硅晶圆",
+          "centerY": 744,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 356,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见例子：硅",
+          "centerY": 403,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "形状",
+          "centerY": 464,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "薄薄的圆形片",
+          "centerY": 511,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "作用",
+          "centerY": 572,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件与电路的载体",
+          "centerY": 619,
+          "fontSize": 34,
+          "width": 340,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆是加工载体，不等于成品芯片。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化示意 · 不同产品可用不同材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 360.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "在常见的硅芯片制造中，它是一片薄薄的圆形硅片，",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "经过精密加工，作为制造器件和电路的载体。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 780,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "晶圆是加工的载体",
+      "globalTime": 174.733,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 19,
+      "renderedCharacters": 188,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶圆，是制造电路的载体。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "空白晶圆与加工后的晶圆，不是同一个状态",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "加工前：空白硅晶圆",
+          "centerY": 744,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 356,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见例子：硅",
+          "centerY": 403,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "形状",
+          "centerY": 464,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "薄薄的圆形片",
+          "centerY": 511,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "作用",
+          "centerY": 572,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件与电路的载体",
+          "centerY": 619,
+          "fontSize": 34,
+          "width": 340,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆是加工载体，不等于成品芯片。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化示意 · 不同产品可用不同材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 360.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "先不要把它想成一张已经完成的芯片拼图。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 741,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "晶圆是加工的载体",
+      "globalTime": 179.333,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 23,
+      "renderedCharacters": 196,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶圆，是制造电路的载体。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "空白晶圆与加工后的晶圆，不是同一个状态",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "加工前：空白硅晶圆",
+          "centerY": 744,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 356,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见例子：硅",
+          "centerY": 403,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "形状",
+          "centerY": 464,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "薄薄的圆形片",
+          "centerY": 511,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "作用",
+          "centerY": 572,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件与电路的载体",
+          "centerY": 619,
+          "fontSize": 34,
+          "width": 340,
+          "layer": "diagram"
+        },
+        {
+          "text": "加材料",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "做图案",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "去材料",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆是加工载体，不等于成品芯片。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化示意 · 不同产品可用不同材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 360.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "开始时，它还需要经历很多道加工。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 624,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "晶圆是加工的载体",
+      "globalTime": 187,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 23,
+      "renderedCharacters": 210,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "晶圆，是制造电路的载体。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "空白晶圆与加工后的晶圆，不是同一个状态",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "加工后：重复的电路区域",
+          "centerY": 744,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 356,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见例子：硅",
+          "centerY": 403,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "形状",
+          "centerY": 464,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "薄薄的圆形片",
+          "centerY": 511,
+          "fontSize": 34,
+          "width": 204,
+          "layer": "diagram"
+        },
+        {
+          "text": "作用",
+          "centerY": 572,
+          "fontSize": 23,
+          "width": 46,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件与电路的载体",
+          "centerY": 619,
+          "fontSize": 34,
+          "width": 340,
+          "layer": "diagram"
+        },
+        {
+          "text": "加材料",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "做图案",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "去材料",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查",
+          "centerY": 741,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆是加工载体，不等于成品芯片。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化示意 · 不同产品可用不同材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 360.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "逐步完成加工后，一片晶圆上通常会形成许多重复的电路区域。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1092,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "从晶圆到裸片，再到产品",
+      "globalTime": 197.305,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 212,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片晶圆，到一块裸片。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "器件在晶圆上制造，不是逐个粘上去",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工后的晶圆",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "包含许多电路区域",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "从晶圆上分割出来",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装产品",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护与连接内部器件",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 207,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见路径的简化展示",
+          "centerY": 770,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是把现成晶体管，一个个粘上去。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "测试与封装顺序会随产品和工艺变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "takeaway"
+        },
+        {
+          "text": "工厂在上面反复形成器件和连接，不是把无数现成的晶体管逐个粘上去。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1248,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "从晶圆到裸片，再到产品",
+      "globalTime": 206.517,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 23,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片晶圆，到一块裸片。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "器件在晶圆上制造，不是逐个粘上去",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 494.112,
+          "fontSize": 47.84,
+          "width": 47.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工后的晶圆",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "包含许多电路区域",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "从晶圆上分割出来",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装产品",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护与连接内部器件",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 207,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见路径的简化展示",
+          "centerY": 770,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是把现成晶体管，一个个粘上去。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "测试与封装顺序会随产品和工艺变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "takeaway"
+        },
+        {
+          "text": "完成加工后，还要测试、分割，并进行封装等后续工作。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 975,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "从晶圆到裸片，再到产品",
+      "globalTime": 211.452,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 23,
+      "renderedCharacters": 194,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片晶圆，到一块裸片。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "器件在晶圆上制造，不是逐个粘上去",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 494.112,
+          "fontSize": 47.84,
+          "width": 47.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工后的晶圆",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "包含许多电路区域",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "从晶圆上分割出来",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装产品",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护与连接内部器件",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 207,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见路径的简化展示",
+          "centerY": 770,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是把现成晶体管，一个个粘上去。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "测试与封装顺序会随产品和工艺变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "takeaway"
+        },
+        {
+          "text": "分割出来的一小块叫裸片。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 468,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "从晶圆到裸片，再到产品",
+      "globalTime": 219.677,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 23,
+      "renderedCharacters": 219,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片晶圆，到一块裸片。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "器件在晶圆上制造，不是逐个粘上去",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 360,
+          "fontSize": 24,
+          "width": 28.32,
+          "layer": "diagram"
+        },
+        {
+          "text": "IC",
+          "centerY": 494.112,
+          "fontSize": 47.84,
+          "width": 47.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工后的晶圆",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "包含许多电路区域",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "从晶圆上分割出来",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 184,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装产品",
+          "centerY": 641,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护与连接内部器件",
+          "centerY": 690,
+          "fontSize": 23,
+          "width": 207,
+          "layer": "diagram"
+        },
+        {
+          "text": "常见路径的简化展示",
+          "centerY": 770,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是把现成晶体管，一个个粘上去。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "测试与封装顺序会随产品和工艺变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "takeaway"
+        },
+        {
+          "text": "具体的测试和封装顺序，会随产品与工艺变化，不是所有芯片都走完全一样的路线。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "芯片不只有处理器",
+      "globalTime": 230.579,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 182,
+      "diagramMinFontPx": 26.26,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片的任务，不只有计算。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，并非完整或互斥的分类",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "IC",
+          "centerY": 415,
+          "fontSize": 26.26,
+          "width": 25.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "计算与控制",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 195,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理器 · 控制器",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据存储",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "内存 · 闪存",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 140.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "信号处理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "声音 · 传感器信号",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 224.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "电源管理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "供电 · 电池管理",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同任务，带来不同的材料、器件与制造要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 630,
+          "layer": "takeaway"
+        },
+        {
+          "text": "但不同芯片承担不同任务。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 468,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "芯片不只有处理器",
+      "globalTime": 240.267,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 210,
+      "diagramMinFontPx": 26.26,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片的任务，不只有计算。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，并非完整或互斥的分类",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "IC",
+          "centerY": 415,
+          "fontSize": 26.26,
+          "width": 25.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "计算与控制",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 195,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理器 · 控制器",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据存储",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "内存 · 闪存",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 140.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "信号处理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "声音 · 传感器信号",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 224.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "电源管理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "供电 · 电池管理",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同任务，带来不同的材料、器件与制造要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 630,
+          "layer": "takeaway"
+        },
+        {
+          "text": "有的负责计算和控制，有的负责存储数据，还有的处理声音、传感器信号，或者管理电源。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1560,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "芯片不只有处理器",
+      "globalTime": 245.457,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 190,
+      "diagramMinFontPx": 26.26,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片的任务，不只有计算。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，并非完整或互斥的分类",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "IC",
+          "centerY": 415,
+          "fontSize": 26.26,
+          "width": 25.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "计算与控制",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 195,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理器 · 控制器",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据存储",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "内存 · 闪存",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 140.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "信号处理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "声音 · 传感器信号",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 224.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "电源管理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "供电 · 电池管理",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同任务，带来不同的材料、器件与制造要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 630,
+          "layer": "takeaway"
+        },
+        {
+          "text": "所以，理解半导体行业，不能只盯着处理器。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 780,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "芯片不只有处理器",
+      "globalTime": 254.107,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 193,
+      "diagramMinFontPx": 26.26,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "芯片的任务，不只有计算。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 672,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，并非完整或互斥的分类",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "IC",
+          "centerY": 415,
+          "fontSize": 26.26,
+          "width": 25.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "计算与控制",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 195,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理器 · 控制器",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据存储",
+          "centerY": 389,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "内存 · 闪存",
+          "centerY": 452,
+          "fontSize": 28,
+          "width": 140.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "信号处理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "声音 · 传感器信号",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 224.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "电源管理",
+          "centerY": 629,
+          "fontSize": 39,
+          "width": 156,
+          "layer": "diagram"
+        },
+        {
+          "text": "供电 · 电池管理",
+          "centerY": 692,
+          "fontSize": 28,
+          "width": 196.25,
+          "layer": "diagram"
+        },
+        {
+          "text": "不同任务，带来不同的材料、器件与制造要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 630,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不同用途，也会带来不同的材料、器件和制造要求。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "把概念放回一张图",
+      "globalTime": 265.193,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 16,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 28,
+      "renderedCharacters": 221,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，把四个概念放回原位。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "它们谈论的是不同层级，而不是同一件东西",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "例如：硅",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "可以控制电流",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "在上面形成电路区域",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 180,
+          "layer": "diagram"
+        },
+        {
+          "text": "许多器件及其连接",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件",
+          "centerY": 344,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅可制成晶圆",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 110.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "在晶圆上加工",
+          "centerY": 638,
+          "fontSize": 23,
+          "width": 138,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料、器件、电路、载体：四个不同层级。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以常见硅基集成电路为例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "takeaway"
+        },
+        {
+          "text": "半导体，是材料类别，硅是常见例子。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 663,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "把概念放回一张图",
+      "globalTime": 274.9,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 16,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 28,
+      "renderedCharacters": 240,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，把四个概念放回原位。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "它们谈论的是不同层级，而不是同一件东西",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "例如：硅",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "可以控制电流",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "在上面形成电路区域",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 180,
+          "layer": "diagram"
+        },
+        {
+          "text": "许多器件及其连接",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件",
+          "centerY": 344,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅可制成晶圆",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 110.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "在晶圆上加工",
+          "centerY": 638,
+          "fontSize": 23,
+          "width": 138,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料、器件、电路、载体：四个不同层级。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以常见硅基集成电路为例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "takeaway"
+        },
+        {
+          "text": "晶圆，则是制造过程中使用的载体，在它上面加工出许多电路区域，再获得裸片。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1404,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "把概念放回一张图",
+      "globalTime": 280.1,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 16,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 28,
+      "renderedCharacters": 240,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，把四个概念放回原位。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "它们谈论的是不同层级，而不是同一件东西",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "例如：硅",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "可以控制电流",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "在上面形成电路区域",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 180,
+          "layer": "diagram"
+        },
+        {
+          "text": "许多器件及其连接",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件",
+          "centerY": 344,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅可制成晶圆",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 110.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "在晶圆上加工",
+          "centerY": 638,
+          "fontSize": 23,
+          "width": 138,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料、器件、电路、载体：四个不同层级。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以常见硅基集成电路为例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "takeaway"
+        },
+        {
+          "text": "晶圆，则是制造过程中使用的载体，在它上面加工出许多电路区域，再获得裸片。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1404,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "把概念放回一张图",
+      "globalTime": 288.767,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 16,
+        "takeaway": 2,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 28,
+      "renderedCharacters": 234,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，把四个概念放回原位。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "它们谈论的是不同层级，而不是同一件东西",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料类别",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "例如：硅",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件",
+          "centerY": 335,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶体管",
+          "centerY": 400,
+          "fontSize": 45,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "可以控制电流",
+          "centerY": 401,
+          "fontSize": 25,
+          "width": 150,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工载体",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "在上面形成电路区域",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路",
+          "centerY": 630,
+          "fontSize": 24,
+          "width": 48,
+          "layer": "diagram"
+        },
+        {
+          "text": "集成电路",
+          "centerY": 695,
+          "fontSize": 45,
+          "width": 180,
+          "layer": "diagram"
+        },
+        {
+          "text": "许多器件及其连接",
+          "centerY": 696,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造器件",
+          "centerY": 344,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅可制成晶圆",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "器件 + 连接",
+          "centerY": 530,
+          "fontSize": 22,
+          "width": 110.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "在晶圆上加工",
+          "centerY": 638,
+          "fontSize": 23,
+          "width": 138,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料、器件、电路、载体：四个不同层级。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "以常见硅基集成电路为例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这几个词分别在讲材料、器件、电路和载体，不是同一层面的名字。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1170,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "三个小问题与下一集",
+      "globalTime": 301.965,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 3,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 14,
+      "renderedCharacters": 161,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "三个问题，检查你的第一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 840,
+          "layer": "title"
+        },
+        {
+          "text": "不背术语：能分清关系，就已经迈出第一步",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 1 / 3",
+          "centerY": 368,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "半导体是一种材料类别吗？",
+          "centerY": 460,
+          "fontSize": 49,
+          "width": 588,
+          "layer": "diagram"
+        },
+        {
+          "text": "想一想…",
+          "centerY": 579,
+          "fontSize": 34,
+          "width": 136,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看懂基本概念，再理解制造、设备与 AI。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 575.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "半导体，是不是一种材料类别？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 546,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "三个小问题与下一集",
+      "globalTime": 314.35,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 3,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 14,
+      "renderedCharacters": 160,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "三个问题，检查你的第一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 840,
+          "layer": "title"
+        },
+        {
+          "text": "不背术语：能分清关系，就已经迈出第一步",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 3 / 3",
+          "centerY": 368,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "所有芯片都是处理器吗？",
+          "centerY": 460,
+          "fontSize": 49,
+          "width": 539,
+          "layer": "diagram"
+        },
+        {
+          "text": "想一想…",
+          "centerY": 579,
+          "fontSize": 34,
+          "width": 136,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看懂基本概念，再理解制造、设备与 AI。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 575.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "所有芯片，都用来做处理器吗？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 546,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "三个小问题与下一集",
+      "globalTime": 320.985,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 15,
+      "renderedCharacters": 185,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "三个问题，检查你的第一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 840,
+          "layer": "title"
+        },
+        {
+          "text": "不背术语：能分清关系，就已经迈出第一步",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 3 / 3",
+          "centerY": 368,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "所有芯片都是处理器吗？",
+          "centerY": 460,
+          "fontSize": 49,
+          "width": 539,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 564,
+          "fontSize": 66,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "还可以存储数据、处理信号、管理电源。",
+          "centerY": 667,
+          "fontSize": 31,
+          "width": 558,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看懂基本概念，再理解制造、设备与 AI。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 575.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "如果这些区别已经清楚，你就有了继续学习的起点。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "三个小问题与下一集",
+      "globalTime": 332.043,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "captions": 1,
+        "disclosure": 2
+      },
+      "textCalls": 17,
+      "renderedCharacters": 190,
+      "diagramMinFontPx": 28,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  从概念到设备",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 282.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 01",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "三个问题，检查你的第一张地图。",
+          "centerY": 160,
+          "fontSize": 56,
+          "width": 840,
+          "layer": "title"
+        },
+        {
+          "text": "不背术语：能分清关系，就已经迈出第一步",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "下一集",
+          "centerY": 343,
+          "fontSize": 28,
+          "width": 84,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片，是怎样制造出来的？",
+          "centerY": 423,
+          "fontSize": 58,
+          "width": 696,
+          "layer": "diagram"
+        },
+        {
+          "text": "增加材料",
+          "centerY": 659,
+          "fontSize": 32,
+          "width": 128,
+          "layer": "diagram"
+        },
+        {
+          "text": "形成图案",
+          "centerY": 659,
+          "fontSize": 32,
+          "width": 128,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉材料",
+          "centerY": 659,
+          "fontSize": 32,
+          "width": 128,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查结果",
+          "centerY": 659,
+          "fontSize": 32,
+          "width": 128,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看懂基本概念，再理解制造、设备与 AI。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 575.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "下一集，我们看工厂怎样在晶圆上增加材料、形成图案、去掉材料，并检查结果。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1404,
+          "layer": "captions"
+        },
+        {
+          "text": "原创原理示意 · 非真实比例",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 228.17,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        }
+      ]
+    }
+  ]
+}

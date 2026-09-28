@@ -1,0 +1,6597 @@
+{
+  "episode": "05",
+  "phase": "before",
+  "videoSha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177",
+  "method": "Source text measurements at 22%,50%,65%,90% per scene; y-based layers are heuristic. Neither repeated wording nor character count proves cognitive overload. Verify with actual frames and reader testing.",
+  "samples": [
+    {
+      "scene": "01",
+      "title": "先找问题，再找模型",
+      "globalTime": 8.052,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 159,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "先找问题，再决定用什么模型。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "例子：设备加工后的膜厚出现异常",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "谁负责？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "什么数据？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "怎样调查？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "调查与证据",
+          "centerY": 483,
+          "fontSize": 38,
+          "width": 190,
+          "layer": "diagram"
+        },
+        {
+          "text": "先缩小范围",
+          "centerY": 552,
+          "fontSize": 27,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是预先给根因",
+          "centerY": 596,
+          "fontSize": 25,
+          "width": 175,
+          "layer": "diagram"
+        },
+        {
+          "text": "这是教学情境，不是真实工厂事故。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不承诺效果与收益",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 160,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "现在终于可以讨论 AI。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 394.88,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "先找问题，再找模型",
+      "globalTime": 18.3,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 180,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "先找问题，再决定用什么模型。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "例子：设备加工后的膜厚出现异常",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "谁负责？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "什么数据？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "怎样调查？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "调查与证据",
+          "centerY": 483,
+          "fontSize": 38,
+          "width": 190,
+          "layer": "diagram"
+        },
+        {
+          "text": "先缩小范围",
+          "centerY": 552,
+          "fontSize": 27,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是预先给根因",
+          "centerY": 596,
+          "fontSize": 25,
+          "width": 175,
+          "layer": "diagram"
+        },
+        {
+          "text": "这是教学情境，不是真实工厂事故。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不承诺效果与收益",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 160,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "假设某台设备加工后的膜厚出现异常，这是一个教学情境，不是真实事故。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1287,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "先找问题，再找模型",
+      "globalTime": 23.79,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 180,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "先找问题，再决定用什么模型。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "例子：设备加工后的膜厚出现异常",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "谁负责？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "什么数据？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "怎样调查？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "调查与证据",
+          "centerY": 483,
+          "fontSize": 38,
+          "width": 190,
+          "layer": "diagram"
+        },
+        {
+          "text": "先缩小范围",
+          "centerY": 552,
+          "fontSize": 27,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是预先给根因",
+          "centerY": 596,
+          "fontSize": 25,
+          "width": 175,
+          "layer": "diagram"
+        },
+        {
+          "text": "这是教学情境，不是真实工厂事故。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不承诺效果与收益",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 160,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "假设某台设备加工后的膜厚出现异常，这是一个教学情境，不是真实事故。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1287,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "先找问题，再找模型",
+      "globalTime": 32.94,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 167,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "先找问题，再决定用什么模型。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "例子：设备加工后的膜厚出现异常",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "谁负责？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "什么数据？",
+          "centerY": 381.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "怎样调查？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收？",
+          "centerY": 675.5,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "调查与证据",
+          "centerY": 483,
+          "fontSize": 38,
+          "width": 190,
+          "layer": "diagram"
+        },
+        {
+          "text": "先缩小范围",
+          "centerY": 552,
+          "fontSize": 27,
+          "width": 135,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是预先给根因",
+          "centerY": 596,
+          "fontSize": 25,
+          "width": 175,
+          "layer": "diagram"
+        },
+        {
+          "text": "这是教学情境，不是真实工厂事故。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不承诺效果与收益",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 160,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "这些问题，决定 AI 能不能真正帮上忙。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 676.61,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "第一条线：工程师知识助手",
+      "globalTime": 44.601,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 299,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "知识助手：答案需要来源和边界。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "流畅，不等于正确；版本和权限不能省略",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一问题：ET-01 / R2，异常该如何排查？",
+          "centerY": 295,
+          "fontSize": 29,
+          "width": 546.01,
+          "layer": "diagram"
+        },
+        {
+          "text": "检索结果，不等于诊断结论",
+          "centerY": 367,
+          "fontSize": 28,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "检索到旧版",
+          "centerY": 444,
+          "fontSize": 29,
+          "width": 145,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-A / R1",
+          "centerY": 499,
+          "fontSize": 31,
+          "width": 153.64,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 549,
+          "fontSize": 22,
+          "width": 264.2,
+          "layer": "diagram"
+        },
+        {
+          "text": "检索到匹配版本",
+          "centerY": 499,
+          "fontSize": 29,
+          "width": 203,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-B / R2",
+          "centerY": 554,
+          "fontSize": 31,
+          "width": 154.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 604,
+          "fontSize": 22,
+          "width": 264.2,
+          "layer": "diagram"
+        },
+        {
+          "text": "现场证据",
+          "centerY": 374,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  仍需补充故障上下文",
+          "centerY": 465,
+          "fontSize": 31,
+          "width": 321.22,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能只凭文档就认定原因",
+          "centerY": 600,
+          "fontSize": 29,
+          "width": 319,
+          "layer": "diagram"
+        },
+        {
+          "text": "工程师确认 / 安全规程 / 数据权限",
+          "centerY": 728,
+          "fontSize": 26,
+          "width": 381.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据不足就说明，不编造维修步骤。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学建议 · 不直接控制设备",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "最容易想到的是知识助手：帮助工程师查手册、历史工单、报警说明和相关版本。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1404,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "第一条线：工程师知识助手",
+      "globalTime": 54.783,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 13,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 24,
+      "renderedCharacters": 319,
+      "diagramMinFontPx": 11.44,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "知识助手：答案需要来源和边界。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "流畅，不等于正确；版本和权限不能省略",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一问题：ET-01 / R2，异常该如何排查？",
+          "centerY": 295,
+          "fontSize": 29,
+          "width": 546.01,
+          "layer": "diagram"
+        },
+        {
+          "text": "检索结果，不等于诊断结论",
+          "centerY": 367,
+          "fontSize": 28,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "排除：版本不符",
+          "centerY": 657.7599992752075,
+          "fontSize": 15.08,
+          "width": 105.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-A / R1",
+          "centerY": 686.3599982261658,
+          "fontSize": 16.12,
+          "width": 79.89,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 712.3599972724915,
+          "fontSize": 11.44,
+          "width": 137.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅作为候选依据",
+          "centerY": 448,
+          "fontSize": 29,
+          "width": 203,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-B / R2",
+          "centerY": 503,
+          "fontSize": 31,
+          "width": 154.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 553,
+          "fontSize": 22,
+          "width": 264.2,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本匹配，仍需检查权限与现场条件",
+          "centerY": 718,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "diagram"
+        },
+        {
+          "text": "现场证据",
+          "centerY": 374,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  仍需补充故障上下文",
+          "centerY": 465,
+          "fontSize": 31,
+          "width": 321.22,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能只凭文档就认定原因",
+          "centerY": 600,
+          "fontSize": 29,
+          "width": 319,
+          "layer": "diagram"
+        },
+        {
+          "text": "工程师确认 / 安全规程 / 数据权限",
+          "centerY": 728,
+          "fontSize": 26,
+          "width": 381.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据不足就说明，不编造维修步骤。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学建议 · 不直接控制设备",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "但重点不是回答得像专家，而是引用是否正确、资料版本是否匹配、有没有超出权限。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1482,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "第一条线：工程师知识助手",
+      "globalTime": 60.238,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 14,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 25,
+      "renderedCharacters": 321,
+      "diagramMinFontPx": 11.44,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "知识助手：答案需要来源和边界。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "流畅，不等于正确；版本和权限不能省略",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一问题：ET-01 / R2，异常该如何排查？",
+          "centerY": 295,
+          "fontSize": 29,
+          "width": 546.01,
+          "layer": "diagram"
+        },
+        {
+          "text": "检索结果，不等于诊断结论",
+          "centerY": 367,
+          "fontSize": 28,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "排除：版本不符",
+          "centerY": 657.7599992752075,
+          "fontSize": 15.08,
+          "width": 105.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-A / R1",
+          "centerY": 686.3599982261658,
+          "fontSize": 16.12,
+          "width": 79.89,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 712.3599972724915,
+          "fontSize": 11.44,
+          "width": 137.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅作为候选依据",
+          "centerY": 448,
+          "fontSize": 29,
+          "width": 203,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-B / R2",
+          "centerY": 503,
+          "fontSize": 31,
+          "width": 154.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 553,
+          "fontSize": 22,
+          "width": 264.2,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本匹配，仍需检查权限与现场条件",
+          "centerY": 718,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "diagram"
+        },
+        {
+          "text": "现场证据",
+          "centerY": 374,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  仍需补充故障上下文",
+          "centerY": 465,
+          "fontSize": 31,
+          "width": 321.22,
+          "layer": "diagram"
+        },
+        {
+          "text": "暂不能确定，需补充信息",
+          "centerY": 588,
+          "fontSize": 36,
+          "width": 396,
+          "layer": "diagram"
+        },
+        {
+          "text": "不编造维修步骤，不向设备下指令",
+          "centerY": 651,
+          "fontSize": 28,
+          "width": 420,
+          "layer": "diagram"
+        },
+        {
+          "text": "工程师确认 / 安全规程 / 数据权限",
+          "centerY": 728,
+          "fontSize": 26,
+          "width": 381.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据不足就说明，不编造维修步骤。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学建议 · 不直接控制设备",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "遇到证据不足，应当说明不知道，而不是编造维修步骤。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 975,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "第一条线：工程师知识助手",
+      "globalTime": 69.33,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 14,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 25,
+      "renderedCharacters": 334,
+      "diagramMinFontPx": 11.44,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "知识助手：答案需要来源和边界。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "流畅，不等于正确；版本和权限不能省略",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一问题：ET-01 / R2，异常该如何排查？",
+          "centerY": 295,
+          "fontSize": 29,
+          "width": 546.01,
+          "layer": "diagram"
+        },
+        {
+          "text": "检索结果，不等于诊断结论",
+          "centerY": 367,
+          "fontSize": 28,
+          "width": 336,
+          "layer": "diagram"
+        },
+        {
+          "text": "排除：版本不符",
+          "centerY": 657.7599992752075,
+          "fontSize": 15.08,
+          "width": 105.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-A / R1",
+          "centerY": 686.3599982261658,
+          "fontSize": 16.12,
+          "width": 79.89,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 712.3599972724915,
+          "fontSize": 11.44,
+          "width": 137.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅作为候选依据",
+          "centerY": 448,
+          "fontSize": 29,
+          "width": 203,
+          "layer": "diagram"
+        },
+        {
+          "text": "Doc-B / R2",
+          "centerY": 503,
+          "fontSize": 31,
+          "width": 154.88,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成手册示例 · 非维修步骤",
+          "centerY": 553,
+          "fontSize": 22,
+          "width": 264.2,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本匹配，仍需检查权限与现场条件",
+          "centerY": 718,
+          "fontSize": 24,
+          "width": 384,
+          "layer": "diagram"
+        },
+        {
+          "text": "现场证据",
+          "centerY": 374,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  仍需补充故障上下文",
+          "centerY": 465,
+          "fontSize": 31,
+          "width": 321.22,
+          "layer": "diagram"
+        },
+        {
+          "text": "暂不能确定，需补充信息",
+          "centerY": 588,
+          "fontSize": 36,
+          "width": 396,
+          "layer": "diagram"
+        },
+        {
+          "text": "不编造维修步骤，不向设备下指令",
+          "centerY": 651,
+          "fontSize": 28,
+          "width": 420,
+          "layer": "diagram"
+        },
+        {
+          "text": "工程师确认 / 安全规程 / 数据权限",
+          "centerY": 728,
+          "fontSize": 26,
+          "width": 381.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据不足就说明，不编造维修步骤。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学建议 · 不直接控制设备",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "它可以缩短查资料的过程，不能仅凭一段流畅文字，就替代现场确认或安全操作规程。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1482,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "第二条线：异常检测与排障辅助",
+      "globalTime": 81.363,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 221,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "异常检测：把记录放回同一时间轴。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "报警、过程曲线、配方与维护一起看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "压力信号",
+          "centerY": 366,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "温度信号",
+          "centerY": 476,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "报警 / 维护",
+          "centerY": 586,
+          "fontSize": 25,
+          "width": 121.03,
+          "layer": "diagram"
+        },
+        {
+          "text": "关联时间窗口",
+          "centerY": 398,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一设备",
+          "centerY": 489,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一批次",
+          "centerY": 562,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本 / 维护上下文",
+          "centerY": 635,
+          "fontSize": 28,
+          "width": 219.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "教学合成 / 非实测",
+          "centerY": 730,
+          "fontSize": 24,
+          "width": 188.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "相关不等于因果，输出候选与证据。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "合成数据 · 关注误报、漏报、排查时间",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 340.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "更贴近设备的任务，是把报警、压力温度曲线、配方",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "步骤和维护记录放在一起，帮助发现异常与候选原因。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "第二条线：异常检测与排障辅助",
+      "globalTime": 92.05,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 195,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "异常检测：把记录放回同一时间轴。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "报警、过程曲线、配方与维护一起看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "压力信号",
+          "centerY": 366,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "温度信号",
+          "centerY": 476,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "报警 / 维护",
+          "centerY": 586,
+          "fontSize": 25,
+          "width": 121.03,
+          "layer": "diagram"
+        },
+        {
+          "text": "关联时间窗口",
+          "centerY": 398,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一设备",
+          "centerY": 489,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一批次",
+          "centerY": 562,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本 / 维护上下文",
+          "centerY": 635,
+          "fontSize": 28,
+          "width": 219.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "教学合成 / 非实测",
+          "centerY": 730,
+          "fontSize": 24,
+          "width": 188.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "相关不等于因果，输出候选与证据。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "合成数据 · 关注误报、漏报、排查时间",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 340.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "相关曲线一起变化，不证明其中一个就是原因。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "第二条线：异常检测与排障辅助",
+      "globalTime": 97.775,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 199,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "异常检测：把记录放回同一时间轴。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "报警、过程曲线、配方与维护一起看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "压力信号",
+          "centerY": 366,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "温度信号",
+          "centerY": 476,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "报警 / 维护",
+          "centerY": 586,
+          "fontSize": 25,
+          "width": 121.03,
+          "layer": "diagram"
+        },
+        {
+          "text": "关联时间窗口",
+          "centerY": 398,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一设备",
+          "centerY": 489,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一批次",
+          "centerY": 562,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本 / 维护上下文",
+          "centerY": 635,
+          "fontSize": 28,
+          "width": 219.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "教学合成 / 非实测",
+          "centerY": 730,
+          "fontSize": 24,
+          "width": 188.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "相关不等于因果，输出候选与证据。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "合成数据 · 关注误报、漏报、排查时间",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 340.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "系统应展示证据与不确定性，工程师再安排检查或实验。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 975,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "第二条线：异常检测与排障辅助",
+      "globalTime": 107.317,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 198,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "异常检测：把记录放回同一时间轴。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "报警、过程曲线、配方与维护一起看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "压力信号",
+          "centerY": 366,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "温度信号",
+          "centerY": 476,
+          "fontSize": 25,
+          "width": 100,
+          "layer": "diagram"
+        },
+        {
+          "text": "报警 / 维护",
+          "centerY": 586,
+          "fontSize": 25,
+          "width": 121.03,
+          "layer": "diagram"
+        },
+        {
+          "text": "关联时间窗口",
+          "centerY": 398,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一设备",
+          "centerY": 489,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一批次",
+          "centerY": 562,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "版本 / 维护上下文",
+          "centerY": 635,
+          "fontSize": 28,
+          "width": 219.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "教学合成 / 非实测",
+          "centerY": 730,
+          "fontSize": 24,
+          "width": 188.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "相关不等于因果，输出候选与证据。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 480,
+          "layer": "takeaway"
+        },
+        {
+          "text": "合成数据 · 关注误报、漏报、排查时间",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 340.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "验收要看误报、漏报和排查时间，而不只是模型分数。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "第三条线：维护时机与健康状态",
+      "globalTime": 119.567,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 210,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "预测维护：先判断状态，不夸大寿命预测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 988,
+          "layer": "title"
+        },
+        {
+          "text": "故障样本少、维修记录不完整，都限制可用性",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 520,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "状态趋势（教学示例，不是寿命预测）",
+          "centerY": 351,
+          "fontSize": 27,
+          "width": 459,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护事件",
+          "centerY": 650,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用工况",
+          "centerY": 393.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "状态变化",
+          "centerY": 535.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护",
+          "centerY": 677.5,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "公开方向存在，不代表可复制相同收益。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：TEL Epsira",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 196.62,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "还有预测性维护：根据使用工况、状态变化和维修记录，帮助判断何时检查或更换部件。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "第三条线：维护时机与健康状态",
+      "globalTime": 130.3,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 205,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "预测维护：先判断状态，不夸大寿命预测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 988,
+          "layer": "title"
+        },
+        {
+          "text": "故障样本少、维修记录不完整，都限制可用性",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 520,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "状态趋势（教学示例，不是寿命预测）",
+          "centerY": 351,
+          "fontSize": 27,
+          "width": 459,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护事件",
+          "centerY": 650,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用工况",
+          "centerY": 393.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "状态变化",
+          "centerY": 535.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护",
+          "centerY": 677.5,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "公开方向存在，不代表可复制相同收益。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：TEL Epsira",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 196.62,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "起步时先做异常提醒或健康状态评估，往往比承诺准确预测剩余寿命更诚实。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1326,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "第三条线：维护时机与健康状态",
+      "globalTime": 136.05,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 205,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "预测维护：先判断状态，不夸大寿命预测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 988,
+          "layer": "title"
+        },
+        {
+          "text": "故障样本少、维修记录不完整，都限制可用性",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 520,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "状态趋势（教学示例，不是寿命预测）",
+          "centerY": 351,
+          "fontSize": 27,
+          "width": 459,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护事件",
+          "centerY": 650,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用工况",
+          "centerY": 393.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "状态变化",
+          "centerY": 535.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护",
+          "centerY": 677.5,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "公开方向存在，不代表可复制相同收益。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：TEL Epsira",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 196.62,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "起步时先做异常提醒或健康状态评估，往往比承诺准确预测剩余寿命更诚实。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1326,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "第三条线：维护时机与健康状态",
+      "globalTime": 145.633,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 17,
+      "renderedCharacters": 220,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "预测维护：先判断状态，不夸大寿命预测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 988,
+          "layer": "title"
+        },
+        {
+          "text": "故障样本少、维修记录不完整，都限制可用性",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 520,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "状态趋势（教学示例，不是寿命预测）",
+          "centerY": 351,
+          "fontSize": 27,
+          "width": 459,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护事件",
+          "centerY": 650,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用工况",
+          "centerY": 393.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "状态变化",
+          "centerY": 535.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 维护",
+          "centerY": 677.5,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "公开方向存在，不代表可复制相同收益。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：TEL Epsira",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 196.62,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "东京电子公开的方案包含清洗间隔分析和故障分析，",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        },
+        {
+          "text": "说明有这种方向，不代表你的设备可以直接复用相同效果。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "第四条线：配方优化与虚拟量测",
+      "globalTime": 157.695,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 201,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "优化配方，要回到真实实验和量测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "模型提出建议，工程流程负责验证",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "实验数据",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "模型建议",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "受控实验",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "真实量测",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "审批与真实验证",
+          "centerY": 512,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能跳过中间步骤",
+          "centerY": 561,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "虚拟量测不是未经验证就取消实际量测。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：Applied Materials AIx",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 293.64,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "工艺团队还可以用模型辅助选择下一轮实验，或者根据过程数据估计某些量测结果。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "第四条线：配方优化与虚拟量测",
+      "globalTime": 168.167,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 202,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "优化配方，要回到真实实验和量测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "模型提出建议，工程流程负责验证",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "实验数据",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "模型建议",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "受控实验",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "真实量测",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "审批与真实验证",
+          "centerY": 512,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能跳过中间步骤",
+          "centerY": 561,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "虚拟量测不是未经验证就取消实际量测。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：Applied Materials AIx",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 293.64,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "应用材料的公开平台包含配方优化、设备匹配和数字孪生能力，这是产品方向的证据。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1482,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "第四条线：配方优化与虚拟量测",
+      "globalTime": 173.777,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 191,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "优化配方，要回到真实实验和量测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "模型提出建议，工程流程负责验证",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "实验数据",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "模型建议",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "受控实验",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "真实量测",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "审批与真实验证",
+          "centerY": 512,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能跳过中间步骤",
+          "centerY": 561,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "虚拟量测不是未经验证就取消实际量测。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：Applied Materials AIx",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 293.64,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "但模型需要真实量测来训练和验证，也要考虑设备状态变化。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1053,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "第四条线：配方优化与虚拟量测",
+      "globalTime": 183.127,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 203,
+      "diagramMinFontPx": 25,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "优化配方，要回到真实实验和量测。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "模型提出建议，工程流程负责验证",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "实验数据",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "模型建议",
+          "centerY": 374.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "受控实验",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "真实量测",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "审批与真实验证",
+          "centerY": 512,
+          "fontSize": 34,
+          "width": 238,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能跳过中间步骤",
+          "centerY": 561,
+          "fontSize": 25,
+          "width": 200,
+          "layer": "diagram"
+        },
+        {
+          "text": "虚拟量测不是未经验证就取消实际量测。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：Applied Materials AIx",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 293.64,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "虚拟量测不是未经验证就取消真实量测，推荐配方也不等于可以绕过工艺审批直接执行。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "第五条线：视觉检测与公司内部提效",
+      "globalTime": 195.219,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 236,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "视觉算法与内部提效，价值来源不同。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 884,
+          "layer": "title"
+        },
+        {
+          "text": "检测产品能力，与装配、报告、软件测试分开看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 546,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备产品能力",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "公司内部提效",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "缺陷识别 → 辅助分类 → 复查",
+          "centerY": 406,
+          "fontSize": 29,
+          "width": 373.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成示意 / 非真实检测结果",
+          "centerY": 711,
+          "fontSize": 27,
+          "width": 319.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "装配检查",
+          "centerY": 460.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "调试报告",
+          "centerY": 554.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "软件测试",
+          "centerY": 648.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "独立业务任务，不是缺陷分类输出",
+          "centerY": 736,
+          "fontSize": 27,
+          "width": 405,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、统计与 AI，都用任务结果说话。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 515.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：KLA Lumina · 不预设 AI 胜出",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 357.9,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "科磊的公开系统就包含基于 AI 的缺陷复查与分类。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 871.61,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "第五条线：视觉检测与公司内部提效",
+      "globalTime": 205.85,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 243,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "视觉算法与内部提效，价值来源不同。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 884,
+          "layer": "title"
+        },
+        {
+          "text": "检测产品能力，与装配、报告、软件测试分开看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 546,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备产品能力",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "公司内部提效",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "缺陷识别 → 辅助分类 → 复查",
+          "centerY": 406,
+          "fontSize": 29,
+          "width": 373.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成示意 / 非真实检测结果",
+          "centerY": 711,
+          "fontSize": 27,
+          "width": 319.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "装配检查",
+          "centerY": 460.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "调试报告",
+          "centerY": 554.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "软件测试",
+          "centerY": 648.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "独立业务任务，不是缺陷分类输出",
+          "centerY": 736,
+          "fontSize": 27,
+          "width": 405,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、统计与 AI，都用任务结果说话。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 515.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：KLA Lumina · 不预设 AI 胜出",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 357.9,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "其他设备公司，也可以考虑装配检查、调试报告、软件测试等内部任务。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1248,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "第五条线：视觉检测与公司内部提效",
+      "globalTime": 211.545,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 246,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "视觉算法与内部提效，价值来源不同。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 884,
+          "layer": "title"
+        },
+        {
+          "text": "检测产品能力，与装配、报告、软件测试分开看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 546,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备产品能力",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "公司内部提效",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "缺陷识别 → 辅助分类 → 复查",
+          "centerY": 406,
+          "fontSize": 29,
+          "width": 373.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成示意 / 非真实检测结果",
+          "centerY": 711,
+          "fontSize": 27,
+          "width": 319.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "装配检查",
+          "centerY": 460.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "调试报告",
+          "centerY": 554.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "软件测试",
+          "centerY": 648.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "独立业务任务，不是缺陷分类输出",
+          "centerY": 736,
+          "fontSize": 27,
+          "width": 405,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、统计与 AI，都用任务结果说话。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 515.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：KLA Lumina · 不预设 AI 胜出",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 357.9,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "但不要把所有问题都包装成 AI：规则、统计分析或流程改进有时已经够用。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1291.88,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "第五条线：视觉检测与公司内部提效",
+      "globalTime": 221.037,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 237,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "视觉算法与内部提效，价值来源不同。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 884,
+          "layer": "title"
+        },
+        {
+          "text": "检测产品能力，与装配、报告、软件测试分开看",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 546,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备产品能力",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "公司内部提效",
+          "centerY": 351,
+          "fontSize": 38,
+          "width": 228,
+          "layer": "diagram"
+        },
+        {
+          "text": "缺陷识别 → 辅助分类 → 复查",
+          "centerY": 406,
+          "fontSize": 29,
+          "width": 373.98,
+          "layer": "diagram"
+        },
+        {
+          "text": "合成示意 / 非真实检测结果",
+          "centerY": 711,
+          "fontSize": 27,
+          "width": 319.68,
+          "layer": "diagram"
+        },
+        {
+          "text": "装配检查",
+          "centerY": 460.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "调试报告",
+          "centerY": 554.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "软件测试",
+          "centerY": 648.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "独立业务任务，不是缺陷分类输出",
+          "centerY": 736,
+          "fontSize": 27,
+          "width": 405,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、统计与 AI，都用任务结果说话。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 515.94,
+          "layer": "takeaway"
+        },
+        {
+          "text": "公开案例：KLA Lumina · 不预设 AI 胜出",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 357.9,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "选择方法要比较真实任务结果，而不是比较名词是否新潮。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "数据能否形成闭环",
+      "globalTime": 233.465,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 20,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 31,
+      "renderedCharacters": 333,
+      "diagramMinFontPx": 21,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "数据闭环：在授权范围内正确关联。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "设备、时间、批次与结果必须对得上",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "仅在授权范围内关联",
+          "centerY": 291,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 A 数据边界",
+          "centerY": 362,
+          "fontSize": 29,
+          "width": 205.76,
+          "layer": "diagram"
+        },
+        {
+          "text": "联合关联键，不是工序顺序",
+          "centerY": 362,
+          "fontSize": 25,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "过程记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "配方记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 + RUN-17 + W03",
+          "centerY": 672,
+          "fontSize": 28,
+          "width": 297.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "相同加工上下文；还需核对量测定义与位置",
+          "centerY": 720,
+          "fontSize": 23,
+          "width": 437,
+          "layer": "diagram"
+        },
+        {
+          "text": "量测候选",
+          "centerY": 448,
+          "fontSize": 22,
+          "width": 88,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 486,
+          "fontSize": 22,
+          "width": 118.62,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-16",
+          "centerY": 531,
+          "fontSize": 26,
+          "width": 96.95,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 B 数据边界",
+          "centerY": 369,
+          "fontSize": 25,
+          "width": 178.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "未授权",
+          "centerY": 508,
+          "fontSize": 30,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "不参与关联",
+          "centerY": 555,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "更多记录 ≠ 更可靠",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 185.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户之间的数据不能随意混用。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "更多数据，不自动等于更高质量",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 280,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "传感器曲线、配方、量测结果和维修动作，需要能关联到同一设备、时间和批次。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1404,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "数据能否形成闭环",
+      "globalTime": 244.45,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 23,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 34,
+      "renderedCharacters": 371,
+      "diagramMinFontPx": 21,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "数据闭环：在授权范围内正确关联。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "设备、时间、批次与结果必须对得上",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "仅在授权范围内关联",
+          "centerY": 291,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 A 数据边界",
+          "centerY": 362,
+          "fontSize": 29,
+          "width": 205.76,
+          "layer": "diagram"
+        },
+        {
+          "text": "联合关联键，不是工序顺序",
+          "centerY": 362,
+          "fontSize": 25,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "过程记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "配方记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 + RUN-17 + W03",
+          "centerY": 672,
+          "fontSize": 28,
+          "width": 297.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "相同加工上下文；还需核对量测定义与位置",
+          "centerY": 720,
+          "fontSize": 23,
+          "width": 437,
+          "layer": "diagram"
+        },
+        {
+          "text": "隔离：不是同一轮加工",
+          "centerY": 631,
+          "fontSize": 22,
+          "width": 220,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 669,
+          "fontSize": 22,
+          "width": 118.62,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-16",
+          "centerY": 714,
+          "fontSize": 26,
+          "width": 96.95,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17 / W03 的真实膜厚",
+          "centerY": 438,
+          "fontSize": 25,
+          "width": 297.3,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  缺少可靠量测标签",
+          "centerY": 497,
+          "fontSize": 28,
+          "width": 262.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能用另一轮记录填补",
+          "centerY": 547,
+          "fontSize": 22,
+          "width": 220,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 B 数据边界",
+          "centerY": 369,
+          "fontSize": 25,
+          "width": 178.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "未授权",
+          "centerY": 508,
+          "fontSize": 30,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "不参与关联",
+          "centerY": 555,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "更多记录 ≠ 更可靠",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 185.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户之间的数据不能随意混用。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "更多数据，不自动等于更高质量",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 280,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "客户数据还涉及授权、保密与隔离；不同客户之间不能随意混用。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "数据能否形成闭环",
+      "globalTime": 250.335,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 23,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 34,
+      "renderedCharacters": 371,
+      "diagramMinFontPx": 21,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "数据闭环：在授权范围内正确关联。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "设备、时间、批次与结果必须对得上",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "仅在授权范围内关联",
+          "centerY": 291,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 A 数据边界",
+          "centerY": 362,
+          "fontSize": 29,
+          "width": 205.76,
+          "layer": "diagram"
+        },
+        {
+          "text": "联合关联键，不是工序顺序",
+          "centerY": 362,
+          "fontSize": 25,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "过程记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "配方记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 + RUN-17 + W03",
+          "centerY": 672,
+          "fontSize": 28,
+          "width": 297.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "相同加工上下文；还需核对量测定义与位置",
+          "centerY": 720,
+          "fontSize": 23,
+          "width": 437,
+          "layer": "diagram"
+        },
+        {
+          "text": "隔离：不是同一轮加工",
+          "centerY": 631,
+          "fontSize": 22,
+          "width": 220,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 669,
+          "fontSize": 22,
+          "width": 118.62,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-16",
+          "centerY": 714,
+          "fontSize": 26,
+          "width": 96.95,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17 / W03 的真实膜厚",
+          "centerY": 438,
+          "fontSize": 25,
+          "width": 297.3,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  缺少可靠量测标签",
+          "centerY": 497,
+          "fontSize": 28,
+          "width": 262.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能用另一轮记录填补",
+          "centerY": 547,
+          "fontSize": 22,
+          "width": 220,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 B 数据边界",
+          "centerY": 369,
+          "fontSize": 25,
+          "width": 178.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "未授权",
+          "centerY": 508,
+          "fontSize": 30,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "不参与关联",
+          "centerY": 555,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "更多记录 ≠ 更可靠",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 185.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户之间的数据不能随意混用。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "更多数据，不自动等于更高质量",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 280,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "客户数据还涉及授权、保密与隔离；不同客户之间不能随意混用。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "数据能否形成闭环",
+      "globalTime": 260.143,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 23,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 34,
+      "renderedCharacters": 357,
+      "diagramMinFontPx": 21,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "数据闭环：在授权范围内正确关联。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "设备、时间、批次与结果必须对得上",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "仅在授权范围内关联",
+          "centerY": 291,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 A 数据边界",
+          "centerY": 362,
+          "fontSize": 29,
+          "width": 205.76,
+          "layer": "diagram"
+        },
+        {
+          "text": "联合关联键，不是工序顺序",
+          "centerY": 362,
+          "fontSize": 25,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "过程记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "配方记录",
+          "centerY": 431,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 487,
+          "fontSize": 27,
+          "width": 145.58,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17",
+          "centerY": 542,
+          "fontSize": 33,
+          "width": 123.06,
+          "layer": "diagram"
+        },
+        {
+          "text": "记录身份仅作教学示意",
+          "centerY": 588,
+          "fontSize": 21,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 + RUN-17 + W03",
+          "centerY": 672,
+          "fontSize": 28,
+          "width": 297.56,
+          "layer": "diagram"
+        },
+        {
+          "text": "相同加工上下文；还需核对量测定义与位置",
+          "centerY": 720,
+          "fontSize": 23,
+          "width": 437,
+          "layer": "diagram"
+        },
+        {
+          "text": "隔离：不是同一轮加工",
+          "centerY": 631,
+          "fontSize": 22,
+          "width": 220,
+          "layer": "diagram"
+        },
+        {
+          "text": "ET-01 / W03",
+          "centerY": 669,
+          "fontSize": 22,
+          "width": 118.62,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-16",
+          "centerY": 714,
+          "fontSize": 26,
+          "width": 96.95,
+          "layer": "diagram"
+        },
+        {
+          "text": "RUN-17 / W03 的真实膜厚",
+          "centerY": 438,
+          "fontSize": 25,
+          "width": 297.3,
+          "layer": "diagram"
+        },
+        {
+          "text": "—  缺少可靠量测标签",
+          "centerY": 497,
+          "fontSize": 28,
+          "width": 262.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能用另一轮记录填补",
+          "centerY": 547,
+          "fontSize": 22,
+          "width": 220,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户 B 数据边界",
+          "centerY": 369,
+          "fontSize": 25,
+          "width": 178.38,
+          "layer": "diagram"
+        },
+        {
+          "text": "未授权",
+          "centerY": 508,
+          "fontSize": 30,
+          "width": 90,
+          "layer": "diagram"
+        },
+        {
+          "text": "不参与关联",
+          "centerY": 555,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "更多记录 ≠ 更可靠",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 185.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "客户之间的数据不能随意混用。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "更多数据，不自动等于更高质量",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 280,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "数据越多，并不自动等于越有用。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 585,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "用同一把尺子比较",
+      "globalTime": 272.258,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 258,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "同一任务、同一测试集、同一标准。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "用未来时间或留出设备检验泛化，防止泄漏",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "训练数据",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "较早时间段 / 用于训练与调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 282.48,
+          "layer": "diagram"
+        },
+        {
+          "text": "冻结模型与配置",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "测试期间不再调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一份留出测试数据",
+          "centerY": 535,
+          "fontSize": 33,
+          "width": 297,
+          "layer": "diagram"
+        },
+        {
+          "text": "现有规则 / 人工",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 225.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "AI 方法",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 105.53,
+          "layer": "diagram"
+        },
+        {
+          "text": "只评测，不回流训练",
+          "centerY": 608,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "统一验收：误报 / 漏报 / 时间 / 人工负担 —— 待实测",
+          "centerY": 775,
+          "fontSize": 27,
+          "width": 611.39,
+          "layer": "diagram"
+        },
+        {
+          "text": "比较准确性，也比较误报代价和人工负担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "评测设计示意 · 没有预设收益数字",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "先固定任务和测试样本，用同样标准比较现有人工、规则方法与 AI。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1174.88,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "用同一把尺子比较",
+      "globalTime": 282.683,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 21,
+      "renderedCharacters": 269,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "同一任务、同一测试集、同一标准。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "用未来时间或留出设备检验泛化，防止泄漏",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "训练数据",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "较早时间段 / 用于训练与调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 282.48,
+          "layer": "diagram"
+        },
+        {
+          "text": "冻结模型与配置",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "测试期间不再调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一份留出测试数据",
+          "centerY": 535,
+          "fontSize": 33,
+          "width": 297,
+          "layer": "diagram"
+        },
+        {
+          "text": "现有规则 / 人工",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 225.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "AI 方法",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 105.53,
+          "layer": "diagram"
+        },
+        {
+          "text": "只评测，不回流训练",
+          "centerY": 608,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "统一验收：误报 / 漏报 / 时间 / 人工负担 —— 待实测",
+          "centerY": 775,
+          "fontSize": 27,
+          "width": 611.39,
+          "layer": "diagram"
+        },
+        {
+          "text": "比较准确性，也比较误报代价和人工负担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "评测设计示意 · 没有预设收益数字",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "预测类任务通常要保留之后的时间段，必要时还",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "要留出不同设备，避免把训练信息泄漏到测试里。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "用同一把尺子比较",
+      "globalTime": 288.268,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 252,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "同一任务、同一测试集、同一标准。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "用未来时间或留出设备检验泛化，防止泄漏",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "训练数据",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "较早时间段 / 用于训练与调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 282.48,
+          "layer": "diagram"
+        },
+        {
+          "text": "冻结模型与配置",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "测试期间不再调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一份留出测试数据",
+          "centerY": 535,
+          "fontSize": 33,
+          "width": 297,
+          "layer": "diagram"
+        },
+        {
+          "text": "现有规则 / 人工",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 225.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "AI 方法",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 105.53,
+          "layer": "diagram"
+        },
+        {
+          "text": "只评测，不回流训练",
+          "centerY": 608,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "统一验收：误报 / 漏报 / 时间 / 人工负担 —— 待实测",
+          "centerY": 775,
+          "fontSize": 27,
+          "width": 611.39,
+          "layer": "diagram"
+        },
+        {
+          "text": "比较准确性，也比较误报代价和人工负担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "评测设计示意 · 没有预设收益数字",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "除了准确率，还要看误报代价、处理时间和人工复核负担。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "用同一把尺子比较",
+      "globalTime": 297.577,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 259,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "同一任务、同一测试集、同一标准。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 832,
+          "layer": "title"
+        },
+        {
+          "text": "用未来时间或留出设备检验泛化，防止泄漏",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "训练数据",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "较早时间段 / 用于训练与调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 282.48,
+          "layer": "diagram"
+        },
+        {
+          "text": "冻结模型与配置",
+          "centerY": 359,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "测试期间不再调参",
+          "centerY": 400,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一份留出测试数据",
+          "centerY": 535,
+          "fontSize": 33,
+          "width": 297,
+          "layer": "diagram"
+        },
+        {
+          "text": "现有规则 / 人工",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 225.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "AI 方法",
+          "centerY": 690.5,
+          "fontSize": 33,
+          "width": 105.53,
+          "layer": "diagram"
+        },
+        {
+          "text": "只评测，不回流训练",
+          "centerY": 608,
+          "fontSize": 25,
+          "width": 225,
+          "layer": "diagram"
+        },
+        {
+          "text": "统一验收：误报 / 漏报 / 时间 / 人工负担 —— 待实测",
+          "centerY": 775,
+          "fontSize": 27,
+          "width": 611.39,
+          "layer": "diagram"
+        },
+        {
+          "text": "比较准确性，也比较误报代价和人工负担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "评测设计示意 · 没有预设收益数字",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "画面里的分组只是评测设计，不是实际实验，更没有预先写好的收益结论。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1287,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "先建议，再验证，最后受控使用",
+      "globalTime": 309.455,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 17,
+      "renderedCharacters": 209,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "离线回放 → 只读现场 → 受控使用。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 827.22,
+          "layer": "title"
+        },
+        {
+          "text": "从观察与建议开始，不绕过工程审批",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离线回放",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "只读现场 + 审批",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 232.45,
+          "layer": "diagram"
+        },
+        {
+          "text": "有限受控使用",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据 / 权限 / 人工判断",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "只观察 → 获批后才执行",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 282.1,
+          "layer": "diagram"
+        },
+        {
+          "text": "安全联锁不能被语言模型绕过。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "保留日志、回退与变更后验证",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "落地可以从离线回放开始，再让系统在现场只观",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "察、不给设备下指令，检查它面对真实变化的表现。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "先建议，再验证，最后受控使用",
+      "globalTime": 319.833,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 200,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "离线回放 → 只读现场 → 受控使用。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 827.22,
+          "layer": "title"
+        },
+        {
+          "text": "从观察与建议开始，不绕过工程审批",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离线回放",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "只读现场 + 审批",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 232.45,
+          "layer": "diagram"
+        },
+        {
+          "text": "有限受控使用",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据 / 权限 / 人工判断",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "只观察 → 获批后才执行",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 282.1,
+          "layer": "diagram"
+        },
+        {
+          "text": "安全联锁不能被语言模型绕过。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "保留日志、回退与变更后验证",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "通过验证后，才考虑有限范围的受控使用，并保留人工审批、日志和回退机制。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1365,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "先建议，再验证，最后受控使用",
+      "globalTime": 325.393,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 192,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "离线回放 → 只读现场 → 受控使用。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 827.22,
+          "layer": "title"
+        },
+        {
+          "text": "从观察与建议开始，不绕过工程审批",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离线回放",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "只读现场 + 审批",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 232.45,
+          "layer": "diagram"
+        },
+        {
+          "text": "有限受控使用",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据 / 权限 / 人工判断",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "只观察 → 获批后才执行",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 282.1,
+          "layer": "diagram"
+        },
+        {
+          "text": "安全联锁不能被语言模型绕过。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "保留日志、回退与变更后验证",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "模型升级、设备换件或配方变化后，都要关注是否仍然适用。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1053,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "先建议，再验证，最后受控使用",
+      "globalTime": 334.66,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 184,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "离线回放 → 只读现场 → 受控使用。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 827.22,
+          "layer": "title"
+        },
+        {
+          "text": "从观察与建议开始，不绕过工程审批",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离线回放",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "只读现场 + 审批",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 232.45,
+          "layer": "diagram"
+        },
+        {
+          "text": "有限受控使用",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "证据 / 权限 / 人工判断",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "只观察 → 获批后才执行",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 282.1,
+          "layer": "diagram"
+        },
+        {
+          "text": "安全联锁不能被语言模型绕过。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "保留日志、回退与变更后验证",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "一次演示成功，不等于可以长期无人值守。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 741,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "五集之后，你该会问什么",
+      "globalTime": 346.272,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 24,
+      "renderedCharacters": 230,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "五集结束，带走五个问题。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 624,
+          "layer": "title"
+        },
+        {
+          "text": "不要求马上成为专家，但要能参与真实讨论",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "交付什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "谁来负责",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据在哪",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "05",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "不必立刻成为专家，先能问对问题。",
+          "centerY": 680,
+          "fontSize": 38,
+          "width": 608,
+          "layer": "diagram"
+        },
+        {
+          "text": "五集学习路径完成",
+          "centerY": 756,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "diagram"
+        },
+        {
+          "text": "先把业务讲明白，再选择工具。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "课程结束 · 后续带着具体问题学习",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "你不必立刻成为工艺专家，但应该能问清：公司交付什么，",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        },
+        {
+          "text": "设备改变什么，问题由谁负责，数据在哪里，以及用什么结果验收。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 1170,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "五集之后，你该会问什么",
+      "globalTime": 356.333,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 213,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "五集结束，带走五个问题。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 624,
+          "layer": "title"
+        },
+        {
+          "text": "不要求马上成为专家，但要能参与真实讨论",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "交付什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "谁来负责",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据在哪",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "05",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "不必立刻成为专家，先能问对问题。",
+          "centerY": 680,
+          "fontSize": 38,
+          "width": 608,
+          "layer": "diagram"
+        },
+        {
+          "text": "五集学习路径完成",
+          "centerY": 756,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "diagram"
+        },
+        {
+          "text": "先把业务讲明白，再选择工具。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "课程结束 · 后续带着具体问题学习",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "AI 团队可以同时做内部提效和设备产品能力，但要从一个具体、可验证的问题开始。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1447.88,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "五集之后，你该会问什么",
+      "globalTime": 361.723,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 213,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "五集结束，带走五个问题。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 624,
+          "layer": "title"
+        },
+        {
+          "text": "不要求马上成为专家，但要能参与真实讨论",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "交付什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "谁来负责",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据在哪",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "05",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "不必立刻成为专家，先能问对问题。",
+          "centerY": 680,
+          "fontSize": 38,
+          "width": 608,
+          "layer": "diagram"
+        },
+        {
+          "text": "五集学习路径完成",
+          "centerY": 756,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "diagram"
+        },
+        {
+          "text": "先把业务讲明白，再选择工具。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "课程结束 · 后续带着具体问题学习",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "AI 团队可以同时做内部提效和设备产品能力，但要从一个具体、可验证的问题开始。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1447.88,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "五集之后，你该会问什么",
+      "globalTime": 370.707,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 198,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / AI 应用",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 206.2,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 05",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "五集结束，带走五个问题。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 624,
+          "layer": "title"
+        },
+        {
+          "text": "不要求马上成为专家，但要能参与真实讨论",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "交付什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变什么",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "谁来负责",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "数据在哪",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "05",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "如何验收",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 144,
+          "layer": "diagram"
+        },
+        {
+          "text": "不必立刻成为专家，先能问对问题。",
+          "centerY": 680,
+          "fontSize": 38,
+          "width": 608,
+          "layer": "diagram"
+        },
+        {
+          "text": "五集学习路径完成",
+          "centerY": 756,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "diagram"
+        },
+        {
+          "text": "先把业务讲明白，再选择工具。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "课程结束 · 后续带着具体问题学习",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 300.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "这就是从完全不了解行业，到能够参与讨论的第一步。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    }
+  ]
+}

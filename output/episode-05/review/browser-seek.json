@@ -1,6 +1,6 @@
 {
   "episode": "05",
-  "method": "Current MP4 Blob; 12 actual seek positions before normal playback",
+  "method": "Current MP4 Blob; 12 seeks before normal-speed playback",
   "results": [
     {
       "target": 2,
@@ -24,7 +24,7 @@
     },
     {
       "target": 151.46666666666667,
-      "actual": 151.466666,
+      "actual": 151.466838,
       "pass": true
     },
     {
@@ -63,5 +63,5 @@
       "pass": true
     }
   ],
-  "videoSha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177"
+  "videoSha256": "5fb95363eb2d8c6d57389a06f497626dbfa8275cf896cf148f495f423ab38e9f"
 }

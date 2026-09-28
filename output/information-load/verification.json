@@ -1,0 +1,43 @@
+{
+  "pass": true,
+  "scene": "05/02",
+  "phase": "final-video",
+  "videoSha256": "5fb95363eb2d8c6d57389a06f497626dbfa8275cf896cf148f495f423ab38e9f",
+  "checks": [
+    {
+      "name": "逐帧字幕外的核心信息与安全边界保留",
+      "pass": true,
+      "evidence": {
+        "frames": 1091,
+        "failures": []
+      }
+    },
+    {
+      "name": "旧文档ID最小有效字号至少22px",
+      "pass": true,
+      "evidence": 22.320000886917114
+    },
+    {
+      "name": "文档说明最小有效字号至少15px",
+      "pass": true,
+      "evidence": 15.840000629425049
+    },
+    {
+      "name": "同时间点字符数减少且原字幕不动",
+      "pass": true,
+      "evidence": {
+        "beforeCharacters": 321,
+        "afterCharacters": 289,
+        "beforeTextCalls": 25,
+        "afterTextCalls": 24
+      }
+    }
+  ],
+  "layout": {
+    "beforePanelHeight": 445,
+    "afterPanelHeight": 610,
+    "beforeOldDocumentScale": 0.52,
+    "afterOldDocumentScale": 0.72
+  },
+  "limitation": "Geometric measurements and retention checks are not cognitive-load measurements or learner outcome evidence. Actual MP4 frames inspected separately."
+}

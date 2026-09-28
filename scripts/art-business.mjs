@@ -408,11 +408,12 @@ export function drawFrame(context,scene,time,timeline){
   text(context,`EPISODE ${episode}`,1819,58,22,palette.teal,700,'right');
   text(context,config[0],100,160,52,palette.ink,700);
   const term=termAt(episode,scene,time);
-  text(context,term?.text||config[1],104,229,term?29:26,term?palette.teal:palette.muted,term?600:400);
+  const leanKnowledge = episode === '05' && scene.id === '02';
+  if (!leanKnowledge) text(context,term?.text||config[1],104,229,term?29:26,term?palette.teal:palette.muted,term?600:400);
   text(context,scene.id,1715,167,73,palette.teal,600,'right');text(context,'/ 10',1736,181,26,palette.muted);
   context.save();context.globalAlpha=Math.min(ease(time/.5),ease((scene.duration-time)/.5));
   diagram(context,config,time,scene);context.restore();
-  callout(context,config[4]);
+  if (!leanKnowledge) callout(context,config[4]);
   text(context,config[5],100,903,20,palette.muted);
   text(context,'教学示意 / 中文旁白由 AI 合成',1819,903,20,palette.muted,400,'right');
   rect(context,100,925,1720,103,palette.dark,16);

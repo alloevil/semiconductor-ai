@@ -1,0 +1,25 @@
+{
+  "pass": true,
+  "audioPacketsIdentical": true,
+  "srtAndTimelineIdentical": true,
+  "unchangedEpisodes": [
+    {
+      "episode": "01",
+      "pass": true
+    },
+    {
+      "episode": "02",
+      "pass": true
+    },
+    {
+      "episode": "03",
+      "pass": true
+    },
+    {
+      "episode": "04",
+      "pass": true
+    }
+  ],
+  "beforeVideoSha256": "d879bd1fa5f804e61fb4378b2ba33ffb4ba8e3f349c127b721eceb7e122c3177",
+  "afterVideoSha256": "5fb95363eb2d8c6d57389a06f497626dbfa8275cf896cf148f495f423ab38e9f"
+}

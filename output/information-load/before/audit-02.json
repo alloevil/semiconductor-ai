@@ -1,0 +1,6359 @@
+{
+  "episode": "02",
+  "phase": "before",
+  "videoSha256": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b",
+  "method": "Source text measurements at 22%,50%,65%,90% per scene; y-based layers are heuristic. Neither repeated wording nor character count proves cognitive overload. Verify with actual frames and reader testing.",
+  "samples": [
+    {
+      "scene": "01",
+      "title": "不是把零件粘到晶圆上",
+      "globalTime": 7.561,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 179,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片硅，到复杂电路。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 594,
+          "layer": "title"
+        },
+        {
+          "text": "不是粘上零件，而是在晶圆上反复加工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "增加材料",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "形成图案",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉材料",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查结果",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "看的是工艺的作用，不是实际生产配方。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化循环 · 实际顺序因产品而异",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "但一片光滑的硅片，怎样变成复杂的芯片？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 741,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "不是把零件粘到晶圆上",
+      "globalTime": 17.183,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 186,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片硅，到复杂电路。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 594,
+          "layer": "title"
+        },
+        {
+          "text": "不是粘上零件，而是在晶圆上反复加工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "增加材料",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "形成图案",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉材料",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查结果",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "看的是工艺的作用，不是实际生产配方。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化循环 · 实际顺序因产品而异",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不是把现成的晶体管逐个粘上去，而是在晶圆上反复加工。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "不是把零件粘到晶圆上",
+      "globalTime": 22.338,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 197,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片硅，到复杂电路。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 594,
+          "layer": "title"
+        },
+        {
+          "text": "不是粘上零件，而是在晶圆上反复加工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "增加材料",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "形成图案",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉材料",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查结果",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "看的是工艺的作用，不是实际生产配方。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化循环 · 实际顺序因产品而异",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "今天，我们跟着同一块简化剖面，认识增加材料、形成图案、去掉材料和检查结果。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "不是把零件粘到晶圆上",
+      "globalTime": 30.93,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 184,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从一片硅，到复杂电路。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 594,
+          "layer": "title"
+        },
+        {
+          "text": "不是粘上零件，而是在晶圆上反复加工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "增加材料",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 375,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "形成图案",
+          "centerY": 415,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉材料",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 665,
+          "fontSize": 22,
+          "width": 24.42,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查结果",
+          "centerY": 705,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "看的是工艺的作用，不是实际生产配方。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化循环 · 实际顺序因产品而异",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336.21,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "注意，这是一张入门地图，不是一份真实的制造配方。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "沉积：先增加一层材料",
+      "globalTime": 42.441,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 203,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "沉积：在表面形成一层薄膜。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "不同功能，使用不同材料与方法",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度",
+          "centerY": 544,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "导电 / 绝缘等",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 181.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "“有一层膜”还不够，还要满足加工要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颜色用于区分材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "根据用途，这层膜可以是导电材料，也可以是绝缘材料，或者其他功能材料。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1326,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "沉积：先增加一层材料",
+      "globalTime": 52.717,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 191,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "沉积：在表面形成一层薄膜。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "不同功能，使用不同材料与方法",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度",
+          "centerY": 544,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "导电 / 绝缘等",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 181.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "“有一层膜”还不够，还要满足加工要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颜色用于区分材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不同方法用不同方式把材料带到表面并形成薄膜。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "沉积：先增加一层材料",
+      "globalTime": 58.222,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 226,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "沉积：在表面形成一层薄膜。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "不同功能，使用不同材料与方法",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度",
+          "centerY": 544,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "导电 / 绝缘等",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 181.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "质量",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度与均匀性",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "形状",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "复杂结构的覆盖",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "“有一层膜”还不够，还要满足加工要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颜色用于区分材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "工程师不仅关心有没有这层膜，还关心厚度、均匀性，以及复杂结构能不能被合适地覆盖。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1560,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "沉积：先增加一层材料",
+      "globalTime": 67.397,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 209,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "沉积：在表面形成一层薄膜。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "不同功能，使用不同材料与方法",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度",
+          "centerY": 544,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "导电 / 绝缘等",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 181.07,
+          "layer": "diagram"
+        },
+        {
+          "text": "质量",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度与均匀性",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "形状",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "复杂结构的覆盖",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "“有一层膜”还不够，还要满足加工要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颜色用于区分材料",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 192,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "图里的彩色块，只用来区分材料，不代表真实颜色。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "光刻：先把图案交给光刻胶",
+      "globalTime": 78.4,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 206,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "曝光：先改变光刻胶的性质。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "光刻胶：对光敏感、用于形成图案的材料",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 522,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "图案投影（功能框图）",
+          "centerY": 385,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "第一步",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "涂上光刻胶",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 155,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变的是光刻胶，不是直接挖掉硅。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "正性光刻胶示例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "一种常见做法，是先涂上一层对光敏感的材料，叫光刻胶。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "光刻：先把图案交给光刻胶",
+      "globalTime": 87.733,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 20,
+      "renderedCharacters": 198,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "曝光：先改变光刻胶的性质。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "这里用正性光刻胶举例，不代表所有工艺",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "图案投影（功能框图）",
+          "centerY": 385,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "第一步",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "涂上光刻胶",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 155,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变的是光刻胶，不是直接挖掉硅。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "正性光刻胶示例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "然后，光刻系统把设计图案转移到胶上。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 702,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "光刻：先把图案交给光刻胶",
+      "globalTime": 92.733,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 13,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 25,
+      "renderedCharacters": 243,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "曝光：先改变光刻胶的性质。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "这里用正性光刻胶举例，不代表所有工艺",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "图案投影（功能框图）",
+          "centerY": 385,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光区域：性质改变，材料还在",
+          "centerY": 708,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "diagram"
+        },
+        {
+          "text": "第一步",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "涂上光刻胶",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 155,
+          "layer": "diagram"
+        },
+        {
+          "text": "第二步",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "用光改变胶的性质",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "直接雕刻硅片",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变的是光刻胶，不是直接挖掉硅。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "正性光刻胶示例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "曝光改变的是光刻胶的性质，不是用光直接把下面的硅片刻出沟槽。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1170,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "光刻：先把图案交给光刻胶",
+      "globalTime": 101.067,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 13,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 25,
+      "renderedCharacters": 242,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "曝光：先改变光刻胶的性质。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 702,
+          "layer": "title"
+        },
+        {
+          "text": "这里用正性光刻胶举例，不代表所有工艺",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "图案投影（功能框图）",
+          "centerY": 385,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光区域：性质改变，材料还在",
+          "centerY": 708,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "diagram"
+        },
+        {
+          "text": "第一步",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "涂上光刻胶",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 155,
+          "layer": "diagram"
+        },
+        {
+          "text": "第二步",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "用光改变胶的性质",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "直接雕刻硅片",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变的是光刻胶，不是直接挖掉硅。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "正性光刻胶示例",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "这里我们只用正性光刻胶举例，其他材料和工艺的反应可能不同。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "显影：图案变成开口",
+      "globalTime": 111.873,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 22,
+      "renderedCharacters": 225,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "显影：把胶上的图案变成开口。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "开口下面的目标薄膜，此时还没有被刻掉",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影前",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "胶层仍然连续",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影后",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "开口露出目标膜",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变性质；显影形成开口。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这一步尚未刻蚀目标膜",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "在这个正性光刻胶的例子里，经过相应的后续处理",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        },
+        {
+          "text": "和显影，曝光区域的胶被选择性去除，留下开口。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "显影：图案变成开口",
+      "globalTime": 121.383,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 21,
+      "renderedCharacters": 205,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "显影：把胶上的图案变成开口。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "开口下面的目标薄膜，此时还没有被刻掉",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影前",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "胶层仍然连续",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影后",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "开口露出目标膜",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变性质；显影形成开口。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这一步尚未刻蚀目标膜",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "这样，下方有些地方露出来，有些地方还被胶保护着。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "显影：图案变成开口",
+      "globalTime": 126.478,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 9,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 21,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "显影：把胶上的图案变成开口。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "开口下面的目标薄膜，此时还没有被刻掉",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影前",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "胶层仍然连续",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影后",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "开口露出目标膜",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变性质；显影形成开口。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这一步尚未刻蚀目标膜",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "先记住这两个阶段：曝光改变胶的性质，显影让图案显现。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "显影：图案变成开口",
+      "globalTime": 134.97,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 212,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "显影：把胶上的图案变成开口。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "开口下面的目标薄膜，此时还没有被刻掉",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影前",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "胶层仍然连续",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "显影后",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "开口露出目标膜",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "留意下面",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "绿色薄膜仍完整",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变性质；显影形成开口。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "这一步尚未刻蚀目标膜",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "此时，被保护的目标薄膜还没有按图案刻掉。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 780,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "刻蚀：把图案转移到目标材料",
+      "globalTime": 145.935,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 201,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "刻蚀：移除开口下的目标材料。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "控制深度、形状，以及对其他材料的影响",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉该去的材料，保住该保留的结构。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化方向性刻蚀示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "通过胶上的开口，刻蚀工艺移除暴露的目标材料，把图案进一步转移到下面的薄膜。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "刻蚀：把图案转移到目标材料",
+      "globalTime": 155.567,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 193,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "刻蚀：移除开口下的目标材料。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "控制深度、形状，以及对其他材料的影响",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉该去的材料，保住该保留的结构。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化方向性刻蚀示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不同刻蚀方法的形状和方向性并不相同，图里只画一种简化效果。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "刻蚀：把图案转移到目标材料",
+      "globalTime": 160.727,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 224,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "刻蚀：移除开口下的目标材料。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "控制深度、形状，以及对其他材料的影响",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制什么",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "去除深度",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 124,
+          "layer": "diagram"
+        },
+        {
+          "text": "还要看",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "侧壁形状",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 124,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能忽略",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "保留材料是否受损",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉该去的材料，保住该保留的结构。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化方向性刻蚀示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "工程师要控制去掉多少、侧壁是什么形状，以及该保留的材料有没有受损。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1287,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "刻蚀：把图案转移到目标材料",
+      "globalTime": 169.327,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 213,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "刻蚀：移除开口下的目标材料。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "控制深度、形状，以及对其他材料的影响",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻胶",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "控制什么",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "去除深度",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 124,
+          "layer": "diagram"
+        },
+        {
+          "text": "还要看",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 78,
+          "layer": "diagram"
+        },
+        {
+          "text": "侧壁形状",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 124,
+          "layer": "diagram"
+        },
+        {
+          "text": "不能忽略",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "保留材料是否受损",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "去掉该去的材料，保住该保留的结构。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化方向性刻蚀示意",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "因此，刻得越快、越深，并不自动代表做得越好。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "去胶与清洗：为下一步准备表面",
+      "globalTime": 180.269,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 211,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "去胶与清洗：准备下一步的表面。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "清洗穿插在制造过程，不是只在最后做一次",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "去胶",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "移除暂时的保护层",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗不是“最后冲一下”，而是贯穿过程。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颗粒放大示意 · 非操作指南",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "图案转移后，暂时充当保护层的光刻胶，通常需要在合适的阶段去除。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1209,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "去胶与清洗：为下一步准备表面",
+      "globalTime": 189.817,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 220,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "去胶与清洗：准备下一步的表面。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "清洗穿插在制造过程，不是只在最后做一次",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "去胶",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "移除暂时的保护层",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理颗粒和残留",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "时机",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "穿插多个工序",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗不是“最后冲一下”，而是贯穿过程。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颗粒放大示意 · 非操作指南",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "清洗不是最后才做一次，而是穿插在许多工序之间。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "去胶与清洗：为下一步准备表面",
+      "globalTime": 194.932,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 221,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "去胶与清洗：准备下一步的表面。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "清洗穿插在制造过程，不是只在最后做一次",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "去胶",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "移除暂时的保护层",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理颗粒和残留",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "时机",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "穿插多个工序",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗不是“最后冲一下”，而是贯穿过程。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颗粒放大示意 · 非操作指南",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "它既要去掉不需要的东西，也不能随意伤害已有结构。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "去胶与清洗：为下一步准备表面",
+      "globalTime": 203.457,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 226,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "去胶与清洗：准备下一步的表面。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "清洗穿插在制造过程，不是只在最后做一次",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一块示意剖面",
+          "centerY": 338,
+          "fontSize": 24,
+          "width": 168,
+          "layer": "diagram"
+        },
+        {
+          "text": "已有衬底 / 下层结构",
+          "centerY": 640,
+          "fontSize": 28,
+          "width": 247.52,
+          "layer": "diagram"
+        },
+        {
+          "text": "衬底 / 下层",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "目标薄膜",
+          "centerY": 740,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "去胶",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "移除暂时的保护层",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "处理颗粒和残留",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "时机",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "穿插多个工序",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 186,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗不是“最后冲一下”，而是贯穿过程。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 544.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "颗粒放大示意 · 非操作指南",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288.22,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "画面中的颗粒被放大了，真实工厂里很小的污染也可能造成问题。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "还有一些改变性质与形状的步骤",
+      "globalTime": 214.875,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 198,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "还要改变材料性质、调整表面形状。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 864,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，下面三项不代表固定工艺顺序",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离子注入",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "调整电学性质",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "热处理",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "修复损伤、激活掺杂等",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "平坦化",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "让表面更平整",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变性质与形状，也是制造的重要部分。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "三项用途示例，不是顺序图",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "例如，离子注入可以把选定元素引入材料，用来调整电学性质。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1092,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "还有一些改变性质与形状的步骤",
+      "globalTime": 225.067,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 204,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "还要改变材料性质、调整表面形状。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 864,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，下面三项不代表固定工艺顺序",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离子注入",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "调整电学性质",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "热处理",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "修复损伤、激活掺杂等",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "平坦化",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "让表面更平整",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变性质与形状，也是制造的重要部分。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "三项用途示例，不是顺序图",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "热处理可以帮助修复注入造成的晶格损伤、激活掺杂，或完成其他材料变化。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1326,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "还有一些改变性质与形状的步骤",
+      "globalTime": 230.527,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 199,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "还要改变材料性质、调整表面形状。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 864,
+          "layer": "title"
+        },
+        {
+          "text": "CMP：化学与机械共同作用，让表面更平整",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 556.11,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离子注入",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "调整电学性质",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "热处理",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "修复损伤、激活掺杂等",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "平坦化",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "让表面更平整",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变性质与形状，也是制造的重要部分。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "三项用途示例，不是顺序图",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "化学机械平坦化则结合化学作用和机械作用，让表面更平整。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1053,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "还有一些改变性质与形状的步骤",
+      "globalTime": 239.627,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 202,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "还要改变材料性质、调整表面形状。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 864,
+          "layer": "title"
+        },
+        {
+          "text": "用途举例，下面三项不代表固定工艺顺序",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "离子注入",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 148,
+          "layer": "diagram"
+        },
+        {
+          "text": "调整电学性质",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "热处理",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "修复损伤、激活掺杂等",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "平坦化",
+          "centerY": 366,
+          "fontSize": 37,
+          "width": 111,
+          "layer": "diagram"
+        },
+        {
+          "text": "让表面更平整",
+          "centerY": 710,
+          "fontSize": 27,
+          "width": 162,
+          "layer": "diagram"
+        },
+        {
+          "text": "改变性质与形状，也是制造的重要部分。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "三项用途示例，不是顺序图",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 288,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "这些步骤如何组合，取决于具体器件，不能把这张概念图当成固定顺序。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1248,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "量测与检测：机器没报警，还不够",
+      "globalTime": 251.304,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 188,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "机器没报警，不等于结果合格。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "量测回答“有多少”，检测帮助发现“哪里异常”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 517.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "教学示例：归一化量测值",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "示例目标带",
+          "centerY": 414,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "位置 / 样本",
+          "centerY": 708,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "超出目标带",
+          "centerY": 408,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“测到了数值”就结束，还要对照要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 574.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学曲线，无单位、非工厂实测",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "所以制造过程中要反复量测和检测。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 624,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "量测与检测：机器没报警，还不够",
+      "globalTime": 261.533,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 21,
+      "renderedCharacters": 224,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "机器没报警，不等于结果合格。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "套刻：不同层的图形是否对准",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 377,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "教学示例：归一化量测值",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "示例目标带",
+          "centerY": 414,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "位置 / 样本",
+          "centerY": 708,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "超出目标带",
+          "centerY": 408,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "量测",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度、尺寸、套刻",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "检测",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "颗粒与异常图案",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“测到了数值”就结束，还要对照要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 574.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学曲线，无单位、非工厂实测",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "量测可以回答薄膜多厚、图形多宽、不同层对得",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "准不准；检测帮助发现颗粒、缺陷或异常图案。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "量测与检测：机器没报警，还不够",
+      "globalTime": 267.013,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 221,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "机器没报警，不等于结果合格。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "量测回答“有多少”，检测帮助发现“哪里异常”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 517.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "教学示例：归一化量测值",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "示例目标带",
+          "centerY": 414,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "位置 / 样本",
+          "centerY": 708,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "超出目标带",
+          "centerY": 408,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "量测",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度、尺寸、套刻",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "检测",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "颗粒与异常图案",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "反馈",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "比较要求，再判断",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“测到了数值”就结束，还要对照要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 574.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学曲线，无单位、非工厂实测",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "结果要与要求比较，再由工程师判断和调整。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 780,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "量测与检测：机器没报警，还不够",
+      "globalTime": 276.147,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 10,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 238,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "机器没报警，不等于结果合格。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "量测回答“有多少”，检测帮助发现“哪里异常”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 517.3,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "教学示例：归一化量测值",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 264,
+          "layer": "diagram"
+        },
+        {
+          "text": "示例目标带",
+          "centerY": 414,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "位置 / 样本",
+          "centerY": 708,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "超出目标带",
+          "centerY": 408,
+          "fontSize": 25,
+          "width": 125,
+          "layer": "diagram"
+        },
+        {
+          "text": "量测",
+          "centerY": 385,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "厚度、尺寸、套刻",
+          "centerY": 433,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "检测",
+          "centerY": 501,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "颗粒与异常图案",
+          "centerY": 549,
+          "fontSize": 31,
+          "width": 217,
+          "layer": "diagram"
+        },
+        {
+          "text": "反馈",
+          "centerY": 617,
+          "fontSize": 26,
+          "width": 52,
+          "layer": "diagram"
+        },
+        {
+          "text": "比较要求，再判断",
+          "centerY": 665,
+          "fontSize": 31,
+          "width": 248,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是“测到了数值”就结束，还要对照要求。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 574.44,
+          "layer": "takeaway"
+        },
+        {
+          "text": "教学曲线，无单位、非工厂实测",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 336,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "屏幕上的曲线只是教学示例，不是工厂实测，也不能据此判断任何真实设备的表现。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "重复加工，再走向封装测试",
+      "globalTime": 287.771,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 222,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "反复加工，逐步构成器件和连接。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "每一轮的材料、图案与工艺组合都可能不同",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接的分层示意",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "每层图案、材料与作用都可能不同",
+          "centerY": 733,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "反复加工",
+          "centerY": 357,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗 / 检查",
+          "centerY": 467,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆测试",
+          "centerY": 577,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "分割 / 封装",
+          "centerY": 687,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "一轮图案转移，只是漫长制造中的一小段。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "后续流程随产品变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "很多步骤需要反复进行，逐步构成器件以及多层连接；每一轮的图案和材料都可能不同。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "重复加工，再走向封装测试",
+      "globalTime": 297.917,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 199,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "反复加工，逐步构成器件和连接。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "每一轮的材料、图案与工艺组合都可能不同",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接的分层示意",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "每层图案、材料与作用都可能不同",
+          "centerY": 733,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "反复加工",
+          "centerY": 357,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗 / 检查",
+          "centerY": 467,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆测试",
+          "centerY": 577,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "分割 / 封装",
+          "centerY": 687,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "一轮图案转移，只是漫长制造中的一小段。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "后续流程随产品变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "加工过程中，清洗与检查持续参与。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 624,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "重复加工，再走向封装测试",
+      "globalTime": 303.352,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "反复加工，逐步构成器件和连接。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "每一轮的材料、图案与工艺组合都可能不同",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接的分层示意",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "每层图案、材料与作用都可能不同",
+          "centerY": 733,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "反复加工",
+          "centerY": 357,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗 / 检查",
+          "centerY": 467,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆测试",
+          "centerY": 577,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "分割 / 封装",
+          "centerY": 687,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "一轮图案转移，只是漫长制造中的一小段。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "后续流程随产品变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "完成晶圆加工后，还会经历测试、分割和封装等环节。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "重复加工，再走向封装测试",
+      "globalTime": 312.41,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 2,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 211,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "反复加工，逐步构成器件和连接。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 810,
+          "layer": "title"
+        },
+        {
+          "text": "每一轮的材料、图案与工艺组合都可能不同",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "器件与连接的分层示意",
+          "centerY": 351,
+          "fontSize": 24,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "每层图案、材料与作用都可能不同",
+          "centerY": 733,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "反复加工",
+          "centerY": 357,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗 / 检查",
+          "centerY": 467,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆测试",
+          "centerY": 577,
+          "fontSize": 24,
+          "width": 96,
+          "layer": "diagram"
+        },
+        {
+          "text": "分割 / 封装",
+          "centerY": 687,
+          "fontSize": 24,
+          "width": 116.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "一轮图案转移，只是漫长制造中的一小段。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "后续流程随产品变化",
+          "centerY": 847,
+          "fontSize": 24,
+          "width": 216,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不同产品，尤其先进封装，具体顺序和组织方式并不完全相同。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1092,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "你已经能读懂设备的名字了",
+      "globalTime": 325.229,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 191,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，你能读懂设备的任务了。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "先理解它改变什么，再理解公司如何分工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 1 / 2",
+          "centerY": 365,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "光刻机直接把硅片雕出沟槽吗？",
+          "centerY": 467,
+          "fontSize": 48,
+          "width": 672,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 571,
+          "fontSize": 67,
+          "width": 134,
+          "layer": "diagram"
+        },
+        {
+          "text": "曝光改变光刻胶；显影开口；刻蚀移除目标材料。",
+          "centerY": 685,
+          "fontSize": 30,
+          "width": 660,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备的名字，来自它承担的加工或检查任务。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 600,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不是，它主要负责把图案转移到光刻胶上。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 741,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "你已经能读懂设备的名字了",
+      "globalTime": 336.933,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 171,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，你能读懂设备的任务了。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "先理解它改变什么，再理解公司如何分工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 2 / 2",
+          "centerY": 365,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗只在最后做一次吗？",
+          "centerY": 467,
+          "fontSize": 48,
+          "width": 528,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 571,
+          "fontSize": 67,
+          "width": 134,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗穿插在许多工序之间。",
+          "centerY": 685,
+          "fontSize": 30,
+          "width": 360,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备的名字，来自它承担的加工或检查任务。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 600,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "也不是，它贯穿制造过程。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 468,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "你已经能读懂设备的名字了",
+      "globalTime": 343.203,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 190,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，你能读懂设备的任务了。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "先理解它改变什么，再理解公司如何分工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 2 / 2",
+          "centerY": 365,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗只在最后做一次吗？",
+          "centerY": 467,
+          "fontSize": 48,
+          "width": 528,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 571,
+          "fontSize": 67,
+          "width": 134,
+          "layer": "diagram"
+        },
+        {
+          "text": "清洗穿插在许多工序之间。",
+          "centerY": 685,
+          "fontSize": 30,
+          "width": 360,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备的名字，来自它承担的加工或检查任务。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 600,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "沉积、刻蚀、清洗、检测这些名字，背后都是具体的加工或检查任务。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1209,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "你已经能读懂设备的名字了",
+      "globalTime": 353.653,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 212,
+      "diagramMinFontPx": 30,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门  /  制造过程",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 236.62,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 02",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "现在，你能读懂设备的任务了。",
+          "centerY": 160,
+          "fontSize": 54,
+          "width": 756,
+          "layer": "title"
+        },
+        {
+          "text": "先理解它改变什么，再理解公司如何分工",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "下一集：半导体产业链，谁在做什么？",
+          "centerY": 364,
+          "fontSize": 48,
+          "width": 816,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计公司",
+          "centerY": 523,
+          "fontSize": 38,
+          "width": 152,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计芯片",
+          "centerY": 600,
+          "fontSize": 30,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 523,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造芯片",
+          "centerY": 600,
+          "fontSize": 30,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备 / 材料商",
+          "centerY": 523,
+          "fontSize": 38,
+          "width": 221.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "提供工具与材料",
+          "centerY": 600,
+          "fontSize": 30,
+          "width": 210,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备的名字，来自它承担的加工或检查任务。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 600,
+          "layer": "takeaway"
+        },
+        {
+          "text": "原理示意 · 非真实比例 · 非完整器件工艺",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 342.34,
+          "layer": "disclosure"
+        },
+        {
+          "text": "中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 19,
+          "width": 158.63,
+          "layer": "disclosure"
+        },
+        {
+          "text": "下一集，我们把视角拉到公司：谁设计芯片，谁制造芯片，又是谁提供这些机器和材料？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521,
+          "layer": "captions"
+        }
+      ]
+    }
+  ]
+}

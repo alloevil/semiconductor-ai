@@ -21,22 +21,25 @@ function documentCard(context, left, top, title, id, color, scale = 1) {
 
 export function drawKnowledge(context, scene, time) {
   const state = knowledgeState(scene, time);
-  text(context, '同一问题：ET-01 / R2，异常该如何排查？', 111, 295, 29, palette.teal, 600);
-  rect(context, 100, 326, 890, 445, palette.pale, 22, palette.line);
-  text(context, '检索结果，不等于诊断结论', 132, 367, 28, palette.teal, 600);
-  documentCard(context, mix(129, 147, state.filtered), mix(406, 638, state.filtered), state.filtered === 1 ? '排除：版本不符' : '检索到旧版', state.oldId, palette.coral, mix(1, .52, state.filtered));
-  documentCard(context, mix(554, 493, state.filtered), mix(461, 410, state.filtered), state.filtered === 1 ? '仅作为候选依据' : '检索到匹配版本', state.candidateId, palette.blue);
-  if (state.filtered === 1) text(context, '版本匹配，仍需检查权限与现场条件', 492, 718, 24, palette.muted);
-  rect(context, 1060, 326, 760, 445, palette.white, 22, palette.line);
-  text(context, '现场证据', 1096, 374, 33, palette.ink, 700);
-  rect(context, 1096, 414, 686, 108, palette.peach, 12);
-  text(context, '—  仍需补充故障上下文', 1439, 465, 31, palette.coral, 600, 'center');
+  text(context, '同一问题：ET-01 / R2，异常该如何排查？', 111, 220, 29, palette.teal, 600);
+  rect(context, 100, 252, 890, 610, palette.pale, 22, palette.line);
+  text(context, '检索结果，不等于诊断结论', 132, 293, 30, palette.teal, 600);
+  documentCard(context, mix(129, 147, state.filtered), mix(346, 674, state.filtered), state.filtered === 1 ? '排除：版本不符' : '检索到旧版', state.oldId, palette.coral, mix(1, .72, state.filtered));
+  documentCard(context, mix(554, 493, state.filtered), mix(431, 354, state.filtered), state.filtered === 1 ? '仅作为候选依据' : '检索到匹配版本', state.candidateId, palette.blue);
+  if (state.filtered === 1) {
+    text(context, '版本匹配，仍需核对', 512, 732, 26, palette.muted);
+    text(context, '数据权限与现场条件', 512, 778, 26, palette.muted);
+  }
+  rect(context, 1060, 252, 760, 610, palette.white, 22, palette.line);
+  text(context, '现场证据', 1096, 306, 36, palette.ink, 700);
+  rect(context, 1096, 350, 686, 130, palette.peach, 12);
+  text(context, '—  仍需补充故障上下文', 1439, 413, 34, palette.coral, 600, 'center');
   if (state.insufficient > 0) {
     context.save(); context.globalAlpha = state.insufficient;
-    text(context, '暂不能确定，需补充信息', 1096, 588, 36, palette.coral, 700);
-    text(context, '不编造维修步骤，不向设备下指令', 1096, 651, 28, palette.ink, 600);
+    text(context, '暂不能确定，需补充信息', 1096, 567, 40, palette.coral, 700);
+    text(context, '不编造维修步骤，不向设备下指令', 1096, 647, 30, palette.ink, 600);
     context.restore();
-  } else text(context, '不能只凭文档就认定原因', 1096, 600, 29, palette.muted);
-  text(context, '工程师确认 / 安全规程 / 数据权限', 1096, 728, 26, palette.muted);
+  } else text(context, '不能只凭文档就认定原因', 1096, 596, 31, palette.muted);
+  text(context, '工程师确认 / 安全规程 / 数据权限', 1096, 806, 28, palette.muted);
   return state;
 }

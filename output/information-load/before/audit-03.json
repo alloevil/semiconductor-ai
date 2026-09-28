@@ -1,0 +1,6002 @@
+{
+  "episode": "03",
+  "phase": "before",
+  "videoSha256": "9233d5d36e44734cfda24ab83eb757a14e544f1191bf450d0996c36753095aa1",
+  "method": "Source text measurements at 22%,50%,65%,90% per scene; y-based layers are heuristic. Neither repeated wording nor character count proves cognitive overload. Verify with actual frames and reader testing.",
+  "samples": [
+    {
+      "scene": "01",
+      "title": "从芯片，走向公司",
+      "globalTime": 7.678,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 179,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "一颗芯片，背后不只一家公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "先看交付与分工，再记住公司名字",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色不同，但需要一起协作。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "takeaway"
+        },
+        {
+          "text": "产品推进与工具支持分开看",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "现在换一个问题：手机里的芯片，是一家企业从头做到尾的吗？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1092,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "从芯片，走向公司",
+      "globalTime": 17.45,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 186,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "一颗芯片，背后不只一家公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "先看交付与分工，再记住公司名字",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色不同，但需要一起协作。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "takeaway"
+        },
+        {
+          "text": "产品推进与工具支持分开看",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设计、晶圆制造、封装测试，以及提供设备和材料，可能由不同企业协作完成。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1365,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "从芯片，走向公司",
+      "globalTime": 22.685,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 186,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "一颗芯片，背后不只一家公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "先看交付与分工，再记住公司名字",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色不同，但需要一起协作。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "takeaway"
+        },
+        {
+          "text": "产品推进与工具支持分开看",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设计、晶圆制造、封装测试，以及提供设备和材料，可能由不同企业协作完成。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1365,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "01",
+      "title": "从芯片，走向公司",
+      "globalTime": 31.41,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 177,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "一颗芯片，背后不只一家公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "先看交付与分工，再记住公司名字",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 390,
+          "layer": "subtitle"
+        },
+        {
+          "text": "01",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色不同，但需要一起协作。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "takeaway"
+        },
+        {
+          "text": "产品推进与工具支持分开看",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "先看分工，再看公司名字，就不容易把整个行业混成一团。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1014,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "设计公司决定芯片做什么",
+      "globalTime": 42.475,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 186,
+      "diagramMinFontPx": 29,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计：把任务变成电路与版图。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "没有自己的晶圆厂，不等于没有技术能力",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "需求与架构",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路与验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "版图实现",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "需求逐步落实为可验证的设计",
+          "centerY": 754,
+          "fontSize": 29,
+          "width": 377,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计不能脱离制造条件。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 330,
+          "layer": "takeaway"
+        },
+        {
+          "text": "NVIDIA / AMD：业务模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 262.56,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设计公司首先关心，芯片要完成什么任务、达到什么性能，以及怎样在功耗和成本之间取舍。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1599,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "设计公司决定芯片做什么",
+      "globalTime": 52.117,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 175,
+      "diagramMinFontPx": 29,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计：把任务变成电路与版图。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "没有自己的晶圆厂，不等于没有技术能力",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "需求与架构",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路与验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "版图实现",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "需求逐步落实为可验证的设计",
+          "centerY": 754,
+          "fontSize": 29,
+          "width": 377,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计不能脱离制造条件。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 330,
+          "layer": "takeaway"
+        },
+        {
+          "text": "NVIDIA / AMD：业务模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 262.56,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "工程师把需求变成架构、电路和可以制造的版图，并进行大量验证。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1170,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "设计公司决定芯片做什么",
+      "globalTime": 57.282,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 166,
+      "diagramMinFontPx": 29,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计：把任务变成电路与版图。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "没有自己的晶圆厂，不等于没有技术能力",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "需求与架构",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路与验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "版图实现",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "需求逐步落实为可验证的设计",
+          "centerY": 754,
+          "fontSize": 29,
+          "width": 377,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计不能脱离制造条件。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 330,
+          "layer": "takeaway"
+        },
+        {
+          "text": "NVIDIA / AMD：业务模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 262.56,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "没有自己的晶圆制造厂，不等于没有技术能力。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "02",
+      "title": "设计公司决定芯片做什么",
+      "globalTime": 65.89,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 163,
+      "diagramMinFontPx": 29,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计：把任务变成电路与版图。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "没有自己的晶圆厂，不等于没有技术能力",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 468,
+          "layer": "subtitle"
+        },
+        {
+          "text": "02",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "需求与架构",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "电路与验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "版图实现",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "需求逐步落实为可验证的设计",
+          "centerY": 754,
+          "fontSize": 29,
+          "width": 377,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计不能脱离制造条件。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 330,
+          "layer": "takeaway"
+        },
+        {
+          "text": "NVIDIA / AMD：业务模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 262.56,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "英伟达和超威，是理解这种模式的例子。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 702,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "晶圆厂把设计变成物理结构",
+      "globalTime": 77.077,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 189,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "代工：让设计成为物理结构。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "Foundry：按约定为客户制造芯片",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 439,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计与版图",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能 / 性能 / 版图",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工 / 稳定性 / 产能",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺规则",
+          "centerY": 582,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计与制造共同遵守",
+          "centerY": 623,
+          "fontSize": 22,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计交付",
+          "centerY": 370,
+          "fontSize": 27,
+          "width": 108,
+          "layer": "diagram"
+        },
+        {
+          "text": "反馈与验证",
+          "centerY": 502,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、验证和反馈，连接设计与制造。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Foundry · 台积电为模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 258.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "台积电是一个常见例子。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 429,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "晶圆厂把设计变成物理结构",
+      "globalTime": 86.933,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 223,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "代工：让设计成为物理结构。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "不是收到图纸，就按一次“打印”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 362.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计与版图",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能 / 性能 / 版图",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工 / 稳定性 / 产能",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺规则",
+          "centerY": 582,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计与制造共同遵守",
+          "centerY": 623,
+          "fontSize": 22,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计交付",
+          "centerY": 370,
+          "fontSize": 27,
+          "width": 108,
+          "layer": "diagram"
+        },
+        {
+          "text": "反馈与验证",
+          "centerY": 502,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、验证和反馈，连接设计与制造。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Foundry · 台积电为模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 258.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "制造并不是收到一张图纸就按打印键：设计要符合工艺",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        },
+        {
+          "text": "规则，工厂也要控制大量工序的稳定性、缺陷和产能。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "晶圆厂把设计变成物理结构",
+      "globalTime": 92.213,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 189,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "代工：让设计成为物理结构。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "不是收到图纸，就按一次“打印”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 362.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计与版图",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能 / 性能 / 版图",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工 / 稳定性 / 产能",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺规则",
+          "centerY": 582,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计与制造共同遵守",
+          "centerY": 623,
+          "fontSize": 22,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计交付",
+          "centerY": 370,
+          "fontSize": 27,
+          "width": 108,
+          "layer": "diagram"
+        },
+        {
+          "text": "反馈与验证",
+          "centerY": 502,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、验证和反馈，连接设计与制造。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Foundry · 台积电为模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 258.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设计方与制造方需要反复协作。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 546,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "03",
+      "title": "晶圆厂把设计变成物理结构",
+      "globalTime": 101.013,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 215,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "代工：让设计成为物理结构。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "不是收到图纸，就按一次“打印”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 362.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "03",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计与版图",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 165,
+          "layer": "diagram"
+        },
+        {
+          "text": "功能 / 性能 / 版图",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 393,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "加工 / 稳定性 / 产能",
+          "centerY": 434,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺规则",
+          "centerY": 582,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计与制造共同遵守",
+          "centerY": 623,
+          "fontSize": 22,
+          "width": 198,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计交付",
+          "centerY": 370,
+          "fontSize": 27,
+          "width": 108,
+          "layer": "diagram"
+        },
+        {
+          "text": "反馈与验证",
+          "centerY": 502,
+          "fontSize": 24,
+          "width": 120,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则、验证和反馈，连接设计与制造。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 510,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Foundry · 台积电为模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 258.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "所以，代工不是简单照抄，设计也不能完全脱离制造条件；两边通过规则和验证连接起来。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1560,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "封装测试让芯片成为可用产品",
+      "globalTime": 112.673,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 212,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "封装：连接、保护与热管理。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "封装测试不只是“套一个壳”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 310.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一组裸片，组合成封装结构",
+          "centerY": 345,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装基底与外部连接（示意）",
+          "centerY": 745,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 A",
+          "centerY": 447,
+          "fontSize": 24,
+          "width": 68.83,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 B",
+          "centerY": 425,
+          "fontSize": 24,
+          "width": 69.79,
+          "layer": "diagram"
+        },
+        {
+          "text": "内部",
+          "centerY": 380,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片不是外部封装",
+          "centerY": 428,
+          "fontSize": 30,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接",
+          "centerY": 517,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接裸片与外部电路",
+          "centerY": 565,
+          "fontSize": 30,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "多裸片",
+          "centerY": 654,
+          "fontSize": 25,
+          "width": 75,
+          "layer": "diagram"
+        },
+        {
+          "text": "第二块裸片尚未落位",
+          "centerY": 702,
+          "fontSize": 30,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅说明功能关系，不是特定封装流程",
+          "centerY": 761,
+          "fontSize": 22,
+          "width": 352,
+          "layer": "diagram"
+        },
+        {
+          "text": "多个角色可能由同一企业承担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化封装示意 · 非真实结构",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "后续还涉及测试、分割、封装和产品验证。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 741,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "封装测试让芯片成为可用产品",
+      "globalTime": 123.033,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 24,
+      "renderedCharacters": 248,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "封装：连接、保护与热管理。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "封装测试不只是“套一个壳”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 310.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一组裸片，组合成封装结构",
+          "centerY": 345,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装基底与外部连接（示意）",
+          "centerY": 745,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 A",
+          "centerY": 537,
+          "fontSize": 24,
+          "width": 68.83,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 B",
+          "centerY": 537,
+          "fontSize": 24,
+          "width": 69.79,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护 / 热管理范围示意",
+          "centerY": 436,
+          "fontSize": 25,
+          "width": 246,
+          "layer": "diagram"
+        },
+        {
+          "text": "内部",
+          "centerY": 380,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片不是外部封装",
+          "centerY": 428,
+          "fontSize": 30,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接",
+          "centerY": 517,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接裸片与外部电路",
+          "centerY": 565,
+          "fontSize": 30,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "多裸片",
+          "centerY": 654,
+          "fontSize": 25,
+          "width": 75,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一基底内的两个裸片",
+          "centerY": 702,
+          "fontSize": 30,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅说明功能关系，不是特定封装流程",
+          "centerY": 761,
+          "fontSize": 22,
+          "width": 352,
+          "layer": "diagram"
+        },
+        {
+          "text": "多个角色可能由同一企业承担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化封装示意 · 非真实结构",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "封装不仅是套一个壳，还承担保护、连接、散热",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "等任务；先进封装还可以把多个裸片组合起来。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "封装测试让芯片成为可用产品",
+      "globalTime": 128.583,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 228,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "封装：连接、保护与热管理。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "封装测试不只是“套一个壳”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 310.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一组裸片，组合成封装结构",
+          "centerY": 345,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装基底与外部连接（示意）",
+          "centerY": 745,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 A",
+          "centerY": 537,
+          "fontSize": 24,
+          "width": 68.83,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 B",
+          "centerY": 537,
+          "fontSize": 24,
+          "width": 69.79,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护 / 热管理范围示意",
+          "centerY": 436,
+          "fontSize": 25,
+          "width": 246,
+          "layer": "diagram"
+        },
+        {
+          "text": "内部",
+          "centerY": 380,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片不是外部封装",
+          "centerY": 428,
+          "fontSize": 30,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接",
+          "centerY": 517,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接裸片与外部电路",
+          "centerY": 565,
+          "fontSize": 30,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "多裸片",
+          "centerY": 654,
+          "fontSize": 25,
+          "width": 75,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一基底内的两个裸片",
+          "centerY": 702,
+          "fontSize": 30,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅说明功能关系，不是特定封装流程",
+          "centerY": 761,
+          "fontSize": 22,
+          "width": 352,
+          "layer": "diagram"
+        },
+        {
+          "text": "多个角色可能由同一企业承担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化封装示意 · 非真实结构",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "专业封装测试服务商，是产业链中的另一类角色。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "04",
+      "title": "封装测试让芯片成为可用产品",
+      "globalTime": 137.833,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 243,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "封装：连接、保护与热管理。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "封装测试不只是“套一个壳”",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 310.65,
+          "layer": "subtitle"
+        },
+        {
+          "text": "04",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一组裸片，组合成封装结构",
+          "centerY": 345,
+          "fontSize": 30,
+          "width": 390,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装基底与外部连接（示意）",
+          "centerY": 745,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 A",
+          "centerY": 537,
+          "fontSize": 24,
+          "width": 68.83,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片 B",
+          "centerY": 537,
+          "fontSize": 24,
+          "width": 69.79,
+          "layer": "diagram"
+        },
+        {
+          "text": "保护 / 热管理范围示意",
+          "centerY": 436,
+          "fontSize": 25,
+          "width": 246,
+          "layer": "diagram"
+        },
+        {
+          "text": "内部",
+          "centerY": 380,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "裸片不是外部封装",
+          "centerY": 428,
+          "fontSize": 30,
+          "width": 240,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接",
+          "centerY": 517,
+          "fontSize": 25,
+          "width": 50,
+          "layer": "diagram"
+        },
+        {
+          "text": "连接裸片与外部电路",
+          "centerY": 565,
+          "fontSize": 30,
+          "width": 270,
+          "layer": "diagram"
+        },
+        {
+          "text": "多裸片",
+          "centerY": 654,
+          "fontSize": 25,
+          "width": 75,
+          "layer": "diagram"
+        },
+        {
+          "text": "同一基底内的两个裸片",
+          "centerY": 702,
+          "fontSize": 30,
+          "width": 300,
+          "layer": "diagram"
+        },
+        {
+          "text": "仅说明功能关系，不是特定封装流程",
+          "centerY": 761,
+          "fontSize": 22,
+          "width": 352,
+          "layer": "diagram"
+        },
+        {
+          "text": "多个角色可能由同一企业承担。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "简化封装示意 · 非真实结构",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 240.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "但这些环节也可能由晶圆厂或其他企业承担，不能把角色画成永远互斥的公司标签。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "设备商提供制造工具",
+      "globalTime": 149.791,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 191,
+      "diagramMinFontPx": 18.4,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设备商，提供制造芯片的工具。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "制造机器，与使用机器制造晶圆，是两回事",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备商",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "SYS",
+          "centerY": 519.9999992847443,
+          "fontSize": 18.4,
+          "width": 32.9,
+          "layer": "diagram"
+        },
+        {
+          "text": "研发 / 装配 / 调试",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 215.04,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用设备加工晶圆",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 224,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具交付",
+          "centerY": 481,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是晶圆货物流",
+          "centerY": 585,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "机器交付给客户，晶圆在客户工厂加工。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "设备 / 软件 / 备件 / 服务",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 210.4,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "晶圆厂需要用沉积、刻蚀、清洗、光刻和检测设备加工晶圆。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1053,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "设备商提供制造工具",
+      "globalTime": 160.3,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 200,
+      "diagramMinFontPx": 18.4,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设备商，提供制造芯片的工具。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "制造机器，与使用机器制造晶圆，是两回事",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备商",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "SYS",
+          "centerY": 519.9999992847443,
+          "fontSize": 18.4,
+          "width": 32.9,
+          "layer": "diagram"
+        },
+        {
+          "text": "研发 / 装配 / 调试",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 215.04,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用设备加工晶圆",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 224,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具交付",
+          "centerY": 481,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是晶圆货物流",
+          "centerY": 585,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "机器交付给客户，晶圆在客户工厂加工。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "设备 / 软件 / 备件 / 服务",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 210.4,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "例如，阿斯麦提供光刻相关设备与解决方案，而不是替客户设计并生产所有芯片。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1404,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "设备商提供制造工具",
+      "globalTime": 165.93,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 180,
+      "diagramMinFontPx": 18.4,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设备商，提供制造芯片的工具。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "制造机器，与使用机器制造晶圆，是两回事",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备商",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "SYS",
+          "centerY": 519.9999992847443,
+          "fontSize": 18.4,
+          "width": 32.9,
+          "layer": "diagram"
+        },
+        {
+          "text": "研发 / 装配 / 调试",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 215.04,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用设备加工晶圆",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 224,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具交付",
+          "centerY": 481,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是晶圆货物流",
+          "centerY": 585,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "机器交付给客户，晶圆在客户工厂加工。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "设备 / 软件 / 备件 / 服务",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 210.4,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设备公司的客户，常常是制造企业。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 624,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "05",
+      "title": "设备商提供制造工具",
+      "globalTime": 175.313,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 7,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 18,
+      "renderedCharacters": 194,
+      "diagramMinFontPx": 18.4,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设备商，提供制造芯片的工具。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "制造机器，与使用机器制造晶圆，是两回事",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 494,
+          "layer": "subtitle"
+        },
+        {
+          "text": "05",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设备商",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 368,
+          "fontSize": 38,
+          "width": 114,
+          "layer": "diagram"
+        },
+        {
+          "text": "SYS",
+          "centerY": 519.9999992847443,
+          "fontSize": 18.4,
+          "width": 32.9,
+          "layer": "diagram"
+        },
+        {
+          "text": "研发 / 装配 / 调试",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 215.04,
+          "layer": "diagram"
+        },
+        {
+          "text": "使用设备加工晶圆",
+          "centerY": 727,
+          "fontSize": 28,
+          "width": 224,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具交付",
+          "centerY": 481,
+          "fontSize": 28,
+          "width": 112,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是晶圆货物流",
+          "centerY": 585,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "机器交付给客户，晶圆在客户工厂加工。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "设备 / 软件 / 备件 / 服务",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 210.4,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "要分清：一边卖的是加工能力和工具，另一边使用工具来制造芯片。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1170,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "材料与零部件也在产业链里",
+      "globalTime": 187.207,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 204,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "材料与部件，让网络运转起来。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "关键输入不只来自少数整机大厂",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料供应",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅片 / 胶 / 气体等",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺材料输入",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "真空 / 运动 / 传感等",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备商",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件集成为机器",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给材料",
+          "centerY": 352,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给零部件",
+          "centerY": 642,
+          "fontSize": 26,
+          "width": 130,
+          "layer": "diagram"
+        },
+        {
+          "text": "提供设备",
+          "centerY": 531,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料进入工艺，零部件组成设备。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 450,
+          "layer": "takeaway"
+        },
+        {
+          "text": "供应链示意 · 非穷尽分类",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "硅片、光刻胶、工艺气体、化学品等，都是制造需要的输入。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1053,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "材料与零部件也在产业链里",
+      "globalTime": 197.567,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "材料与部件，让网络运转起来。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "关键输入不只来自少数整机大厂",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料供应",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅片 / 胶 / 气体等",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺材料输入",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "真空 / 运动 / 传感等",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备商",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件集成为机器",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给材料",
+          "centerY": 352,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给零部件",
+          "centerY": 642,
+          "fontSize": 26,
+          "width": 130,
+          "layer": "diagram"
+        },
+        {
+          "text": "提供设备",
+          "centerY": 531,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料进入工艺，零部件组成设备。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 450,
+          "layer": "takeaway"
+        },
+        {
+          "text": "供应链示意 · 非穷尽分类",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设备商本身也依赖供应商，采购真空、运动控制、传感器等零部件。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1170,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "材料与零部件也在产业链里",
+      "globalTime": 203.117,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 206,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "材料与部件，让网络运转起来。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "关键输入不只来自少数整机大厂",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料供应",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅片 / 胶 / 气体等",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺材料输入",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "真空 / 运动 / 传感等",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备商",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件集成为机器",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给材料",
+          "centerY": 352,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给零部件",
+          "centerY": 642,
+          "fontSize": 26,
+          "width": 130,
+          "layer": "diagram"
+        },
+        {
+          "text": "提供设备",
+          "centerY": 531,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料进入工艺，零部件组成设备。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 450,
+          "layer": "takeaway"
+        },
+        {
+          "text": "供应链示意 · 非穷尽分类",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "因此产业链更像一张协作网络，不是一条只有几个大公司的直线。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "06",
+      "title": "材料与零部件也在产业链里",
+      "globalTime": 212.367,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 11,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 22,
+      "renderedCharacters": 195,
+      "diagramMinFontPx": 22,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "材料与部件，让网络运转起来。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "关键输入不只来自少数整机大厂",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 364,
+          "layer": "subtitle"
+        },
+        {
+          "text": "06",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "材料供应",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "硅片 / 胶 / 气体等",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 168.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆厂",
+          "centerY": 369,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "工艺材料输入",
+          "centerY": 410,
+          "fontSize": 22,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "真空 / 运动 / 传感等",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 190.96,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备商",
+          "centerY": 659,
+          "fontSize": 33,
+          "width": 99,
+          "layer": "diagram"
+        },
+        {
+          "text": "零部件集成为机器",
+          "centerY": 700,
+          "fontSize": 22,
+          "width": 176,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给材料",
+          "centerY": 352,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "供给零部件",
+          "centerY": 642,
+          "fontSize": 26,
+          "width": 130,
+          "layer": "diagram"
+        },
+        {
+          "text": "提供设备",
+          "centerY": 531,
+          "fontSize": 26,
+          "width": 104,
+          "layer": "diagram"
+        },
+        {
+          "text": "材料进入工艺，零部件组成设备。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 450,
+          "layer": "takeaway"
+        },
+        {
+          "text": "供应链示意 · 非穷尽分类",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220.18,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "小小的关键部件，也可能影响整机表现。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 702,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "设计工具与可复用模块",
+      "globalTime": 224.097,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 201,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计也需要工具和可复用模块。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "EDA：帮助工程师设计、验证电路的工具",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 520.78,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "EDA / IP",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 125.27,
+          "layer": "diagram"
+        },
+        {
+          "text": "接口与工艺验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片设计",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 验证 / 责任边界",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不满足条件：补充信息或停止",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "模块能复用，不等于不用验证。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "EDA：设计自动化 / IP：设计模块",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 292.8,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "电子设计自动化，通常简称为 EDA，帮助设计、验证和实现复杂电路。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1212.82,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "设计工具与可复用模块",
+      "globalTime": 234.317,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 202,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计也需要工具和可复用模块。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "IP 核：可复用的电路设计模块，仍需系统验证",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 586.5,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "EDA / IP",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 125.27,
+          "layer": "diagram"
+        },
+        {
+          "text": "接口与工艺验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片设计",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 验证 / 责任边界",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不满足条件：补充信息或停止",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "模块能复用，不等于不用验证。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "EDA：设计自动化 / IP：设计模块",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 292.8,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "还有可复用的设计模块，常称为半导体知识产权核，或者 IP 核。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1106.59,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "设计工具与可复用模块",
+      "globalTime": 239.792,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 208,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计也需要工具和可复用模块。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "EDA 与 IP 服务设计，但不取消系统验证",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 454.27,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "EDA / IP",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 125.27,
+          "layer": "diagram"
+        },
+        {
+          "text": "接口与工艺验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片设计",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 验证 / 责任边界",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不满足条件：补充信息或停止",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "模块能复用，不等于不用验证。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "EDA：设计自动化 / IP：设计模块",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 292.8,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "可以把它们理解成设计工具和经过约定的模块，但不是拿来就不用验证的万能积木。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "07",
+      "title": "设计工具与可复用模块",
+      "globalTime": 248.917,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 5,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 16,
+      "renderedCharacters": 200,
+      "diagramMinFontPx": 27,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "设计也需要工具和可复用模块。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 728,
+          "layer": "title"
+        },
+        {
+          "text": "EDA 与 IP 服务设计，但不取消系统验证",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 454.27,
+          "layer": "subtitle"
+        },
+        {
+          "text": "07",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "EDA / IP",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 125.27,
+          "layer": "diagram"
+        },
+        {
+          "text": "接口与工艺验证",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 231,
+          "layer": "diagram"
+        },
+        {
+          "text": "芯片设计",
+          "centerY": 424,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "检查 / 验证 / 责任边界",
+          "centerY": 588,
+          "fontSize": 31,
+          "width": 300.14,
+          "layer": "diagram"
+        },
+        {
+          "text": "不满足条件：补充信息或停止",
+          "centerY": 650,
+          "fontSize": 27,
+          "width": 351,
+          "layer": "diagram"
+        },
+        {
+          "text": "模块能复用，不等于不用验证。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "EDA：设计自动化 / IP：设计模块",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 292.8,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "它们要与目标工艺、接口和系统要求匹配，授权方式也各不相同。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1131,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "一家公司可以承担多个角色",
+      "globalTime": 260.406,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 211,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "IDM：一家公司可以跨越多个角色。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 826.64,
+          "layer": "title"
+        },
+        {
+          "text": "IDM：既设计芯片，也拥有制造能力的企业模式",
+          "centerY": 229,
+          "fontSize": 29,
+          "width": 606.01,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一企业可覆盖多种职能",
+          "centerY": 353,
+          "fontSize": 29,
+          "width": 319,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "封测协作",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "外部制造 / 封测合作",
+          "centerY": 720,
+          "fontSize": 33,
+          "width": 291.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "仍可与外部合作",
+          "centerY": 587,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色图，不是公司只能选一次的分类表。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Intel / Samsung：模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 245.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "还有一种模式：企业既设计芯片，也拥有制造能力，通常叫集成器件制造商，简称 IDM。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521.66,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "一家公司可以承担多个角色",
+      "globalTime": 270.383,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 18,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "IDM：一家公司可以跨越多个角色。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 826.64,
+          "layer": "title"
+        },
+        {
+          "text": "业务模式可以交叉，不是永久互斥标签",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一企业可覆盖多种职能",
+          "centerY": 353,
+          "fontSize": 29,
+          "width": 319,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "封测协作",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "外部制造 / 封测合作",
+          "centerY": 720,
+          "fontSize": 33,
+          "width": 291.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "仍可与外部合作",
+          "centerY": 587,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色图，不是公司只能选一次的分类表。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Intel / Samsung：模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 245.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不过，现实业务往往交叉：一家企业可能同时做",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "代工，也可能把部分产品交给外部制造或封测。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "一家公司可以承担多个角色",
+      "globalTime": 275.728,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 18,
+      "renderedCharacters": 207,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "IDM：一家公司可以跨越多个角色。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 826.64,
+          "layer": "title"
+        },
+        {
+          "text": "业务模式可以交叉，不是永久互斥标签",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一企业可覆盖多种职能",
+          "centerY": 353,
+          "fontSize": 29,
+          "width": 319,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "封测协作",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "外部制造 / 封测合作",
+          "centerY": 720,
+          "fontSize": 33,
+          "width": 291.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "仍可与外部合作",
+          "centerY": 587,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色图，不是公司只能选一次的分类表。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Intel / Samsung：模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 245.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "不过，现实业务往往交叉：一家企业可能同时做",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        },
+        {
+          "text": "代工，也可能把部分产品交给外部制造或封测。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 819,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "08",
+      "title": "一家公司可以承担多个角色",
+      "globalTime": 284.637,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 6,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 17,
+      "renderedCharacters": 202,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "IDM：一家公司可以跨越多个角色。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 826.64,
+          "layer": "title"
+        },
+        {
+          "text": "业务模式可以交叉，不是永久互斥标签",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 442,
+          "layer": "subtitle"
+        },
+        {
+          "text": "08",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "同一企业可覆盖多种职能",
+          "centerY": 353,
+          "fontSize": 29,
+          "width": 319,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "制造",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "封测协作",
+          "centerY": 481.5,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "外部制造 / 封测合作",
+          "centerY": 720,
+          "fontSize": 33,
+          "width": 291.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "仍可与外部合作",
+          "centerY": 587,
+          "fontSize": 23,
+          "width": 161,
+          "layer": "diagram"
+        },
+        {
+          "text": "角色图，不是公司只能选一次的分类表。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 540,
+          "layer": "takeaway"
+        },
+        {
+          "text": "Intel / Samsung：模式举例",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 245.54,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "我们画的分类是理解分工的工具，不是把每家公司永久放进一个只能选一次的盒子。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1443,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "客户关系与制造流程不是一回事",
+      "globalTime": 296.091,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 2
+      },
+      "textCalls": 20,
+      "renderedCharacters": 203,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "交付、支持与反馈，是不同的线。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "制造流程不等于全部客户和合同关系",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "问清：交付什么？客户是谁？为何选择它？",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不表示具体合同或资金流",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "芯片产品在设计、制造、封测之间推进，工具和材",
+          "centerY": 953.5,
+          "fontSize": 39,
+          "width": 858,
+          "layer": "captions"
+        },
+        {
+          "text": "料从侧面提供支持，规则与数据又在企业之间反馈。",
+          "centerY": 998.5,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "客户关系与制造流程不是一回事",
+      "globalTime": 306.133,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 182,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "交付、支持与反馈，是不同的线。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "制造流程不等于全部客户和合同关系",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "问清：交付什么？客户是谁？为何选择它？",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不表示具体合同或资金流",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "资金和合同关系也不一定沿着产品流程一模一样地走。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 936,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "客户关系与制造流程不是一回事",
+      "globalTime": 311.513,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 192,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "交付、支持与反馈，是不同的线。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "制造流程不等于全部客户和合同关系",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "问清：交付什么？客户是谁？为何选择它？",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不表示具体合同或资金流",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "判断一家公司，先问三个问题：它交付什么，客户是谁，靠什么能力被选择。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1326,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "09",
+      "title": "客户关系与制造流程不是一回事",
+      "globalTime": 320.48,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 8,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 19,
+      "renderedCharacters": 181,
+      "diagramMinFontPx": 23,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "交付、支持与反馈，是不同的线。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 780,
+          "layer": "title"
+        },
+        {
+          "text": "制造流程不等于全部客户和合同关系",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 416,
+          "layer": "subtitle"
+        },
+        {
+          "text": "09",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "设计",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 66,
+          "layer": "diagram"
+        },
+        {
+          "text": "晶圆制造",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "封装测试",
+          "centerY": 388,
+          "fontSize": 33,
+          "width": 132,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具 / 材料",
+          "centerY": 699,
+          "fontSize": 33,
+          "width": 159.75,
+          "layer": "diagram"
+        },
+        {
+          "text": "产品推进",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "后续加工",
+          "centerY": 347,
+          "fontSize": 23,
+          "width": 92,
+          "layer": "diagram"
+        },
+        {
+          "text": "工具与材料支持",
+          "centerY": 553,
+          "fontSize": 27,
+          "width": 189,
+          "layer": "diagram"
+        },
+        {
+          "text": "规则 / 数据反馈",
+          "centerY": 543,
+          "fontSize": 24,
+          "width": 164.16,
+          "layer": "diagram"
+        },
+        {
+          "text": "问清：交付什么？客户是谁？为何选择它？",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 570,
+          "layer": "takeaway"
+        },
+        {
+          "text": "不表示具体合同或资金流",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 220,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "比只背它属于上游还是下游，更容易理解真实业务。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 897,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "把焦点留给设备公司",
+      "globalTime": 333.263,
+      "fraction": 0.22,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 3,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 14,
+      "renderedCharacters": 144,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从产业地图，走向设备公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "用两个问题复习角色的区别",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 312,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 1 / 2",
+          "centerY": 371,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "设备商就是晶圆厂吗？",
+          "centerY": 470,
+          "fontSize": 46,
+          "width": 460,
+          "layer": "diagram"
+        },
+        {
+          "text": "想一想…",
+          "centerY": 575,
+          "fontSize": 34,
+          "width": 136,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看交付对象，再看企业名字。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "下一集：一台设备的生命周期",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "设备商和晶圆厂，是一回事吗？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 546,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "把焦点留给设备公司",
+      "globalTime": 344.967,
+      "fraction": 0.5,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 3,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 14,
+      "renderedCharacters": 152,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从产业地图，走向设备公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "用两个问题复习角色的区别",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 312,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 2 / 2",
+          "centerY": 371,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计公司可以不懂制造吗？",
+          "centerY": 470,
+          "fontSize": 46,
+          "width": 552,
+          "layer": "diagram"
+        },
+        {
+          "text": "想一想…",
+          "centerY": 575,
+          "fontSize": 34,
+          "width": 136,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看交付对象，再看企业名字。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "下一集：一台设备的生命周期",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "没有晶圆厂的设计公司，就不需要懂制造吗？",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 780,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "把焦点留给设备公司",
+      "globalTime": 351.237,
+      "fraction": 0.65,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 4,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 15,
+      "renderedCharacters": 156,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从产业地图，走向设备公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "用两个问题复习角色的区别",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 312,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "问题 2 / 2",
+          "centerY": 371,
+          "fontSize": 24,
+          "width": 100.18,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计公司可以不懂制造吗？",
+          "centerY": 470,
+          "fontSize": 46,
+          "width": 552,
+          "layer": "diagram"
+        },
+        {
+          "text": "不是",
+          "centerY": 575,
+          "fontSize": 65,
+          "width": 130,
+          "layer": "diagram"
+        },
+        {
+          "text": "设计必须考虑制造规则。",
+          "centerY": 681,
+          "fontSize": 30,
+          "width": 330,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看交付对象，再看企业名字。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "下一集：一台设备的生命周期",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "到这里，你已经有了产业链地图。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 585,
+          "layer": "captions"
+        }
+      ]
+    },
+    {
+      "scene": "10",
+      "title": "把焦点留给设备公司",
+      "globalTime": 361.687,
+      "fraction": 0.9,
+      "layerCount": {
+        "metadata": 3,
+        "title": 3,
+        "subtitle": 1,
+        "diagram": 12,
+        "takeaway": 1,
+        "disclosure": 2,
+        "captions": 1
+      },
+      "textCalls": 23,
+      "renderedCharacters": 199,
+      "diagramMinFontPx": 24,
+      "drawn": [
+        {
+          "text": "FIELD NOTES",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 140.82,
+          "layer": "metadata"
+        },
+        {
+          "text": "半导体入门 / 产业链",
+          "centerY": 58,
+          "fontSize": 23,
+          "width": 203.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "EPISODE 03",
+          "centerY": 58,
+          "fontSize": 22,
+          "width": 126.32,
+          "layer": "metadata"
+        },
+        {
+          "text": "从产业地图，走向设备公司。",
+          "centerY": 160,
+          "fontSize": 52,
+          "width": 676,
+          "layer": "title"
+        },
+        {
+          "text": "用两个问题复习角色的区别",
+          "centerY": 229,
+          "fontSize": 26,
+          "width": 312,
+          "layer": "subtitle"
+        },
+        {
+          "text": "10",
+          "centerY": 167,
+          "fontSize": 73,
+          "width": 86.14,
+          "layer": "title"
+        },
+        {
+          "text": "/ 10",
+          "centerY": 181,
+          "fontSize": 26,
+          "width": 44.88,
+          "layer": "title"
+        },
+        {
+          "text": "01",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "需求",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "02",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "研发",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "03",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "装配",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "04",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "交付",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "05",
+          "centerY": 447,
+          "fontSize": 27,
+          "width": 31.86,
+          "layer": "diagram"
+        },
+        {
+          "text": "维护",
+          "centerY": 522,
+          "fontSize": 36,
+          "width": 72,
+          "layer": "diagram"
+        },
+        {
+          "text": "每个环节都有负责人、记录和验收结果。",
+          "centerY": 680,
+          "fontSize": 38,
+          "width": 684,
+          "layer": "diagram"
+        },
+        {
+          "text": "AI 辅助业务，而非替代责任",
+          "centerY": 756,
+          "fontSize": 24,
+          "width": 291,
+          "layer": "diagram"
+        },
+        {
+          "text": "先看交付对象，再看企业名字。",
+          "centerY": 847,
+          "fontSize": 30,
+          "width": 420,
+          "layer": "takeaway"
+        },
+        {
+          "text": "下一集：一台设备的生命周期",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 260,
+          "layer": "disclosure"
+        },
+        {
+          "text": "教学示意 / 中文旁白由 AI 合成",
+          "centerY": 903,
+          "fontSize": 20,
+          "width": 263.78,
+          "layer": "disclosure"
+        },
+        {
+          "text": "下一集，我们走进设备公司，看看一台机器怎样被研发、装配、交付，并长期服务客户。",
+          "centerY": 976,
+          "fontSize": 39,
+          "width": 1521,
+          "layer": "captions"
+        }
+      ]
+    }
+  ]
+}

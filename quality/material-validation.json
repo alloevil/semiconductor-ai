@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-28T05:46:39.564Z",
-  "releaseFingerprint": "ad538d91b1410fb4cf73e68bc26984b748db03aa589ff3cf84f9590643d07b77",
+  "generatedAt": "2026-09-28T08:34:48.060Z",
+  "releaseFingerprint": "53e4bd52881dac3faf3650423531bc4d7b4dc07b79aad1885eb1aaed8644a666",
   "pass": true,
-  "scope": "Fail-closed validation for batch03, not human approval",
+  "scope": "Fail-closed validation for information-load batch04, not human approval",
   "cases": [
     {
       "name": "pending-blocked",
