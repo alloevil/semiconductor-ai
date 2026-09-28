@@ -8,6 +8,7 @@
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-10%"
   },
+  "teachingRevision": "2026-09-28-cue-sync",
   "scenes": [
     {
       "id": "01",
@@ -49,6 +50,7 @@
           "text": "只用五分钟，把这四个名字放到正确的位置，搭起理解这个行业的第一张地图。"
         }
       ],
+      "pauses": [],
       "fingerprint": "6207493c46ae633f5eb5723702414bb3ab1174ac4f5e6eb530c46ad186fbd3ee"
     },
     {
@@ -91,6 +93,7 @@
           "text": "这种可控制的特性，是电子器件的基础。"
         }
       ],
+      "pauses": [],
       "fingerprint": "23ad79e3ae158e8d221fb6ec493321480d938d33f29800531a7a016e2155b65f"
     },
     {
@@ -128,6 +131,7 @@
           "text": "这里的开关只是功能上的比喻，里面没有一只机械开合的小闸门。"
         }
       ],
+      "pauses": [],
       "fingerprint": "49dff9dad3a153ce9037021c25b691b99d98496d6ab525aed20d7abfcad3247c"
     },
     {
@@ -165,6 +169,7 @@
           "text": "这一集先记住：它是一种可以控制电流的基础器件。"
         }
       ],
+      "pauses": [],
       "fingerprint": "7d3c9f0e1135dba1eb0a4bfa2d3f6cdbb7a37dfafc811afb148344e80861e3eb"
     },
     {
@@ -197,6 +202,7 @@
           "text": "你在电路板上看到的黑色小方块，通常还带有封装；打开封装后，里面可能是一块裸片，也可能有多块。"
         }
       ],
+      "pauses": [],
       "fingerprint": "17af4db8332608c9de3c00f19acb2f763c5c961b80d6fcd78bcfb776a16a83ce"
     },
     {
@@ -234,6 +240,7 @@
           "text": "逐步完成加工后，一片晶圆上通常会形成许多重复的电路区域。"
         }
       ],
+      "pauses": [],
       "fingerprint": "486518e2e72fd9b26c2a82b572c2fb41fe5c1e10ed213766c9acd996b4892cd2"
     },
     {
@@ -271,6 +278,7 @@
           "text": "具体的测试和封装顺序，会随产品与工艺变化，不是所有芯片都走完全一样的路线。"
         }
       ],
+      "pauses": [],
       "fingerprint": "fc1169e68aa891a9231977d7c7a21d05e9d547cbddcc36121196eb43cd82f2c7"
     },
     {
@@ -313,6 +321,7 @@
           "text": "不同用途，也会带来不同的材料、器件和制造要求。"
         }
       ],
+      "pauses": [],
       "fingerprint": "5a3b614ff5efe7d451849d246962bc5cc22da10ab2fb578f7848df13701d7c2d"
     },
     {
@@ -355,6 +364,7 @@
           "text": "这几个词分别在讲材料、器件、电路和载体，不是同一层面的名字。"
         }
       ],
+      "pauses": [],
       "fingerprint": "604e401f17acf05f3b477c0c34632a955093d53830209ebdb373f2a35279e094"
     },
     {
@@ -362,8 +372,8 @@
       "title": "三个小问题与下一集",
       "narration": "最后，试着回答三个问题。半导体，是不是一种材料类别？是。晶圆，是不是一块已经封装好的芯片？不是。所有芯片，都用来做处理器吗？也不是。如果这些区别已经清楚，你就有了继续学习的起点。下一集，我们看工厂怎样在晶圆上增加材料、形成图案、去掉材料，并检查结果。",
       "start": 292.23333333333335,
-      "duration": 35.233333333333334,
-      "frames": 1057,
+      "duration": 44.233333333333334,
+      "frames": 1327,
       "sourceDuration": 32.424,
       "cues": [
         {
@@ -373,51 +383,74 @@
         },
         {
           "start": 4.125,
-          "end": 7.597,
+          "end": 10.597000000000001,
           "text": "半导体，是不是一种材料类别？"
         },
         {
-          "start": 7.597,
-          "end": 8.722000000000001,
+          "start": 10.597000000000001,
+          "end": 11.722000000000001,
           "text": "是。"
         },
         {
-          "start": 8.722000000000001,
-          "end": 12.763,
+          "start": 11.722000000000001,
+          "end": 18.762999999999998,
           "text": "晶圆，是不是一块已经封装好的芯片？"
         },
         {
-          "start": 12.763,
-          "end": 14.069,
+          "start": 18.762999999999998,
+          "end": 20.069000000000003,
           "text": "不是。"
         },
         {
-          "start": 14.069,
-          "end": 17.569,
+          "start": 20.069000000000003,
+          "end": 26.569,
           "text": "所有芯片，都用来做处理器吗？"
         },
         {
-          "start": 17.569,
-          "end": 19,
+          "start": 26.569,
+          "end": 28,
           "text": "也不是。"
         },
         {
-          "start": 19,
-          "end": 24.236,
+          "start": 28,
+          "end": 33.236000000000004,
           "text": "如果这些区别已经清楚，你就有了继续学习的起点。"
         },
         {
-          "start": 24.236,
-          "end": 33.361,
+          "start": 33.236000000000004,
+          "end": 42.361,
           "text": "下一集，我们看工厂怎样在晶圆上增加材料、形成图案、去掉材料，并检查结果。"
+        }
+      ],
+      "pauses": [
+        {
+          "questionIndex": 1,
+          "answerIndex": 2,
+          "sourceCut": 6.597,
+          "start": 7.597,
+          "duration": 3
+        },
+        {
+          "questionIndex": 3,
+          "answerIndex": 4,
+          "sourceCut": 11.763,
+          "start": 15.763,
+          "duration": 3
+        },
+        {
+          "questionIndex": 5,
+          "answerIndex": 6,
+          "sourceCut": 16.569,
+          "start": 23.569,
+          "duration": 3
         }
       ],
       "fingerprint": "7cddca156bf0b213df436d574f994e63a22b84a3d373f92ce60e436e7a8ccaef"
     }
   ],
-  "narrationDuration": 327.4666666666667,
+  "narrationDuration": 336.4666666666667,
   "creditsDuration": 9,
-  "duration": 336.4666666666667,
+  "duration": 345.4666666666667,
   "disclosure": "中文旁白由 AI 合成 / Microsoft zh-CN-XiaoxiaoNeural / edge-tts",
-  "generatedAt": "2026-09-27T14:15:59.509Z"
+  "generatedAt": "2026-09-27T23:43:27.296Z"
 }

@@ -1,91 +1,68 @@
 {
   "episode": "05",
   "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
-  "method": "Full MP4 Blob, 12 seek positions with actual time assertions",
+  "method": "12 seek targets on current MP4 Blob, verified before normal playback",
   "results": [
     {
       "target": 2,
-      "actual": 2,
-      "pass": true,
-      "error": null,
-      "milliseconds": 53
+      "actual": 2.000173,
+      "pass": true
     },
     {
       "target": 38.6,
       "actual": 38.6,
-      "pass": true,
-      "error": null,
-      "milliseconds": 51
+      "pass": true
     },
     {
       "target": 74.96666666666667,
       "actual": 74.966666,
-      "pass": true,
-      "error": null,
-      "milliseconds": 53
+      "pass": true
     },
     {
       "target": 113.13333333333333,
       "actual": 113.133333,
-      "pass": true,
-      "error": null,
-      "milliseconds": 48
+      "pass": true
     },
     {
       "target": 151.46666666666667,
       "actual": 151.466666,
-      "pass": true,
-      "error": null,
-      "milliseconds": 49
+      "pass": true
     },
     {
       "target": 188.86666666666667,
       "actual": 188.866666,
-      "pass": true,
-      "error": null,
-      "milliseconds": 50
+      "pass": true
     },
     {
       "target": 226.83333333333334,
       "actual": 226.833333,
-      "pass": true,
-      "error": null,
-      "milliseconds": 49
+      "pass": true
     },
     {
       "target": 266.06666666666666,
       "actual": 266.066666,
-      "pass": true,
-      "error": null,
-      "milliseconds": 45
+      "pass": true
     },
     {
       "target": 303.3,
       "actual": 303.3,
-      "pass": true,
-      "error": null,
-      "milliseconds": 54
+      "pass": true
     },
     {
       "target": 340.3666666666667,
       "actual": 340.366666,
-      "pass": true,
-      "error": null,
-      "milliseconds": 50
+      "pass": true
     },
     {
-      "target": 377.3,
-      "actual": 377.3,
-      "pass": true,
-      "error": null,
-      "milliseconds": 69
+      "target": 376.3,
+      "actual": 376.3,
+      "pass": true
     },
     {
-      "target": 288.2683333333333,
-      "actual": 288.268333,
-      "pass": true,
-      "error": null,
-      "milliseconds": 157
+      "target": 0,
+      "actual": 0,
+      "pass": true
     }
-  ]
+  ],
+  "videoSha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884"
 }

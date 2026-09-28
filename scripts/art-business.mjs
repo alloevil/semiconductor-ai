@@ -1,11 +1,12 @@
 import {episode} from './lib.mjs';
+import {isTopicActive, termAt, quizAnswerStart} from './teaching.mjs';
 import {palette, text, rect, line, arrow, dot, tag, reveal, callout, wafer, subtitleLines, clamp} from './art.mjs';
 
 export {subtitleLines};
 const ease = value => 1 - (1 - clamp(value)) ** 3;
 const accent = [palette.teal, palette.blue, palette.coral, '#A17230'];
-let focusIndex = 0;
-let drawnNodes = 0;
+let narrationScene;
+let narrationTime = 0;
 
 const chapters = {
   '03': [
@@ -39,7 +40,7 @@ const chapters = {
     ['预测维护：先判断状态，不夸大寿命预测。', '故障样本少、维修记录不完整，都限制可用性', 'health', ['使用工况', '状态变化', '检查 / 维护'], '公开方向存在，不代表可复制相同收益。', '公开案例：TEL Epsira'],
     ['优化配方，要回到真实实验和量测。', '模型提出建议，工程流程负责验证', 'loop', ['实验数据', '模型建议', '受控实验', '真实量测'], '虚拟量测不是未经验证就取消实际量测。', '公开案例：Applied Materials AIx'],
     ['视觉算法与内部提效，价值来源不同。', '检测产品能力，与装配、报告、软件测试分开看', 'vision', ['缺陷识别', '人工复查', '内部任务'], '规则、统计与 AI，都用任务结果说话。', '公开案例：KLA Lumina · 不预设 AI 胜出'],
-    ['数据闭环：先关联，再授权使用。', '设备、时间、批次与结果必须对得上', 'data', ['设备 ID', '时间 / 批次', '量测 / 维修'], '客户之间的数据不能随意混用。', '更多数据，不自动等于更高质量'],
+    ['数据闭环：在授权范围内正确关联。', '设备、时间、批次与结果必须对得上', 'data', ['设备 ID', '时间 / 批次', '量测 / 维修'], '客户之间的数据不能随意混用。', '更多数据，不自动等于更高质量'],
     ['同一任务、同一测试集、同一标准。', '用未来时间或留出设备检验泛化，防止泄漏', 'evaluation', ['训练数据', '留出测试', '统一验收'], '比较准确性，也比较误报代价和人工负担。', '评测设计示意 · 没有预设收益数字'],
     ['离线回放 → 只读现场 → 受控使用。', '从观察与建议开始，不绕过工程审批', 'gate', ['离线回放', '只读现场 + 审批', '有限受控使用'], '安全联锁不能被语言模型绕过。', '保留日志、回退与变更后验证'],
     ['五集结束，带走五个问题。', '不要求马上成为专家，但要能参与真实讨论', 'lifecycle', ['交付什么', '改变什么', '谁来负责', '数据在哪', '如何验收'], '先把业务讲明白，再选择工具。', '课程结束 · 后续带着具体问题学习'],
@@ -47,7 +48,7 @@ const chapters = {
 };
 
 function node(context, label, left, top, width = 360, height = 114, color = palette.teal, detail = '') {
-  const focused = drawnNodes++ === focusIndex;
+  const focused = isTopicActive(narrationScene, narrationTime, label);
   rect(context, left, top, width, height, focused ? palette.pale : palette.white, 18, color);
   if (focused) rect(context, left, top + 20, 6, height - 40, color, 3);
   text(context, label, left + width / 2, top + (detail ? 43 : height / 2), 33, color, 700, 'center');
@@ -279,46 +280,68 @@ function health(context, labels, time) {
 }
 
 function vision(context, labels, time) {
-  rect(context, 100, 317, 786, 444, palette.white, 20, palette.line);
-  text(context, '合成缺陷示意 / 非真实检测结果', 145, 358, 26, palette.teal, 600);
-  for (let row = 0; row < 3; row++) for (let column = 0; column < 5; column++) {
-    const left = 147 + column * 139;const top = 411 + row * 104;
+  rect(context, 100, 307, 818, 462, palette.white, 20, palette.line);
+  rect(context, 1002, 307, 818, 462, palette.white, 20, palette.line);
+  text(context, '设备产品能力', 509, 351, 38, palette.teal, 700, 'center');
+  text(context, '公司内部提效', 1411, 351, 38, palette.blue, 700, 'center');
+  text(context, '缺陷识别 → 辅助分类 → 复查', 509, 406, 29, palette.teal, 500, 'center');
+  for (let row = 0; row < 2; row++) for (let column = 0; column < 5; column++) {
+    const left = 147 + column * 147;
+    const top = 452 + row * 111;
     rect(context, left, top, 108, 76, palette.pale, 6);
     line(context, [[left + 20, top + 16], [left + 20, top + 56], [left + 78, top + 56]], palette.teal, 4);
-    if ((row + column) % 4 === 0) {dot(context, left + 57, top + 29, 9, palette.coral);if(time>4)rect(context,left+36,top+10,42,40,null,5,palette.coral);}
+    if ((row + column) % 4 === 0) {
+      dot(context, left + 57, top + 29, 9, palette.coral);
+      if (time > 4) rect(context, left + 36, top + 10, 42, 40, null, 5, palette.coral);
+    }
   }
-  const scan = 416 + time * 35 % 300;line(context,[[142,scan],[843,scan]],'#4482B4AA',3);
-  labels.forEach((label,index)=>reveal(context,time,index*2,()=>node(context,label,1190,337+index*141,610,108,accent[index])));
-  movingLink(context, 913, 533, 1163, 533, time, palette.teal, 3);
-  text(context, '辅助分类与复查', 1040, 486, 23, palette.teal, 400, 'center');
+  const scan = 455 + time * 35 % 187;
+  line(context, [[142, scan], [855, scan]], '#4482B4AA', 3);
+  text(context, '合成示意 / 非真实检测结果', 509, 711, 27, palette.muted, 400, 'center');
+  ['装配检查', '调试报告', '软件测试'].forEach((label, index) => reveal(context, time, index * 2, () => node(context, label, 1060, 422 + index * 94, 702, 77, accent[index])));
+  text(context, '独立业务任务，不是缺陷分类输出', 1411, 736, 27, palette.muted, 400, 'center');
 }
 
 function data(context, labels, time) {
-  labelsRow(context,labels,time,314,470);
-  rect(context,100,531,705,220,palette.ice,20,palette.blue);
-  rect(context,1115,531,705,220,palette.pale,20,palette.teal);
-  text(context,'客户 A 数据边界',452,583,34,palette.blue,700,'center');
-  text(context,'客户 B 数据边界',1467,583,34,palette.teal,700,'center');
-  for(let index=0;index<5;index++){
-    rect(context,159+index*122,650,88,48,index===Math.floor(time)%5?palette.blue:'#B5CCDD',7);
-    rect(context,1174+index*122,650,88,48,index===Math.floor(time)%5?palette.teal:'#B4D6C7',7);
+  text(context, '仅在授权范围内关联', 960, 306, 29, palette.teal, 600, 'center');
+  ['设备 ID', '时间', '批次'].forEach((label, index) => reveal(context, time, index * .8, () => node(context, label, 190 + index * 550, 341, 440, 86, accent[index])));
+  text(context, '＋', 685, 384, 34, palette.muted, 500, 'center');
+  text(context, '＋', 1235, 384, 34, palette.muted, 500, 'center');
+  line(context, [[211, 442], [211, 462], [1709, 462], [1709, 442]], palette.muted, 2);
+  text(context, '联合关联键，不是工序顺序', 960, 494, 28, palette.teal, 600, 'center');
+  rect(context, 100, 531, 745, 240, palette.ice, 20, palette.blue);
+  rect(context, 1075, 531, 745, 240, palette.pale, 20, palette.teal);
+  text(context, '客户 A 数据边界', 472, 568, 32, palette.blue, 700, 'center');
+  text(context, '客户 B 数据边界', 1447, 568, 32, palette.teal, 700, 'center');
+  for (const [left, color] of [[100, palette.blue], [1075, palette.teal]]) {
+    ['过程记录', '量测 / 维修'].forEach((label, row) => {
+      text(context, label, left + 24, 623 + row * 64, 25, color, 500);
+      for (let index = 0; index < 4; index++) {
+        const selected = index === Math.floor(time / 2) % 4;
+        rect(context, left + 206 + index * 122, 602 + row * 64, 97, 44, selected ? color : palette.white, 6);
+        text(context, `批次 ${index + 1}`, left + 254 + index * 122, 624 + row * 64, 21, selected ? palette.white : color, 400, 'center');
+      }
+    });
+    text(context, '同一列 = 同一组关联键（示意）', left + 372, 745, 24, palette.muted, 400, 'center');
   }
-  line(context,[[960,524],[960,762]],palette.coral,4,[9,9]);
-  tag(context,'不能随意混用',864,614,palette.coral,palette.peach);
+  line(context, [[960, 539], [960, 772]], palette.coral, 4, [9, 9]);
+  tag(context, '禁止混用', 884, 638, palette.coral, palette.peach);
 }
 
 function evaluation(context, labels, time) {
-  node(context,labels[0],100,318,820,109,palette.teal,'较早时间段');
-  node(context,labels[1],1060,318,760,109,palette.blue,'未来时间 / 留出设备');
-  line(context,[[976,305],[976,456]],palette.coral,3,[8,8]);
-  text(context,'防止信息泄漏',980,284,24,palette.coral,400,'center');
-  node(context,'现有规则 / 人工',180,533,610,109,palette.teal);
-  node(context,'AI 方法',1130,533,610,109,palette.blue);
-  text(context,'同一份测试数据',960,681,29,palette.ink,600,'center');
-  movingLink(context,1435,449,1435,514,time,palette.blue,2);
-  movingLink(context,1060,456,530,514,time,palette.teal,4);
-  rect(context,367,717,1186,62,palette.white,12,palette.line);
-  text(context,`${labels[2]}：误报 / 漏报 / 时间 / 人工负担 —— 待实测`,960,748,26,palette.muted,400,'center');
+  node(context, '训练数据', 100, 316, 760, 112, palette.teal, '较早时间段 / 用于训练与调参');
+  node(context, '冻结模型与配置', 1060, 316, 760, 112, palette.blue, '测试期间不再调参');
+  movingLink(context, 885, 372, 1035, 372, time, palette.teal, 1);
+  line(context, [[110, 461], [1810, 461]], palette.line, 2, [8, 8]);
+  node(context, '同一份留出测试数据', 685, 491, 550, 88, palette.coral);
+  node(context, '现有规则 / 人工', 130, 643, 650, 95, palette.teal);
+  node(context, 'AI 方法', 1095, 643, 650, 95, palette.blue);
+  movingLink(context, 685, 535, 455, 625, time, palette.coral, 3);
+  movingLink(context, 1235, 535, 1420, 625, time, palette.coral, 3);
+  movingLink(context, 1780, 440, 1780, 685, time, palette.blue, 2);
+  movingLink(context, 1780, 685, 1755, 685, time, palette.blue, 2);
+  text(context, '只评测，不回流训练', 960, 608, 25, palette.coral, 600, 'center');
+  text(context, `${labels[2]}：误报 / 漏报 / 时间 / 人工负担 —— 待实测`, 960, 775, 27, palette.muted, 400, 'center');
 }
 
 function lifecycle(context, labels, time) {
@@ -340,7 +363,7 @@ function quiz(context,labels,time,scene){
   if(time>=next){lifecycle(context,['需求','研发','装配','交付','维护'],time-next);return;}
   const index=time>=second?1:0;
   const cue=scene.cues.find(cue=>cue.text.includes(index?'没有晶圆厂':'设备商和晶圆厂'));
-  const answered=time>(cue?.end??6);
+  const answered=time>quizAnswerStart(scene,cue);
   rect(context,190,321,1540,437,palette.white,25,palette.line);
   tag(context,`问题 ${index+1} / 2`,244,371);
   text(context,labels[index],960,470,46,palette.ink,700,'center');
@@ -372,15 +395,16 @@ function diagram(context,config,time,scene){
 
 export function drawFrame(context,scene,time,timeline){
   const config=chapters[episode][Number(scene.id)-1];
-  focusIndex=Math.min(2,Math.floor(time/scene.duration*3));
-  drawnNodes=0;
+  narrationScene=scene;
+  narrationTime=time;
   context.fillStyle=palette.paper;context.fillRect(0,0,1920,1080);
   line(context,[[100,99],[1820,99]],palette.line,2);
   text(context,'FIELD NOTES',100,58,22,palette.teal,700);
   text(context,{'03':'半导体入门 / 产业链','04':'半导体入门 / 设备制造','05':'半导体入门 / AI 应用'}[episode],304,58,23,palette.muted);
   text(context,`EPISODE ${episode}`,1819,58,22,palette.teal,700,'right');
   text(context,config[0],100,160,52,palette.ink,700);
-  text(context,config[1],104,229,26,palette.muted);
+  const term=termAt(episode,scene,time);
+  text(context,term?.text||config[1],104,229,term?29:26,term?palette.teal:palette.muted,term?600:400);
   text(context,scene.id,1715,167,73,palette.teal,600,'right');text(context,'/ 10',1736,181,26,palette.muted);
   context.save();context.globalAlpha=Math.min(ease(time/.5),ease((scene.duration-time)/.5));
   diagram(context,config,time,scene);context.restore();

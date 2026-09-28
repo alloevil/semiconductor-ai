@@ -8,6 +8,7 @@
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-10%"
   },
+  "teachingRevision": "2026-09-28-cue-sync",
   "scenes": [
     {
       "id": "01",
@@ -49,6 +50,7 @@
           "text": "先看分工，再看公司名字，就不容易把整个行业混成一团。"
         }
       ],
+      "pauses": [],
       "fingerprint": "22a5021959333cec19373727c4a5ea64fd07c1dc9137ebd6db6dfc2e1ed59172"
     },
     {
@@ -86,6 +88,7 @@
           "text": "英伟达和超威，是理解这种模式的例子。"
         }
       ],
+      "pauses": [],
       "fingerprint": "2011361d6a684a8870e75b204e7f26bd99bf4879357f9ceec7b635d96c26f248"
     },
     {
@@ -123,6 +126,7 @@
           "text": "所以，代工不是简单照抄，设计也不能完全脱离制造条件；两边通过规则和验证连接起来。"
         }
       ],
+      "pauses": [],
       "fingerprint": "981d6db2c173ef0e0dfec244f217770c7a6cf3b13d394536d0f5f4094d7504f6"
     },
     {
@@ -160,6 +164,7 @@
           "text": "但这些环节也可能由晶圆厂或其他企业承担，不能把角色画成永远互斥的公司标签。"
         }
       ],
+      "pauses": [],
       "fingerprint": "e910c163b6b81157d8322a622fdfe52a882f5457882cbce6044de9955b6aa780"
     },
     {
@@ -197,6 +202,7 @@
           "text": "要分清：一边卖的是加工能力和工具，另一边使用工具来制造芯片。"
         }
       ],
+      "pauses": [],
       "fingerprint": "8a7d360fa0c4d6b51d560e4519911e963fa7979f210ed4dd640abef23915e951"
     },
     {
@@ -239,6 +245,7 @@
           "text": "小小的关键部件，也可能影响整机表现。"
         }
       ],
+      "pauses": [],
       "fingerprint": "a695a9b3198fff080a91ea606d634bdbf730bdb8ecaf703f7e00633399eaf85d"
     },
     {
@@ -276,6 +283,7 @@
           "text": "它们要与目标工艺、接口和系统要求匹配，授权方式也各不相同。"
         }
       ],
+      "pauses": [],
       "fingerprint": "f34eef15b1602d0a91e10a72288ff7cafaa29e8fab89fbca38804d1f2d2ff066"
     },
     {
@@ -308,6 +316,7 @@
           "text": "我们画的分类是理解分工的工具，不是把每家公司永久放进一个只能选一次的盒子。"
         }
       ],
+      "pauses": [],
       "fingerprint": "5c8f2a737d5abf86fe275828cdb35ac11358f2bac214d1f38e95a7246197df39"
     },
     {
@@ -345,6 +354,7 @@
           "text": "比只背它属于上游还是下游，更容易理解真实业务。"
         }
       ],
+      "pauses": [],
       "fingerprint": "25614b2d3158960e5499dfbab124ba5fc5cfc48e38676a408c0443447126a62e"
     },
     {
@@ -352,8 +362,8 @@
       "title": "把焦点留给设备公司",
       "narration": "最后检查一下。设备商和晶圆厂，是一回事吗？不是，一个提供制造工具，另一个使用工具加工晶圆。没有晶圆厂的设计公司，就不需要懂制造吗？也不是，设计必须考虑制造规则。到这里，你已经有了产业链地图。下一集，我们走进设备公司，看看一台机器怎样被研发、装配、交付，并长期服务客户。",
       "start": 324.06666666666666,
-      "duration": 35.8,
-      "frames": 1074,
+      "duration": 41.8,
+      "frames": 1254,
       "sourceDuration": 32.976,
       "cues": [
         {
@@ -363,41 +373,57 @@
         },
         {
           "start": 3.055,
-          "end": 6.652,
+          "end": 9.652000000000001,
           "text": "设备商和晶圆厂，是一回事吗？"
         },
         {
-          "start": 6.652,
-          "end": 12.347,
+          "start": 9.652000000000001,
+          "end": 15.347,
           "text": "不是，一个提供制造工具，另一个使用工具加工晶圆。"
         },
         {
-          "start": 12.347,
-          "end": 16.68,
+          "start": 15.347,
+          "end": 22.68,
           "text": "没有晶圆厂的设计公司，就不需要懂制造吗？"
         },
         {
-          "start": 16.68,
-          "end": 20.736,
+          "start": 22.68,
+          "end": 26.736,
           "text": "也不是，设计必须考虑制造规则。"
         },
         {
-          "start": 20.736,
-          "end": 24.277,
+          "start": 26.736,
+          "end": 30.277,
           "text": "到这里，你已经有了产业链地图。"
         },
         {
-          "start": 24.277,
-          "end": 33.902,
+          "start": 30.277,
+          "end": 39.902,
           "text": "下一集，我们走进设备公司，看看一台机器怎样被研发、装配、交付，并长期服务客户。"
+        }
+      ],
+      "pauses": [
+        {
+          "questionIndex": 1,
+          "answerIndex": 2,
+          "sourceCut": 5.652,
+          "start": 6.652,
+          "duration": 3
+        },
+        {
+          "questionIndex": 3,
+          "answerIndex": 4,
+          "sourceCut": 15.68,
+          "start": 19.68,
+          "duration": 3
         }
       ],
       "fingerprint": "d13a2576c66d2375a7079ef638e1a81dfb52f01a50538282b991a0860e8cd2ab"
     }
   ],
-  "narrationDuration": 359.8666666666667,
+  "narrationDuration": 365.8666666666667,
   "creditsDuration": 9,
-  "duration": 368.8666666666667,
+  "duration": 374.8666666666667,
   "disclosure": "中文旁白由 AI 合成 / Microsoft zh-CN-XiaoxiaoNeural / edge-tts",
-  "generatedAt": "2026-09-27T15:36:48.359Z"
+  "generatedAt": "2026-09-27T23:43:27.175Z"
 }

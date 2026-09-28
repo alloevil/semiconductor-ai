@@ -1,0 +1,54 @@
+{
+  "method": "Published timeline question-end to answer-start gap before pedagogical edits",
+  "cases": [
+    {
+      "episode": "01",
+      "question": "半导体，是不是一种材料类别？",
+      "answer": "是。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    },
+    {
+      "episode": "01",
+      "question": "晶圆，是不是一块已经封装好的芯片？",
+      "answer": "不是。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    },
+    {
+      "episode": "01",
+      "question": "所有芯片，都用来做处理器吗？",
+      "answer": "也不是。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    },
+    {
+      "episode": "02",
+      "question": "现在试着回答：光刻机是在直接雕刻硅片吗？",
+      "answer": "不是，它主要负责把图案转移到光刻胶上。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    },
+    {
+      "episode": "02",
+      "question": "清洗只在最后做吗？",
+      "answer": "也不是，它贯穿制造过程。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    },
+    {
+      "episode": "03",
+      "question": "设备商和晶圆厂，是一回事吗？",
+      "answer": "不是，一个提供制造工具，另一个使用工具加工晶圆。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    },
+    {
+      "episode": "03",
+      "question": "没有晶圆厂的设计公司，就不需要懂制造吗？",
+      "answer": "也不是，设计必须考虑制造规则。",
+      "gapSeconds": 0,
+      "meetsThreeSecondPause": false
+    }
+  ]
+}

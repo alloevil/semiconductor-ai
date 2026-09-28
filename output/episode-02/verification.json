@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T15:54:45.551Z",
+  "generatedAt": "2026-09-28T01:29:07.097Z",
   "pass": true,
   "file": "output/episode-02/episode-02.mp4",
-  "bytes": 13294937,
-  "sha256": "4db7072d756ae84c5178ee7602562d80fb383be23117a0605827fe8b29604a3f",
-  "duration": 360.834,
+  "bytes": 13368662,
+  "sha256": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b",
+  "duration": 366.834,
   "checks": [
     {
       "name": "十段旁白与原稿一致",
@@ -104,12 +104,12 @@
     {
       "name": "场景 10 时间连续",
       "pass": true,
-      "evidence": "316.033–351.833s"
+      "evidence": "316.033–357.833s"
     },
     {
       "name": "场景 10 无截断配音",
       "pass": true,
-      "evidence": "voice=33.000s, scene=35.800s"
+      "evidence": "voice=33.000s, scene=41.800s"
     },
     {
       "name": "字幕文字完整覆盖旁白",
@@ -139,7 +139,7 @@
     {
       "name": "总帧数完整",
       "pass": true,
-      "evidence": "10825/10825"
+      "evidence": "11005/11005"
     },
     {
       "name": "中文音轨存在",
@@ -150,9 +150,9 @@
       "name": "音画时长一致",
       "pass": true,
       "evidence": {
-        "video": "360.833984",
-        "audio": "360.766000",
-        "target": 360.83333333333337
+        "video": "366.833984",
+        "audio": "366.766000",
+        "target": 366.83333333333337
       }
     },
     {
@@ -169,7 +169,7 @@
       "name": "音轨非静音且无满幅削波",
       "pass": true,
       "evidence": {
-        "meanDb": -18.6,
+        "meanDb": -18.7,
         "peakDb": -2
       }
     },
@@ -206,7 +206,7 @@
     {
       "name": "场景 07 主画面随时间变化",
       "pass": true,
-      "evidence": "3.80% of diagram pixels changed (subtitles excluded)"
+      "evidence": "3.79% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 08 主画面随时间变化",
@@ -221,7 +221,7 @@
     {
       "name": "场景 10 主画面随时间变化",
       "pass": true,
-      "evidence": "3.28% of diagram pixels changed (subtitles excluded)"
+      "evidence": "3.27% of diagram pixels changed (subtitles excluded)"
     }
   ],
   "visualEvidence": [

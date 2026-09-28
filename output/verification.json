@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T15:54:33.205Z",
+  "generatedAt": "2026-09-28T01:28:50.307Z",
   "pass": true,
   "file": "output/episode-01.mp4",
-  "bytes": 14046939,
-  "sha256": "2ebb945dcb5ddb6e6bed779a10e767620afd36ccb0bceabd6cafb35b1f7259b4",
-  "duration": 336.467,
+  "bytes": 14130453,
+  "sha256": "b9cf8907cba048acc7a029ccda43fac137c5835a3d98a0e9b347434d54b41ba6",
+  "duration": 345.467,
   "checks": [
     {
       "name": "十段旁白与原稿一致",
@@ -104,12 +104,12 @@
     {
       "name": "场景 10 时间连续",
       "pass": true,
-      "evidence": "292.233–327.467s"
+      "evidence": "292.233–336.467s"
     },
     {
       "name": "场景 10 无截断配音",
       "pass": true,
-      "evidence": "voice=32.424s, scene=35.233s"
+      "evidence": "voice=32.424s, scene=44.233s"
     },
     {
       "name": "字幕文字完整覆盖旁白",
@@ -139,7 +139,7 @@
     {
       "name": "总帧数完整",
       "pass": true,
-      "evidence": "10094/10094"
+      "evidence": "10364/10364"
     },
     {
       "name": "中文音轨存在",
@@ -150,9 +150,9 @@
       "name": "音画时长一致",
       "pass": true,
       "evidence": {
-        "video": "336.466992",
-        "audio": "336.433000",
-        "target": 336.4666666666667
+        "video": "345.466992",
+        "audio": "345.433000",
+        "target": 345.4666666666667
       }
     },
     {
@@ -169,7 +169,7 @@
       "name": "音轨非静音且无满幅削波",
       "pass": true,
       "evidence": {
-        "meanDb": -18.7,
+        "meanDb": -18.8,
         "peakDb": -2
       }
     },
@@ -221,7 +221,7 @@
     {
       "name": "场景 10 主画面随时间变化",
       "pass": true,
-      "evidence": "3.52% of diagram pixels changed (subtitles excluded)"
+      "evidence": "3.18% of diagram pixels changed (subtitles excluded)"
     }
   ],
   "visualEvidence": [

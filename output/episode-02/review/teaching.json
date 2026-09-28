@@ -1,0 +1,183 @@
+{
+  "pass": true,
+  "videoSha256": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b",
+  "results": [
+    {
+      "name": "教学时间轴版本正确",
+      "pass": true,
+      "evidence": "2026-09-28-cue-sync"
+    },
+    {
+      "name": "原始合成旁白未改动",
+      "pass": true,
+      "evidence": "10 MP3 SHA-256 comparisons"
+    },
+    {
+      "name": "术语提示与语句同步：叫光刻胶",
+      "pass": true,
+      "evidence": {
+        "start": 6.458,
+        "text": "光刻胶：对光敏感、用于形成图案的材料"
+      }
+    },
+    {
+      "name": "术语提示不越界：叫光刻胶",
+      "pass": true,
+      "evidence": 522
+    },
+    {
+      "name": "术语提示与语句同步：平坦化",
+      "pass": true,
+      "evidence": {
+        "start": 19.819,
+        "text": "CMP：化学与机械共同作用，让表面更平整"
+      }
+    },
+    {
+      "name": "术语提示不越界：平坦化",
+      "pass": true,
+      "evidence": 556.1099853515625
+    },
+    {
+      "name": "术语提示与语句同步：对得准",
+      "pass": true,
+      "evidence": {
+        "start": 9.986,
+        "text": "套刻：不同层的图形是否对准"
+      }
+    },
+    {
+      "name": "术语提示不越界：对得准",
+      "pass": true,
+      "evidence": 377
+    },
+    {
+      "name": "复习题停顿数量",
+      "pass": true,
+      "evidence": 2
+    },
+    {
+      "name": "答案前保留3秒：题1",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 6.138,
+        "answerStart": 9.138
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题1",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门  /  制造过程",
+        "EPISODE 02",
+        "现在，你能读懂设备的任务了。",
+        "先理解它改变什么，再理解公司如何分工",
+        "10",
+        "/ 10",
+        "问题 1 / 2",
+        "光刻机直接把硅片雕出沟槽吗？",
+        "想一想…",
+        "设备的名字，来自它承担的加工或检查任务。",
+        "原理示意 · 非真实比例 · 非完整器件工艺",
+        "中文旁白由 AI 合成",
+        "现在试着回答：光刻机是在直接雕刻硅片吗？"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题1",
+      "pass": true,
+      "evidence": "不是，它主要负责把图案转移到光刻胶上。"
+    },
+    {
+      "name": "实际MP4停顿静音：题1",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          322.3213125,
+          325.0213125
+        ]
+      }
+    },
+    {
+      "name": "答案前保留3秒：题3",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 16.194000000000003,
+        "answerStart": 19.194000000000003
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题3",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门  /  制造过程",
+        "EPISODE 02",
+        "现在，你能读懂设备的任务了。",
+        "先理解它改变什么，再理解公司如何分工",
+        "10",
+        "/ 10",
+        "问题 2 / 2",
+        "清洗只在最后做一次吗？",
+        "想一想…",
+        "设备的名字，来自它承担的加工或检查任务。",
+        "原理示意 · 非真实比例 · 非完整器件工艺",
+        "中文旁白由 AI 合成",
+        "清洗只在最后做吗？"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题3",
+      "pass": true,
+      "evidence": "也不是，它贯穿制造过程。"
+    },
+    {
+      "name": "实际MP4停顿静音：题3",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          332.3773125,
+          335.0773125
+        ]
+      }
+    }
+  ],
+  "samples": [
+    {
+      "scene": "03",
+      "time": 6.958,
+      "kind": "term",
+      "label": "叫光刻胶"
+    },
+    {
+      "scene": "07",
+      "time": 20.319,
+      "kind": "term",
+      "label": "平坦化"
+    },
+    {
+      "scene": "08",
+      "time": 10.486,
+      "kind": "term",
+      "label": "对得准"
+    },
+    {
+      "scene": "10",
+      "time": 7.638,
+      "kind": "question-hold",
+      "label": "现在试着回答：光刻机是在直接雕刻硅片吗？"
+    },
+    {
+      "scene": "10",
+      "time": 17.694000000000003,
+      "kind": "question-hold",
+      "label": "清洗只在最后做吗？"
+    }
+  ],
+  "limitations": "Sentence-aligned cues, not word-level alignment; checks do not measure learner comprehension."
+}

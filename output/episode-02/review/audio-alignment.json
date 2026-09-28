@@ -1,6 +1,7 @@
 {
   "pass": true,
-  "method": "Compare final AAC-decoded audio to normalized source PCM at identical sample offsets; threshold >0.99",
+  "videoSha256": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b",
+  "method": "Correlation at identical sample offsets against normalized source PCM; threshold >0.99 per scene",
   "results": [
     {
       "scene": "01",
@@ -49,7 +50,7 @@
     },
     {
       "scene": "10",
-      "zeroLagCorrelation": 0.999979,
+      "zeroLagCorrelation": 0.999976,
       "pass": true
     }
   ]

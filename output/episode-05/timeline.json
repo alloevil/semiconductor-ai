@@ -8,6 +8,7 @@
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-10%"
   },
+  "teachingRevision": "2026-09-28-cue-sync",
   "scenes": [
     {
       "id": "01",
@@ -49,6 +50,7 @@
           "text": "这些问题，决定 AI 能不能真正帮上忙。"
         }
       ],
+      "pauses": [],
       "fingerprint": "272814175ae6f1414370890a4c4634c32cce79aac01e30708b1b01e1b66404a2"
     },
     {
@@ -81,6 +83,7 @@
           "text": "它可以缩短查资料的过程，不能仅凭一段流畅文字，就替代现场确认或安全操作规程。"
         }
       ],
+      "pauses": [],
       "fingerprint": "26419c95266c785f9676ae247d3007dd4d36acc6d5610e63c17b02cf29f89090"
     },
     {
@@ -118,6 +121,7 @@
           "text": "验收要看误报、漏报和排查时间，而不只是模型分数。"
         }
       ],
+      "pauses": [],
       "fingerprint": "73ff7f19e6d72ca668b27abbb947cdf76b613d1705c73a40742ffc3b5486d9a6"
     },
     {
@@ -150,6 +154,7 @@
           "text": "东京电子公开的方案包含清洗间隔分析和故障分析，说明有这种方向，不代表你的设备可以直接复用相同效果。"
         }
       ],
+      "pauses": [],
       "fingerprint": "f8e1407d240fa551bb97f6057d046dcaeee3718d4695b82b9b8e122f660ee50e"
     },
     {
@@ -182,6 +187,7 @@
           "text": "虚拟量测不是未经验证就取消真实量测，推荐配方也不等于可以绕过工艺审批直接执行。"
         }
       ],
+      "pauses": [],
       "fingerprint": "372d10c993e3e74610d61484332464786c0c35a8d641fe6e3c37341d9a17f26d"
     },
     {
@@ -219,6 +225,7 @@
           "text": "选择方法要比较真实任务结果，而不是比较名词是否新潮。"
         }
       ],
+      "pauses": [],
       "fingerprint": "c0e6aa04d2459851a90827a77f0ec273e9c96390398009d261594690439de5e8"
     },
     {
@@ -261,6 +268,7 @@
           "text": "数据越多，并不自动等于越有用。"
         }
       ],
+      "pauses": [],
       "fingerprint": "47c3def215a7940a765ca6a826daa1af9d3f9a84b0dbfe7fa4d31fe3541e514a"
     },
     {
@@ -298,6 +306,7 @@
           "text": "画面里的分组只是评测设计，不是实际实验，更没有预先写好的收益结论。"
         }
       ],
+      "pauses": [],
       "fingerprint": "17b83e7f4efa1618f2d662d5d615ae77c64ba39d452a7bde3177126032bb6b77"
     },
     {
@@ -335,6 +344,7 @@
           "text": "一次演示成功，不等于可以长期无人值守。"
         }
       ],
+      "pauses": [],
       "fingerprint": "f62dcaf0b5a7021eab48cd5e299a40d1843a5ae9dcb9e4ac560e02d7f228ae58"
     },
     {
@@ -372,6 +382,7 @@
           "text": "这就是从完全不了解行业，到能够参与讨论的第一步。"
         }
       ],
+      "pauses": [],
       "fingerprint": "e7ede604222954a4b522c362e3b1de4b2c8c1b408dd29f556b0a9c0cd755a887"
     }
   ],
@@ -379,5 +390,5 @@
   "creditsDuration": 9,
   "duration": 383.3,
   "disclosure": "中文旁白由 AI 合成 / Microsoft zh-CN-XiaoxiaoNeural / edge-tts",
-  "generatedAt": "2026-09-27T15:36:53.569Z"
+  "generatedAt": "2026-09-27T23:43:27.296Z"
 }

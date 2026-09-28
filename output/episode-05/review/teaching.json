@@ -1,0 +1,99 @@
+{
+  "pass": true,
+  "videoSha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884",
+  "results": [
+    {
+      "name": "教学时间轴版本正确",
+      "pass": true,
+      "evidence": "2026-09-28-cue-sync"
+    },
+    {
+      "name": "原始合成旁白未改动",
+      "pass": true,
+      "evidence": "10 MP3 SHA-256 comparisons"
+    },
+    {
+      "name": "旁白主题高亮：权限 / 版本筛选",
+      "pass": true,
+      "evidence": {
+        "start": 1.1,
+        "end": 10.277,
+        "sentence": "最容易想到的是知识助手：帮助工程师查手册、历史工单、报警说明和相关版本。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：装配检查",
+      "pass": true,
+      "evidence": {
+        "start": 13.375,
+        "end": 20.986,
+        "sentence": "其他设备公司，也可以考虑装配检查、调试报告、软件测试等内部任务。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：批次",
+      "pass": true,
+      "evidence": {
+        "start": 4.18,
+        "end": 13.236,
+        "sentence": "传感器曲线、配方、量测结果和维修动作，需要能关联到同一设备、时间和批次。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：现有规则 / 人工",
+      "pass": true,
+      "evidence": {
+        "start": 3.347,
+        "end": 10.958,
+        "sentence": "先固定任务和测试样本，用同样标准比较现有人工、规则方法与 AI。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：只读现场 + 审批",
+      "pass": true,
+      "evidence": {
+        "start": 1.1,
+        "end": 11.597,
+        "sentence": "落地可以从离线回放开始，再让系统在现场只观察、不给设备下指令，检查它面对真实变化的表现。"
+      }
+    },
+    {
+      "name": "复习题停顿数量",
+      "pass": true,
+      "evidence": 0
+    }
+  ],
+  "samples": [
+    {
+      "scene": "02",
+      "time": 5.6884999999999994,
+      "kind": "focus",
+      "label": "权限 / 版本筛选"
+    },
+    {
+      "scene": "06",
+      "time": 17.180500000000002,
+      "kind": "focus",
+      "label": "装配检查"
+    },
+    {
+      "scene": "07",
+      "time": 8.708,
+      "kind": "focus",
+      "label": "批次"
+    },
+    {
+      "scene": "08",
+      "time": 7.1525,
+      "kind": "focus",
+      "label": "现有规则 / 人工"
+    },
+    {
+      "scene": "09",
+      "time": 6.3485,
+      "kind": "focus",
+      "label": "只读现场 + 审批"
+    }
+  ],
+  "limitations": "Sentence-aligned cues, not word-level alignment; checks do not measure learner comprehension."
+}

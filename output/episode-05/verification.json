@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T15:55:23.001Z",
+  "generatedAt": "2026-09-28T01:29:59.656Z",
   "pass": true,
   "file": "output/episode-05/episode-05.mp4",
-  "bytes": 14013813,
-  "sha256": "c733a050d23a9ec831aebca00ef19f051816aa927a2033b803d27e068db974be",
+  "bytes": 14527235,
+  "sha256": "1d4b61381a3b1d806040376aadf613bc9ab5aafc7db5c3f3704ed8d042e40884",
   "duration": 383.3,
   "checks": [
     {
@@ -176,12 +176,12 @@
     {
       "name": "场景 01 主画面随时间变化",
       "pass": true,
-      "evidence": "13.59% of diagram pixels changed (subtitles excluded)"
+      "evidence": "6.28% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 02 主画面随时间变化",
       "pass": true,
-      "evidence": "10.76% of diagram pixels changed (subtitles excluded)"
+      "evidence": "15.78% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 03 主画面随时间变化",
@@ -191,32 +191,32 @@
     {
       "name": "场景 04 主画面随时间变化",
       "pass": true,
-      "evidence": "8.36% of diagram pixels changed (subtitles excluded)"
+      "evidence": "8.58% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 05 主画面随时间变化",
       "pass": true,
-      "evidence": "9.70% of diagram pixels changed (subtitles excluded)"
+      "evidence": "9.00% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 06 主画面随时间变化",
       "pass": true,
-      "evidence": "15.39% of diagram pixels changed (subtitles excluded)"
+      "evidence": "0.62% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 07 主画面随时间变化",
       "pass": true,
-      "evidence": "13.51% of diagram pixels changed (subtitles excluded)"
+      "evidence": "12.18% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 08 主画面随时间变化",
       "pass": true,
-      "evidence": "17.73% of diagram pixels changed (subtitles excluded)"
+      "evidence": "10.98% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 09 主画面随时间变化",
       "pass": true,
-      "evidence": "10.66% of diagram pixels changed (subtitles excluded)"
+      "evidence": "10.36% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 10 主画面随时间变化",

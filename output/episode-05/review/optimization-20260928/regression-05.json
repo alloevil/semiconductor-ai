@@ -1,0 +1,35 @@
+{
+  "episode": "05",
+  "pass": true,
+  "method": "Compare newly drawn frame to published HEAD source preview at exactly 65% of unchanged scenes",
+  "results": [
+    {
+      "scene": "01",
+      "identical": true
+    },
+    {
+      "scene": "02",
+      "identical": true
+    },
+    {
+      "scene": "03",
+      "identical": true
+    },
+    {
+      "scene": "04",
+      "identical": true
+    },
+    {
+      "scene": "05",
+      "identical": true
+    },
+    {
+      "scene": "09",
+      "identical": true
+    },
+    {
+      "scene": "10",
+      "identical": true
+    }
+  ]
+}

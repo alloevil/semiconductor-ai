@@ -1,0 +1,205 @@
+{
+  "description": "Original synthesized narration before teaching timing changes. Pauses are inserted in decoded PCM; these MP3s must remain unchanged.",
+  "files": [
+    {
+      "path": "output/episode-02/speech/01.mp3",
+      "sha256": "e521374a4cbfa1859378c567ea31d715fce7f899599d88be4863c1872324339c"
+    },
+    {
+      "path": "output/episode-02/speech/02.mp3",
+      "sha256": "841a1af85188b1fb66371c6c9f625f069594cc3b12c21142b990693a113209d1"
+    },
+    {
+      "path": "output/episode-02/speech/03.mp3",
+      "sha256": "954c8648d3688ef103e099814ffa90cac5647245df3822432c03ce242c909f60"
+    },
+    {
+      "path": "output/episode-02/speech/04.mp3",
+      "sha256": "636fa49303c9dc1ca1465a58017786e88a0cc947c0cc3714deeca0c8b6719732"
+    },
+    {
+      "path": "output/episode-02/speech/05.mp3",
+      "sha256": "b05feae727c602e0beaf3b8b5dfbbe87b6a6cecc49688f1b098660573c8a3f59"
+    },
+    {
+      "path": "output/episode-02/speech/06.mp3",
+      "sha256": "bf1b7794d02b9451827cfef7b9e163e36b689933e0812b875a2da4886051d0e3"
+    },
+    {
+      "path": "output/episode-02/speech/07.mp3",
+      "sha256": "8290697f5f92da16e00b18bd90fe86ea818bb12f3395f7e2b77e549cfe618641"
+    },
+    {
+      "path": "output/episode-02/speech/08.mp3",
+      "sha256": "5141b55beab5c9878025165a20ae5ab593f2e31f86271f32dcd80495869ed9ff"
+    },
+    {
+      "path": "output/episode-02/speech/09.mp3",
+      "sha256": "166ac29201f565405c94e6503c8854f2a9e913a466b36d26d1099003d992103a"
+    },
+    {
+      "path": "output/episode-02/speech/10.mp3",
+      "sha256": "0a4fc498012aa75bbffc89e3d77fb3f7347e9b82c1416dfa3086a8a298932b47"
+    },
+    {
+      "path": "output/episode-03/speech/01.mp3",
+      "sha256": "1593a53f14e626efc63edffef286998386b406b90d636c97c6633db08bb36984"
+    },
+    {
+      "path": "output/episode-03/speech/02.mp3",
+      "sha256": "514a82159687e70e1114c3a83ccc3163e58cd6bf5da24e5c3eca8de17c709d1c"
+    },
+    {
+      "path": "output/episode-03/speech/03.mp3",
+      "sha256": "326727e1aff45809674ccfeb375017ccabf9a0bdfa02d84caaacdeb0b7265ed8"
+    },
+    {
+      "path": "output/episode-03/speech/04.mp3",
+      "sha256": "ee980e05e48a8f7fee3fba70a010d5f860f159efd10467d8b719503b14ce5de8"
+    },
+    {
+      "path": "output/episode-03/speech/05.mp3",
+      "sha256": "447f32a24728c33bf1151683f02a461eb80b1603ceadd6d0a4065d3d78afa3e5"
+    },
+    {
+      "path": "output/episode-03/speech/06.mp3",
+      "sha256": "66c8a4d2c66b1139af983b8d4f5cfa840424537af890a3605ca6a982eca25470"
+    },
+    {
+      "path": "output/episode-03/speech/07.mp3",
+      "sha256": "4a7840c1f4845ccbf8716e8aa63eaa51ac52fb860237640f124d4a3dc9663c0a"
+    },
+    {
+      "path": "output/episode-03/speech/08.mp3",
+      "sha256": "360a1e8d848e1a824d3c05b679d58949df6ed2e66a21001c544ea550e6878683"
+    },
+    {
+      "path": "output/episode-03/speech/09.mp3",
+      "sha256": "1938f0547f0c6bbfae2b21d90e6ae28d0220f39f07c24c27c5994761e0be06ee"
+    },
+    {
+      "path": "output/episode-03/speech/10.mp3",
+      "sha256": "369ac6acade8b21bba0f450ab8e277ab57ad59bdbb77ce9af0f044f6d122d217"
+    },
+    {
+      "path": "output/episode-04/speech/01.mp3",
+      "sha256": "a3ce37de86c35f8b1bb900492af2f219347d5cd229bede4dcc9b09627344dbc8"
+    },
+    {
+      "path": "output/episode-04/speech/02.mp3",
+      "sha256": "4f0a89adae82932d917c14dedf42b95a15f861592b14d371a112886d053e9421"
+    },
+    {
+      "path": "output/episode-04/speech/03.mp3",
+      "sha256": "323645d749c001c48ae613db67d1c7a82945e20d50522dd6ca5f17cb62698657"
+    },
+    {
+      "path": "output/episode-04/speech/04.mp3",
+      "sha256": "fed9508651a768e12f301a692aafa519e5e3e45ff6819b11aa306d2c6f9eb1da"
+    },
+    {
+      "path": "output/episode-04/speech/05.mp3",
+      "sha256": "b7cf9a20ebba29ddc8a1d6605a1a0e88052facfb66a68c1cf82daf2ccd0f2e52"
+    },
+    {
+      "path": "output/episode-04/speech/06.mp3",
+      "sha256": "5df44a5b4488decd77942abce677a58d8b74d45603ace73f012c33575c7e83f2"
+    },
+    {
+      "path": "output/episode-04/speech/07.mp3",
+      "sha256": "520f950671e47d993213f2335c150c4459cdba747cadf264d8a895d68902fd3c"
+    },
+    {
+      "path": "output/episode-04/speech/08.mp3",
+      "sha256": "4e32d4268fbe43862024de36e17c0eb4dc4da14e35a7f69afc5faa67b9d1129e"
+    },
+    {
+      "path": "output/episode-04/speech/09.mp3",
+      "sha256": "ce9a0e7da9ebcab785ae486097379b8dc5c9101b3a14b58f723288fc47dba022"
+    },
+    {
+      "path": "output/episode-04/speech/10.mp3",
+      "sha256": "1aae28ea1668411750a130d4ca3fcb192d1d52fab906916f27ba578d1985fd3e"
+    },
+    {
+      "path": "output/episode-05/speech/01.mp3",
+      "sha256": "56b889f0e0116a8d45725796d1dbe0376255f5167018fad869d10434afd324ad"
+    },
+    {
+      "path": "output/episode-05/speech/02.mp3",
+      "sha256": "5bebf6973b61865a99be783796bb8c7f0705ec4ea5674e4a15cd9c6e135e1cf6"
+    },
+    {
+      "path": "output/episode-05/speech/03.mp3",
+      "sha256": "6da893138d54d4b3f1e10a017fbbe79efb246570d50e18bf3018efce7f9af75a"
+    },
+    {
+      "path": "output/episode-05/speech/04.mp3",
+      "sha256": "6dcc1dce52709bd63fe59461ad8678ffe0c250807b48a04ae3fd423ae5d9a370"
+    },
+    {
+      "path": "output/episode-05/speech/05.mp3",
+      "sha256": "3b8bc477a6301024ec22c4e8c57a82a24919fbcc025739abde15047319511423"
+    },
+    {
+      "path": "output/episode-05/speech/06.mp3",
+      "sha256": "14d671dae743fadf8a96acf9a05e8377850ca9750b84c29b26a437667edbac0d"
+    },
+    {
+      "path": "output/episode-05/speech/07.mp3",
+      "sha256": "00629167788b82a5bfb16232f1052899c0b38d1606f8b1fa7e2bee7d4b118d2d"
+    },
+    {
+      "path": "output/episode-05/speech/08.mp3",
+      "sha256": "4292534a26ce09fd82db30ba56163f6c6013d1b4b0d3838a6fdbf5f05d92048a"
+    },
+    {
+      "path": "output/episode-05/speech/09.mp3",
+      "sha256": "73837b56882a10164d0f31cea77e107e40f69323ec4fb6954c880efc19bd3e02"
+    },
+    {
+      "path": "output/episode-05/speech/10.mp3",
+      "sha256": "7b842dd2fd6f61745576d1b36d0e83cf9ddaab1a7f96958b25acbe4c999dd8d3"
+    },
+    {
+      "path": "output/speech/01.mp3",
+      "sha256": "6901a0a19b6fb8a48e6422f3232a3e4a623da0d722fba74105d8685220b8aa5f"
+    },
+    {
+      "path": "output/speech/02.mp3",
+      "sha256": "4ade90731cbed7c9411aea06a87d10a6e388530c654ecdb35d1560981297df6f"
+    },
+    {
+      "path": "output/speech/03.mp3",
+      "sha256": "0afbf1e246fbf38ed54dfe8b84eb97c53e7a058e59b9430f146102c602704ce4"
+    },
+    {
+      "path": "output/speech/04.mp3",
+      "sha256": "82558f192a047ee9ceb19385757c9602f382011c335cbdb69fd2849b7e6bc0d0"
+    },
+    {
+      "path": "output/speech/05.mp3",
+      "sha256": "1aa6b44c6426190ca3fb5993d9682b73f9fefda485237584057be9e361b731bc"
+    },
+    {
+      "path": "output/speech/06.mp3",
+      "sha256": "93d5fb88c5c085092ca94dbe6f404545ad73beb4135f17412458e3dc5b53307a"
+    },
+    {
+      "path": "output/speech/07.mp3",
+      "sha256": "7298e8e238d78d021316a4c5a4855ba1d5d033c2f31358d6a4b29ec70c1943c4"
+    },
+    {
+      "path": "output/speech/08.mp3",
+      "sha256": "4990ae93021e0f8e9dfcfa321bb91f23e983ac49d4c95308fe70dbe50bad46a4"
+    },
+    {
+      "path": "output/speech/09.mp3",
+      "sha256": "3f62b82659b9d137716a5f6d03dad60ff1a61ae75a4fb6f4fce90793a3f68dca"
+    },
+    {
+      "path": "output/speech/10.mp3",
+      "sha256": "7ca05ea1b2693e04a5a40fe74ce4113ffc69efc1ff808bea9900646685f37b91"
+    }
+  ]
+}

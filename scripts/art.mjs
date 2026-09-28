@@ -1,4 +1,5 @@
 import {createCanvas, GlobalFonts} from '@napi-rs/canvas';
+import {quizAnswerStart} from './teaching.mjs';
 
 GlobalFonts.registerFromPath('/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc', 'Noto CJK');
 GlobalFonts.registerFromPath('/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc', 'Noto CJK Bold');
@@ -457,7 +458,7 @@ function quiz(context, time, scene) {
   if (time < nextTime) {
     const question = questions[active];
     const cue = cues.find(item => item.text.includes(question.match));
-    const answered = ease((time - (cue?.end ?? scene.duration * (0.18 + active * 0.17))) / 0.5);
+    const answered = ease((time - quizAnswerStart(scene, cue)) / 0.5);
     rect(context, 190, 315, 1540, 424, palette.white, 28, palette.line);
     tag(context, `问题 ${active + 1} / 3`, 250, 368);
     text(context, question.text, 960, 460, 49, palette.ink, 700, 'center');

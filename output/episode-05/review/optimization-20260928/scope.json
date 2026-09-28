@@ -1,0 +1,29 @@
+{
+  "pass": true,
+  "unchangedEpisodes": [
+    {
+      "episode": "01",
+      "sha256": "2ebb945dcb5ddb6e6bed779a10e767620afd36ccb0bceabd6cafb35b1f7259b4",
+      "unchanged": true
+    },
+    {
+      "episode": "02",
+      "sha256": "4db7072d756ae84c5178ee7602562d80fb383be23117a0605827fe8b29604a3f",
+      "unchanged": true
+    },
+    {
+      "episode": "03",
+      "sha256": "40acea9842e948bded593e7cf09f229e626f1b7b09d606e66450b6ba4a2c9df1",
+      "unchanged": true
+    },
+    {
+      "episode": "04",
+      "sha256": "318475b8979f9f76098d786c8e03175beb27ecc866e17106e0d6740f95951a49",
+      "unchanged": true
+    }
+  ],
+  "audioPacketsIdentical": true,
+  "subtitlesIdentical": true,
+  "beforeSha256": "c733a050d23a9ec831aebca00ef19f051816aa927a2033b803d27e068db974be",
+  "afterSha256": "0dac85d6f47c8afc1e8982ada18b2513e344583e46bb27588580248330d31e41"
+}

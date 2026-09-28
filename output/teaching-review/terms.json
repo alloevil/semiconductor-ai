@@ -1,0 +1,101 @@
+[
+  {
+    "episode": "02",
+    "scene": "03",
+    "phrase": "叫光刻胶",
+    "text": "光刻胶：对光敏感、用于形成图案的材料",
+    "start": 6.458,
+    "end": 13.458,
+    "globalStart": 77.52466666666666
+  },
+  {
+    "episode": "02",
+    "scene": "07",
+    "phrase": "平坦化",
+    "text": "CMP：化学与机械共同作用，让表面更平整",
+    "start": 19.819,
+    "end": 26.819,
+    "globalStart": 226.68566666666666
+  },
+  {
+    "episode": "02",
+    "scene": "08",
+    "phrase": "对得准",
+    "text": "套刻：不同层的图形是否对准",
+    "start": 9.986,
+    "end": 20.694,
+    "globalStart": 253.25266666666667
+  },
+  {
+    "episode": "03",
+    "scene": "02",
+    "phrase": "无晶圆厂",
+    "text": "Fabless：以设计为主，没有自己的晶圆制造厂",
+    "start": 22.625,
+    "end": 29.625,
+    "globalStart": 57.525
+  },
+  {
+    "episode": "03",
+    "scene": "03",
+    "phrase": "晶圆代工厂",
+    "text": "Foundry：按约定为客户制造芯片",
+    "start": 1.1,
+    "end": 8.1,
+    "globalStart": 70.43333333333332
+  },
+  {
+    "episode": "03",
+    "scene": "07",
+    "phrase": "EDA",
+    "text": "EDA：帮助工程师设计、验证电路的工具",
+    "start": 4.0969999999999995,
+    "end": 12.069,
+    "globalStart": 220.16366666666667
+  },
+  {
+    "episode": "03",
+    "scene": "07",
+    "phrase": "IP 核",
+    "text": "IP 核：可复用的电路设计模块，仍需系统验证",
+    "start": 12.069,
+    "end": 19.097,
+    "globalStart": 228.13566666666665
+  },
+  {
+    "episode": "03",
+    "scene": "08",
+    "phrase": "IDM",
+    "text": "IDM：既设计芯片，也拥有制造能力的企业模式",
+    "start": 1.1,
+    "end": 10.763,
+    "globalStart": 253.66666666666666
+  },
+  {
+    "episode": "04",
+    "scene": "01",
+    "phrase": "固定组织图",
+    "text": "SOP：标准作业程序；本片不是某公司的内部 SOP",
+    "start": 25.819,
+    "end": 33.416,
+    "globalStart": 25.819
+  },
+  {
+    "episode": "04",
+    "scene": "04",
+    "phrase": "物料清单",
+    "text": "BOM：物料清单，记录组成产品所需的物料",
+    "start": 6.097,
+    "end": 13.097000000000001,
+    "globalStart": 114.23033333333333
+  },
+  {
+    "episode": "04",
+    "scene": "07",
+    "phrase": "配方吗",
+    "text": "配方：加工步骤及其参数，不只是化学配比",
+    "start": 1.1,
+    "end": 8.1,
+    "globalStart": 219.83333333333334
+  }
+]

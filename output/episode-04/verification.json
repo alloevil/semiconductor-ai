@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T15:55:11.261Z",
+  "generatedAt": "2026-09-28T01:29:43.059Z",
   "pass": true,
   "file": "output/episode-04/episode-04.mp4",
-  "bytes": 13636625,
-  "sha256": "318475b8979f9f76098d786c8e03175beb27ecc866e17106e0d6740f95951a49",
+  "bytes": 13689595,
+  "sha256": "0936b076be33a40b12a4ca52a1a53b55e99b96b3bd0cccaaa2b2a14ad717e4ee",
   "duration": 374.567,
   "checks": [
     {
@@ -186,22 +186,22 @@
     {
       "name": "场景 03 主画面随时间变化",
       "pass": true,
-      "evidence": "13.35% of diagram pixels changed (subtitles excluded)"
+      "evidence": "25.38% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 04 主画面随时间变化",
       "pass": true,
-      "evidence": "10.90% of diagram pixels changed (subtitles excluded)"
+      "evidence": "10.56% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 05 主画面随时间变化",
       "pass": true,
-      "evidence": "11.14% of diagram pixels changed (subtitles excluded)"
+      "evidence": "5.62% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 06 主画面随时间变化",
       "pass": true,
-      "evidence": "13.51% of diagram pixels changed (subtitles excluded)"
+      "evidence": "13.07% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 07 主画面随时间变化",
@@ -211,12 +211,12 @@
     {
       "name": "场景 08 主画面随时间变化",
       "pass": true,
-      "evidence": "10.15% of diagram pixels changed (subtitles excluded)"
+      "evidence": "15.01% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 09 主画面随时间变化",
       "pass": true,
-      "evidence": "10.86% of diagram pixels changed (subtitles excluded)"
+      "evidence": "10.94% of diagram pixels changed (subtitles excluded)"
     },
     {
       "name": "场景 10 主画面随时间变化",

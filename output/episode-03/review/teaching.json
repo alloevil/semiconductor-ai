@@ -1,0 +1,266 @@
+{
+  "pass": true,
+  "videoSha256": "736f49882a45492b651ff540e064d46ad65178193fa9ab65082e115bfedc84c9",
+  "results": [
+    {
+      "name": "教学时间轴版本正确",
+      "pass": true,
+      "evidence": "2026-09-28-cue-sync"
+    },
+    {
+      "name": "原始合成旁白未改动",
+      "pass": true,
+      "evidence": "10 MP3 SHA-256 comparisons"
+    },
+    {
+      "name": "术语提示与语句同步：无晶圆厂",
+      "pass": true,
+      "evidence": {
+        "start": 22.625,
+        "text": "Fabless：以设计为主，没有自己的晶圆制造厂"
+      }
+    },
+    {
+      "name": "术语提示不越界：无晶圆厂",
+      "pass": true,
+      "evidence": 599.260009765625
+    },
+    {
+      "name": "术语提示与语句同步：晶圆代工厂",
+      "pass": true,
+      "evidence": {
+        "start": 1.1,
+        "text": "Foundry：按约定为客户制造芯片"
+      }
+    },
+    {
+      "name": "术语提示不越界：晶圆代工厂",
+      "pass": true,
+      "evidence": 439
+    },
+    {
+      "name": "术语提示与语句同步：EDA",
+      "pass": true,
+      "evidence": {
+        "start": 4.0969999999999995,
+        "text": "EDA：帮助工程师设计、验证电路的工具"
+      }
+    },
+    {
+      "name": "术语提示不越界：EDA",
+      "pass": true,
+      "evidence": 520.780029296875
+    },
+    {
+      "name": "术语提示与语句同步：IP 核",
+      "pass": true,
+      "evidence": {
+        "start": 12.069,
+        "text": "IP 核：可复用的电路设计模块，仍需系统验证"
+      }
+    },
+    {
+      "name": "术语提示不越界：IP 核",
+      "pass": true,
+      "evidence": 586.5
+    },
+    {
+      "name": "术语提示与语句同步：IDM",
+      "pass": true,
+      "evidence": {
+        "start": 1.1,
+        "text": "IDM：既设计芯片，也拥有制造能力的企业模式"
+      }
+    },
+    {
+      "name": "术语提示不越界：IDM",
+      "pass": true,
+      "evidence": 606.010009765625
+    },
+    {
+      "name": "旁白主题高亮：EDA / IP",
+      "pass": true,
+      "evidence": {
+        "start": 4.0969999999999995,
+        "end": 12.069,
+        "sentence": "电子设计自动化，通常简称为 EDA，帮助设计、验证和实现复杂电路。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：接口与工艺验证",
+      "pass": true,
+      "evidence": {
+        "start": 27.416,
+        "end": 34.625,
+        "sentence": "它们要与目标工艺、接口和系统要求匹配，授权方式也各不相同。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：外部制造 / 封测合作",
+      "pass": true,
+      "evidence": {
+        "start": 15.083,
+        "end": 25.166,
+        "sentence": "不过，现实业务往往交叉：一家企业可能同时做代工，也可能把部分产品交给外部制造或封测。"
+      }
+    },
+    {
+      "name": "复习题停顿数量",
+      "pass": true,
+      "evidence": 2
+    },
+    {
+      "name": "答案前保留3秒：题2",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 6.652,
+        "answerStart": 9.652000000000001
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题2",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门 / 产业链",
+        "EPISODE 03",
+        "从产业地图，走向设备公司。",
+        "用两个问题复习角色的区别",
+        "10",
+        "/ 10",
+        "问题 1 / 2",
+        "设备商就是晶圆厂吗？",
+        "想一想…",
+        "先看交付对象，再看企业名字。",
+        "下一集：一台设备的生命周期",
+        "教学示意 / 中文旁白由 AI 合成",
+        "设备商和晶圆厂，是一回事吗？"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题2",
+      "pass": true,
+      "evidence": "不是，一个提供制造工具，另一个使用工具加工晶圆。"
+    },
+    {
+      "name": "实际MP4停顿静音：题2",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          330.8686875,
+          333.5686875
+        ]
+      }
+    },
+    {
+      "name": "答案前保留3秒：题4",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 19.68,
+        "answerStart": 22.68
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题4",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门 / 产业链",
+        "EPISODE 03",
+        "从产业地图，走向设备公司。",
+        "用两个问题复习角色的区别",
+        "10",
+        "/ 10",
+        "问题 2 / 2",
+        "设计公司可以不懂制造吗？",
+        "想一想…",
+        "先看交付对象，再看企业名字。",
+        "下一集：一台设备的生命周期",
+        "教学示意 / 中文旁白由 AI 合成",
+        "没有晶圆厂的设计公司，就不需要懂制造吗？"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题4",
+      "pass": true,
+      "evidence": "也不是，设计必须考虑制造规则。"
+    },
+    {
+      "name": "实际MP4停顿静音：题4",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          343.8966875,
+          346.5966875
+        ]
+      }
+    }
+  ],
+  "samples": [
+    {
+      "scene": "02",
+      "time": 23.125,
+      "kind": "term",
+      "label": "无晶圆厂"
+    },
+    {
+      "scene": "03",
+      "time": 1.6,
+      "kind": "term",
+      "label": "晶圆代工厂"
+    },
+    {
+      "scene": "07",
+      "time": 4.5969999999999995,
+      "kind": "term",
+      "label": "EDA"
+    },
+    {
+      "scene": "07",
+      "time": 12.569,
+      "kind": "term",
+      "label": "IP 核"
+    },
+    {
+      "scene": "08",
+      "time": 1.6,
+      "kind": "term",
+      "label": "IDM"
+    },
+    {
+      "scene": "07",
+      "time": 8.083,
+      "kind": "focus",
+      "label": "EDA / IP"
+    },
+    {
+      "scene": "07",
+      "time": 31.0205,
+      "kind": "focus",
+      "label": "接口与工艺验证"
+    },
+    {
+      "scene": "08",
+      "time": 20.1245,
+      "kind": "focus",
+      "label": "外部制造 / 封测合作"
+    },
+    {
+      "scene": "10",
+      "time": 8.152000000000001,
+      "kind": "question-hold",
+      "label": "设备商和晶圆厂，是一回事吗？"
+    },
+    {
+      "scene": "10",
+      "time": 21.18,
+      "kind": "question-hold",
+      "label": "没有晶圆厂的设计公司，就不需要懂制造吗？"
+    }
+  ],
+  "limitations": "Sentence-aligned cues, not word-level alignment; checks do not measure learner comprehension."
+}

@@ -1,9 +1,9 @@
 {
   "episode": "03",
-  "videoSha256": "40acea9842e948bded593e7cf09f229e626f1b7b09d606e66450b6ba4a2c9df1",
+  "videoSha256": "736f49882a45492b651ff540e064d46ad65178193fa9ab65082e115bfedc84c9",
   "method": "Final MP4 decoded to 16kHz PCM; Whisper base CPU int8, zh, beam5, no text prompt; traditional-to-simplified normalization; not a human listening test",
   "characters": 1207,
-  "editDistance": 72,
+  "editDistance": 71,
   "results": [
     {
       "scene": "01",
@@ -71,9 +71,9 @@
     {
       "scene": "10",
       "reference": "最后检查一下。设备商和晶圆厂，是一回事吗？不是，一个提供制造工具，另一个使用工具加工晶圆。没有晶圆厂的设计公司，就不需要懂制造吗？也不是，设计必须考虑制造规则。到这里，你已经有了产业链地图。下一集，我们走进设备公司，看看一台机器怎样被研发、装配、交付，并长期服务客户。",
-      "recognized": "最後檢查一下,設備商和經援廠是一回事嗎?不是,一個提供製造工具,另一個使用工具加工經援。沒有經援廠的設計公司,就不需要懂製造嗎?也不是,設計必須考慮製造規則。到這裡,你已經有了產業鏈地圖。下一集,我們走進設備公司,看看一台機器怎樣被研發、裝備,交付,並長期服務客戶。",
+      "recognized": "最後檢查一下,設備商和經援廠是一回事嗎?不是,一個提供製造工具,另一個使用工具加工經援。沒有經援廠的設計公司,就不需要懂製造嗎?也不是,設計必須考慮製造規則。到這裡,你已經有了產業鏈地圖。下一集,我們走進設備公司,看看一台機器怎樣被研發,裝配,交付,並長期服務客戶。",
       "characters": 116,
-      "editDistance": 7
+      "editDistance": 6
     }
   ]
 }

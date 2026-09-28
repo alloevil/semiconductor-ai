@@ -1,0 +1,47 @@
+{
+  "method": "Sample values immediately around sentence-boundary insertion in original 48kHz PCM; all samples preserved, only zero samples inserted",
+  "results": [
+    {
+      "episode": "01",
+      "sourceCut": 6.597,
+      "lastSample": 0,
+      "nextSample": 0
+    },
+    {
+      "episode": "01",
+      "sourceCut": 11.763,
+      "lastSample": 0,
+      "nextSample": 0
+    },
+    {
+      "episode": "01",
+      "sourceCut": 16.569,
+      "lastSample": 0,
+      "nextSample": 0
+    },
+    {
+      "episode": "02",
+      "sourceCut": 5.138,
+      "lastSample": 0,
+      "nextSample": 0
+    },
+    {
+      "episode": "02",
+      "sourceCut": 12.194,
+      "lastSample": 0,
+      "nextSample": 0
+    },
+    {
+      "episode": "03",
+      "sourceCut": 5.652,
+      "lastSample": 0,
+      "nextSample": 0
+    },
+    {
+      "episode": "03",
+      "sourceCut": 15.68,
+      "lastSample": 0,
+      "nextSample": 0
+    }
+  ]
+}

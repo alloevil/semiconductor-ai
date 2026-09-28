@@ -6,7 +6,16 @@
 
 **给零基础观众的中文科普动画：先看懂半导体，再理解芯片制造、设备公司与 AI。**
 
-**五集制作齐全，约 30 分钟。** 每集都有原创动画、中文 AI 配音、内嵌字幕、旁白分镜和验证记录。仍为**科普试播版**，未经行业专家审校，配音使用条款尚待核实。
+**五集制作齐全，约 30 分 45 秒。** 每集都有原创动画、中文 AI 配音、内嵌字幕、旁白分镜和验证记录。仍为**科普试播版**，未经行业专家审校，配音使用条款尚待核实。
+
+## 2026-09-28 教学体验更新
+
+- 7 道复习题的答案前增加 3 秒静音，画面与字幕保留问题，不提前显示答案。
+- 11 条术语提示按对应旁白句子出现，解释 EDA、IP、IDM、配方、套刻等。
+- 第三至第五集节点高亮按当前旁白句子匹配主题，不再定时轮播；同一句可以高亮多个相关节点。
+- 修正第五集业务分区、关联键和独立评测三处图解。50 段原始合成旁白未改动，无新增配音请求。
+
+[更新与验证记录](output/teaching-review/更新说明.md) · `npm run check:all`：303 项检查通过。未开展零基础观众对照试验，不宣称理解率提升。
 
 ## 五集观看目录
 
@@ -14,9 +23,9 @@
 
 | 集数 | 主题 | 成片 | 脚本 |
 | --- | --- | --- | --- |
-| 01 | 半导体、晶体管、芯片与晶圆 | [MP4 · 5:36](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-01.mp4) | [旁白与分镜](content/episode-01.md) |
-| 02 | 芯片怎样制造出来 | [MP4 · 6:01](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-02/episode-02.mp4) | [旁白与来源](content/episode-02.md) |
-| 03 | 产业链：谁设计、谁制造、谁提供工具 | [MP4 · 6:09](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-03/episode-03.mp4) | [旁白与分镜](content/episode-03.md) |
+| 01 | 半导体、晶体管、芯片与晶圆 | [MP4 · 5:45](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-01.mp4) | [旁白与分镜](content/episode-01.md) |
+| 02 | 芯片怎样制造出来 | [MP4 · 6:07](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-02/episode-02.mp4) | [旁白与来源](content/episode-02.md) |
+| 03 | 产业链：谁设计、谁制造、谁提供工具 | [MP4 · 6:15](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-03/episode-03.mp4) | [旁白与分镜](content/episode-03.md) |
 | 04 | 设备公司：研发、交付与长期服务 | [MP4 · 6:15](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-04/episode-04.mp4) | [旁白与分镜](content/episode-04.md) |
 | 05 | AI：具体问题、数据与验收 | [MP4 · 6:23](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-05/episode-05.mp4) | [旁白与分镜](content/episode-05.md) |
 
@@ -28,7 +37,7 @@
 
 **[下载 MP4](https://github.com/alloevil/semiconductor-ai/raw/refs/heads/main/output/episode-01.mp4)** · [查看视频文件](output/episode-01.mp4) · [中文字幕](output/episode-01.zh-CN.srt) · [旁白与分镜](content/episode-01.md)
 
-5 分 36 秒 / 1080p / 30 fps / 13.4 MiB / 中文 AI 配音 / 已内嵌中文字幕。
+5 分 45 秒 / 1080p / 30 fps / 13.5 MiB / 中文 AI 配音 / 已内嵌中文字幕。
 
 [![第一集真实画面：材料、器件、电路与晶圆加工载体的关系](output/frames/video-09.png)](output/episode-01.mp4)
 
@@ -65,7 +74,7 @@
 
 ## 验证证据
 
-`npm run check:all` 检查全部五集；每集报告位于各自输出目录，完整结果见 [series-verification.json](output/series-verification.json)。下面保留第一集的本机实测记录，不是其他集或跨平台兼容性承诺：
+`npm run check:all` 检查全部五集；每集报告位于各自输出目录，完整结果见 [series-verification.json](output/series-verification.json)。下面为旧版首发时的本机实测记录，仅供历史参考，**不作为当前视频的验收结论**；新版见全套机器验证和教学体验更新：
 
 - `npm run check`：**42 项检查通过**，全部 10,094 帧及音轨解码通过。
 - Chrome 153 正常速度播完，12 个位置跳转通过；正常播放记录到 1 帧丢帧。

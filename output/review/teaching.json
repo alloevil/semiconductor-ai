@@ -1,0 +1,177 @@
+{
+  "pass": true,
+  "videoSha256": "b9cf8907cba048acc7a029ccda43fac137c5835a3d98a0e9b347434d54b41ba6",
+  "results": [
+    {
+      "name": "教学时间轴版本正确",
+      "pass": true,
+      "evidence": "2026-09-28-cue-sync"
+    },
+    {
+      "name": "原始合成旁白未改动",
+      "pass": true,
+      "evidence": "10 MP3 SHA-256 comparisons"
+    },
+    {
+      "name": "复习题停顿数量",
+      "pass": true,
+      "evidence": 3
+    },
+    {
+      "name": "答案前保留3秒：题2",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 7.597,
+        "answerStart": 10.597000000000001
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题2",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门  /  从概念到设备",
+        "EPISODE 01",
+        "三个问题，检查你的第一张地图。",
+        "不背术语：能分清关系，就已经迈出第一步",
+        "10",
+        "/ 10",
+        "问题 1 / 3",
+        "半导体是一种材料类别吗？",
+        "想一想…",
+        "先看懂基本概念，再理解制造、设备与 AI。",
+        "半导体，是不是一种材料类别？",
+        "原创原理示意 · 非真实比例",
+        "中文旁白由 AI 合成"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题2",
+      "pass": true,
+      "evidence": "是。"
+    },
+    {
+      "name": "实际MP4停顿静音：题2",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          299.9803125,
+          302.6803125
+        ]
+      }
+    },
+    {
+      "name": "答案前保留3秒：题4",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 15.763,
+        "answerStart": 18.762999999999998
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题4",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门  /  从概念到设备",
+        "EPISODE 01",
+        "三个问题，检查你的第一张地图。",
+        "不背术语：能分清关系，就已经迈出第一步",
+        "10",
+        "/ 10",
+        "问题 2 / 3",
+        "晶圆就是封装好的芯片吗？",
+        "想一想…",
+        "先看懂基本概念，再理解制造、设备与 AI。",
+        "晶圆，是不是一块已经封装好的芯片？",
+        "原创原理示意 · 非真实比例",
+        "中文旁白由 AI 合成"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题4",
+      "pass": true,
+      "evidence": "不是。"
+    },
+    {
+      "name": "实际MP4停顿静音：题4",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          308.1463125,
+          310.8463125
+        ]
+      }
+    },
+    {
+      "name": "答案前保留3秒：题6",
+      "pass": true,
+      "evidence": {
+        "silenceStart": 23.569,
+        "answerStart": 26.569
+      }
+    },
+    {
+      "name": "停顿期间不提前显示答案：题6",
+      "pass": true,
+      "evidence": [
+        "FIELD NOTES",
+        "半导体入门  /  从概念到设备",
+        "EPISODE 01",
+        "三个问题，检查你的第一张地图。",
+        "不背术语：能分清关系，就已经迈出第一步",
+        "10",
+        "/ 10",
+        "问题 3 / 3",
+        "所有芯片都是处理器吗？",
+        "想一想…",
+        "先看懂基本概念，再理解制造、设备与 AI。",
+        "所有芯片，都用来做处理器吗？",
+        "原创原理示意 · 非真实比例",
+        "中文旁白由 AI 合成"
+      ]
+    },
+    {
+      "name": "答案开始后显示结果：题6",
+      "pass": true,
+      "evidence": "也不是。"
+    },
+    {
+      "name": "实际MP4停顿静音：题6",
+      "pass": true,
+      "evidence": {
+        "rms": 0,
+        "threshold": 0.001,
+        "interval": [
+          315.9523125,
+          318.6523125
+        ]
+      }
+    }
+  ],
+  "samples": [
+    {
+      "scene": "10",
+      "time": 9.097000000000001,
+      "kind": "question-hold",
+      "label": "半导体，是不是一种材料类别？"
+    },
+    {
+      "scene": "10",
+      "time": 17.262999999999998,
+      "kind": "question-hold",
+      "label": "晶圆，是不是一块已经封装好的芯片？"
+    },
+    {
+      "scene": "10",
+      "time": 25.069,
+      "kind": "question-hold",
+      "label": "所有芯片，都用来做处理器吗？"
+    }
+  ],
+  "limitations": "Sentence-aligned cues, not word-level alignment; checks do not measure learner comprehension."
+}

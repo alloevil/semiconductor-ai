@@ -1,0 +1,111 @@
+{
+  "pass": true,
+  "videoSha256": "0936b076be33a40b12a4ca52a1a53b55e99b96b3bd0cccaaa2b2a14ad717e4ee",
+  "results": [
+    {
+      "name": "教学时间轴版本正确",
+      "pass": true,
+      "evidence": "2026-09-28-cue-sync"
+    },
+    {
+      "name": "原始合成旁白未改动",
+      "pass": true,
+      "evidence": "10 MP3 SHA-256 comparisons"
+    },
+    {
+      "name": "术语提示与语句同步：固定组织图",
+      "pass": true,
+      "evidence": {
+        "start": 25.819,
+        "text": "SOP：标准作业程序；本片不是某公司的内部 SOP"
+      }
+    },
+    {
+      "name": "术语提示不越界：固定组织图",
+      "pass": true,
+      "evidence": 648.1199951171875
+    },
+    {
+      "name": "术语提示与语句同步：物料清单",
+      "pass": true,
+      "evidence": {
+        "start": 6.097,
+        "text": "BOM：物料清单，记录组成产品所需的物料"
+      }
+    },
+    {
+      "name": "术语提示不越界：物料清单",
+      "pass": true,
+      "evidence": 559.8200073242188
+    },
+    {
+      "name": "术语提示与语句同步：配方吗",
+      "pass": true,
+      "evidence": {
+        "start": 1.1,
+        "text": "配方：加工步骤及其参数，不只是化学配比"
+      }
+    },
+    {
+      "name": "术语提示不越界：配方吗",
+      "pass": true,
+      "evidence": 551
+    },
+    {
+      "name": "旁白主题高亮：物料清单",
+      "pass": true,
+      "evidence": {
+        "start": 6.097,
+        "end": 13.055,
+        "sentence": "物料清单说明需要什么，版本和变更记录帮助确认实际装的是什么。"
+      }
+    },
+    {
+      "name": "旁白主题高亮：授权 / 脱敏",
+      "pass": true,
+      "evidence": {
+        "start": 22.375,
+        "end": 28.388,
+        "sentence": "客户数据能否传回、如何脱敏和使用，必须遵守约定。"
+      }
+    },
+    {
+      "name": "复习题停顿数量",
+      "pass": true,
+      "evidence": 0
+    }
+  ],
+  "samples": [
+    {
+      "scene": "01",
+      "time": 26.319,
+      "kind": "term",
+      "label": "固定组织图"
+    },
+    {
+      "scene": "04",
+      "time": 6.597,
+      "kind": "term",
+      "label": "物料清单"
+    },
+    {
+      "scene": "07",
+      "time": 1.6,
+      "kind": "term",
+      "label": "配方吗"
+    },
+    {
+      "scene": "04",
+      "time": 9.576,
+      "kind": "focus",
+      "label": "物料清单"
+    },
+    {
+      "scene": "09",
+      "time": 25.381500000000003,
+      "kind": "focus",
+      "label": "授权 / 脱敏"
+    }
+  ],
+  "limitations": "Sentence-aligned cues, not word-level alignment; checks do not measure learner comprehension."
+}

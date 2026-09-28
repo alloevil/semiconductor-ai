@@ -8,6 +8,7 @@
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-10%"
   },
+  "teachingRevision": "2026-09-28-cue-sync",
   "scenes": [
     {
       "id": "01",
@@ -44,6 +45,7 @@
           "text": "注意，这是一张入门地图，不是一份真实的制造配方。"
         }
       ],
+      "pauses": [],
       "fingerprint": "fdaa7f4ef61b6587cde76ecc5d63af42b377f47fc11260c96a2c4be5e5e0b69d"
     },
     {
@@ -86,6 +88,7 @@
           "text": "图里的彩色块，只用来区分材料，不代表真实颜色。"
         }
       ],
+      "pauses": [],
       "fingerprint": "0915e2ff334ab6cff536d3ae41ec408cf0744376669dce72e96b7597036156be"
     },
     {
@@ -123,6 +126,7 @@
           "text": "这里我们只用正性光刻胶举例，其他材料和工艺的反应可能不同。"
         }
       ],
+      "pauses": [],
       "fingerprint": "f5accb4453dc93cda03e2e8907e29db83373b028291422aedb0ad941fc1b22e6"
     },
     {
@@ -160,6 +164,7 @@
           "text": "此时，被保护的目标薄膜还没有按图案刻掉。"
         }
       ],
+      "pauses": [],
       "fingerprint": "e620e4ad9b3106d48b9ec4b031b3dc7bd77588df79d589cd3d2a8e91118d1d31"
     },
     {
@@ -197,6 +202,7 @@
           "text": "因此，刻得越快、越深，并不自动代表做得越好。"
         }
       ],
+      "pauses": [],
       "fingerprint": "c84578f5846d8eea5fb4cdc66782bb9f15fd9049575252b03b66957794109919"
     },
     {
@@ -234,6 +240,7 @@
           "text": "画面中的颗粒被放大了，真实工厂里很小的污染也可能造成问题。"
         }
       ],
+      "pauses": [],
       "fingerprint": "97a9c9be2df709ad34dceb38d16343a4985870b0c2a279a2e3818176c2413364"
     },
     {
@@ -271,6 +278,7 @@
           "text": "这些步骤如何组合，取决于具体器件，不能把这张概念图当成固定顺序。"
         }
       ],
+      "pauses": [],
       "fingerprint": "ffd36e4dba4ef70eee3b5f420400d6b8d6ac2184972c82ca2b8972f5e805ff83"
     },
     {
@@ -308,6 +316,7 @@
           "text": "屏幕上的曲线只是教学示例，不是工厂实测，也不能据此判断任何真实设备的表现。"
         }
       ],
+      "pauses": [],
       "fingerprint": "b49a3497b4d42e78442b56bc5fa897960019caf05533cdd4e100ea0c8ac43d6f"
     },
     {
@@ -345,6 +354,7 @@
           "text": "不同产品，尤其先进封装，具体顺序和组织方式并不完全相同。"
         }
       ],
+      "pauses": [],
       "fingerprint": "9a61efcaceed3a7735e60afc913fb31602254368e780c26ebb474737e27ff661"
     },
     {
@@ -352,47 +362,63 @@
       "title": "你已经能读懂设备的名字了",
       "narration": "现在试着回答：光刻机是在直接雕刻硅片吗？不是，它主要负责把图案转移到光刻胶上。清洗只在最后做吗？也不是，它贯穿制造过程。沉积、刻蚀、清洗、检测这些名字，背后都是具体的加工或检查任务。下一集，我们把视角拉到公司：谁设计芯片，谁制造芯片，又是谁提供这些机器和材料？",
       "start": 316.03333333333336,
-      "duration": 35.8,
-      "frames": 1074,
+      "duration": 41.8,
+      "frames": 1254,
       "sourceDuration": 33,
       "cues": [
         {
           "start": 1.1,
-          "end": 6.138,
+          "end": 9.138,
           "text": "现在试着回答：光刻机是在直接雕刻硅片吗？"
         },
         {
-          "start": 6.138,
-          "end": 10.819,
+          "start": 9.138,
+          "end": 13.819,
           "text": "不是，它主要负责把图案转移到光刻胶上。"
         },
         {
-          "start": 10.819,
-          "end": 13.194,
+          "start": 13.819,
+          "end": 19.194000000000003,
           "text": "清洗只在最后做吗？"
         },
         {
-          "start": 13.194,
-          "end": 16.387999999999998,
+          "start": 19.194000000000003,
+          "end": 22.387999999999998,
           "text": "也不是，它贯穿制造过程。"
         },
         {
-          "start": 16.387999999999998,
-          "end": 24.5,
+          "start": 22.387999999999998,
+          "end": 30.5,
           "text": "沉积、刻蚀、清洗、检测这些名字，背后都是具体的加工或检查任务。"
         },
         {
-          "start": 24.5,
-          "end": 33.944,
+          "start": 30.5,
+          "end": 39.944,
           "text": "下一集，我们把视角拉到公司：谁设计芯片，谁制造芯片，又是谁提供这些机器和材料？"
+        }
+      ],
+      "pauses": [
+        {
+          "questionIndex": 0,
+          "answerIndex": 1,
+          "sourceCut": 5.138,
+          "start": 6.138,
+          "duration": 3
+        },
+        {
+          "questionIndex": 2,
+          "answerIndex": 3,
+          "sourceCut": 12.194,
+          "start": 16.194000000000003,
+          "duration": 3
         }
       ],
       "fingerprint": "0325c2551626292bf031034139aefa26b986a5da2740051589f721e18ea18f6e"
     }
   ],
-  "narrationDuration": 351.83333333333337,
+  "narrationDuration": 357.83333333333337,
   "creditsDuration": 9,
-  "duration": 360.83333333333337,
+  "duration": 366.83333333333337,
   "disclosure": "中文旁白由 AI 合成 / Microsoft zh-CN-XiaoxiaoNeural / edge-tts",
-  "generatedAt": "2026-09-27T15:07:02.119Z"
+  "generatedAt": "2026-09-27T23:43:27.241Z"
 }

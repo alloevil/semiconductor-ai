@@ -1,0 +1,42 @@
+{
+  "pass": false,
+  "scope": "Rendered source text and arrow regression contracts at 65% of scenes 06–08. Does not prove conceptual correctness; compare actual decoded frames separately.",
+  "results": [
+    {
+      "name": "产品算法与内部提效有独立标题",
+      "pass": false
+    },
+    {
+      "name": "内部提效包含具体任务而非缺陷分类结果",
+      "pass": false
+    },
+    {
+      "name": "数据字段明确为联合关联键",
+      "pass": false
+    },
+    {
+      "name": "字段之间不保留原来的流程箭头",
+      "pass": false
+    },
+    {
+      "name": "关联前强调授权与客户边界",
+      "pass": false
+    },
+    {
+      "name": "模型在评测前冻结",
+      "pass": false
+    },
+    {
+      "name": "两种方法使用同一份留出数据",
+      "pass": false
+    },
+    {
+      "name": "同一测试节点分别指向两种方法",
+      "pass": false
+    },
+    {
+      "name": "训练数据连接冻结模型而不是孤立标签",
+      "pass": false
+    }
+  ]
+}

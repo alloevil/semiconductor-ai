@@ -1,126 +1,68 @@
 {
+  "episode": "01",
   "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
-  "source": "complete MP4 loaded as Blob to avoid HTTP Range limitation",
+  "method": "12 seek targets on current MP4 Blob, verified before normal playback",
   "results": [
     {
-      "target": 0.5,
-      "actual": 0.5,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 24,
-      "width": 1920,
-      "height": 1080
+      "target": 2,
+      "actual": 2,
+      "pass": true
     },
     {
-      "target": 29.8,
-      "actual": 29.8,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 11,
-      "width": 1920,
-      "height": 1080
+      "target": 31.733333333333334,
+      "actual": 31.733333,
+      "pass": true
     },
     {
-      "target": 62.1,
-      "actual": 62.1,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 17,
-      "width": 1920,
-      "height": 1080
+      "target": 64.03333333333333,
+      "actual": 64.033333,
+      "pass": true
     },
     {
-      "target": 94.3,
-      "actual": 94.3,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 11,
-      "width": 1920,
-      "height": 1080
+      "target": 96.26666666666667,
+      "actual": 96.266666,
+      "pass": true
     },
     {
-      "target": 127.5,
-      "actual": 127.5,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 12,
-      "width": 1920,
-      "height": 1080
+      "target": 129.43333333333334,
+      "actual": 129.433333,
+      "pass": true
     },
     {
-      "target": 159.5,
-      "actual": 159.5,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 17,
-      "width": 1920,
-      "height": 1080
+      "target": 161.4,
+      "actual": 161.4,
+      "pass": true
     },
     {
-      "target": 190.2,
-      "actual": 190.2,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 15,
-      "width": 1920,
-      "height": 1080
+      "target": 192.06666666666666,
+      "actual": 192.066666,
+      "pass": true
     },
     {
-      "target": 223.1,
-      "actual": 223.1,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 23,
-      "width": 1920,
-      "height": 1080
+      "target": 224.96666666666667,
+      "actual": 224.966666,
+      "pass": true
     },
     {
-      "target": 257.7,
-      "actual": 257.7,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 17,
-      "width": 1920,
-      "height": 1080
+      "target": 259.56666666666666,
+      "actual": 259.566666,
+      "pass": true
     },
     {
-      "target": 292.3,
-      "actual": 292.3,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 10,
-      "width": 1920,
-      "height": 1080
+      "target": 294.23333333333335,
+      "actual": 294.233333,
+      "pass": true
     },
     {
-      "target": 331,
-      "actual": 331,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 76,
-      "width": 1920,
-      "height": 1080
+      "target": 338.4666666666667,
+      "actual": 338.466666,
+      "pass": true
     },
     {
-      "target": 145,
-      "actual": 145,
-      "pass": true,
-      "readyState": 4,
-      "error": null,
-      "milliseconds": 31,
-      "width": 1920,
-      "height": 1080
+      "target": 0,
+      "actual": 0,
+      "pass": true
     }
-  ]
+  ],
+  "videoSha256": "b9cf8907cba048acc7a029ccda43fac137c5835a3d98a0e9b347434d54b41ba6"
 }

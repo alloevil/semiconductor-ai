@@ -1,4 +1,5 @@
 import {palette, text, rect, line, arrow, dot, tag, reveal, callout, wafer, subtitleLines, clamp} from './art.mjs';
+import {quizAnswerStart, termAt} from './teaching.mjs';
 
 export {subtitleLines};
 const ease = value => 1 - (1 - clamp(value)) ** 3;
@@ -230,7 +231,7 @@ function quiz(context, time, scene) {
     const cleaning = time >= second;
     const phrase = cleaning ? '清洗只在最后' : '直接雕刻';
     const questionCue = scene.cues.find(cue => cue.text.includes(phrase));
-    const answered = time > (questionCue?.end ?? 10);
+    const answered = time > quizAnswerStart(scene, questionCue);
     rect(context, 190, 314, 1540, 450, palette.white, 26, palette.line);
     tag(context, `问题 ${cleaning ? '2' : '1'} / 2`, 246, 365);
     text(context, cleaning ? '清洗只在最后做一次吗？' : '光刻机直接把硅片雕出沟槽吗？', 960, 467, 48, palette.ink, 700, 'center');
@@ -258,7 +259,8 @@ export function drawFrame(context, scene, time, timeline) {
   text(context, 'EPISODE 02', 1819, 58, 22, palette.teal, 700, 'right');
   const index = Number(scene.id) - 1;
   text(context, headings[index][0], 100, 160, 54, palette.ink, 700);
-  text(context, headings[index][1], 104, 229, 26, palette.muted);
+  const term = termAt('02', scene, time);
+  text(context, term?.text || headings[index][1], 104, 229, term ? 29 : 26, term ? palette.teal : palette.muted, term ? 600 : 400);
   text(context, scene.id, 1715, 167, 73, palette.teal, 600, 'right');
   text(context, '/ 10', 1736, 181, 26, palette.muted);
   context.save(); context.globalAlpha = Math.min(ease(time / 0.5), ease((scene.duration - time) / 0.5));

@@ -1,5 +1,7 @@
 {
-  "method": "Final MP4 PCM, Whisper base CPU int8, zh, beam 5, no script prompt; traditional-to-simplified normalized; not human listening",
+  "episode": "02",
+  "videoSha256": "b309328d11cc3ccb0db1710b9cb009a4b44f7986425f0867e6aba078a73e0d0b",
+  "method": "Final MP4 decoded to 16kHz PCM; Whisper base CPU int8, zh, beam5, no text prompt; traditional-to-simplified normalization; not a human listening test",
   "characters": 1175,
   "editDistance": 80,
   "results": [

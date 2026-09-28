@@ -8,6 +8,7 @@
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-10%"
   },
+  "teachingRevision": "2026-09-28-cue-sync",
   "scenes": [
     {
       "id": "01",
@@ -44,6 +45,7 @@
           "text": "下面用典型生命周期帮助理解，不把它当成任何一家公司的固定组织图。"
         }
       ],
+      "pauses": [],
       "fingerprint": "6c6fbc08097f7aeeac99742da18ad8393f3a6b21b66e500f2620097aeb4d4209"
     },
     {
@@ -86,6 +88,7 @@
           "text": "但具体标准取决于产品和客户，不能随便把某个数字当作全行业统一门槛。"
         }
       ],
+      "pauses": [],
       "fingerprint": "827d5b63012101fba34af2b59fe982e329edcf0affdff9bebd774ee78652234c"
     },
     {
@@ -123,6 +126,7 @@
           "text": "这里重要的是系统之间的相互影响，不是把所有工程问题都归结为写软件，或者换一个更好的零件。"
         }
       ],
+      "pauses": [],
       "fingerprint": "f7b9b534d409ef82fc5aa00b866a89d4f94dd1fe35d757005c32e9d8db3e2ef5"
     },
     {
@@ -160,6 +164,7 @@
           "text": "对 AI 来说，这些设计、质量和装配资料，也可能比客户现场数据更容易在公司内部取得。"
         }
       ],
+      "pauses": [],
       "fingerprint": "b55eea1c1e48fa219a1e209fab1b67ad29dd7c15e6b602eff24aeab56296f9e3"
     },
     {
@@ -192,6 +197,7 @@
           "text": "关键是每项结论都有记录，而不是一句机器看起来正常。"
         }
       ],
+      "pauses": [],
       "fingerprint": "85793a50a57b694e009c0dd8b79137c143d9058402f1b175b85bb0e6c51188ee"
     },
     {
@@ -229,6 +235,7 @@
           "text": "不同团队之间的协作很重要。"
         }
       ],
+      "pauses": [],
       "fingerprint": "ca6028d622f57b9ab1653255a8ed28c3e918181e1e29a9f36523a3b84fbb1d04"
     },
     {
@@ -266,6 +273,7 @@
           "text": "配方不是聊天助手随意生成后就能上机的指令，需要工程验证和变更管理。"
         }
       ],
+      "pauses": [],
       "fingerprint": "a84435bd874fa7f4fe4d7df0a2ebc19a2abc8d1afe907623bbee0208df3dd15f"
     },
     {
@@ -303,6 +311,7 @@
           "text": "因此，设备公司不只是卖出一台机器就结束；但具体服务合同和责任边界，仍然取决于双方约定。"
         }
       ],
+      "pauses": [],
       "fingerprint": "98edc94678149ef597fc858e2571230ed9b76e4e8d9e5238011c51ea6da91744"
     },
     {
@@ -335,6 +344,7 @@
           "text": "设备装在客户那里，不代表设备商拥有所有生产数据。"
         }
       ],
+      "pauses": [],
       "fingerprint": "2da8130db79c08ea19747449eb2d65db685dba159c64728e46673c867bdd9443"
     },
     {
@@ -367,6 +377,7 @@
           "text": "下一集，我们回到最初的问题：设备公司的 AI 团队，到底能解决哪些问题，又怎样判断项目真的有用？"
         }
       ],
+      "pauses": [],
       "fingerprint": "8cc5d6f53d25cbc9590f21c21e067d7ab92708ef2018f0cb7b639c373dc8dcc4"
     }
   ],
@@ -374,5 +385,5 @@
   "creditsDuration": 9,
   "duration": 374.56666666666666,
   "disclosure": "中文旁白由 AI 合成 / Microsoft zh-CN-XiaoxiaoNeural / edge-tts",
-  "generatedAt": "2026-09-27T15:36:49.136Z"
+  "generatedAt": "2026-09-27T23:43:27.296Z"
 }
